@@ -1,0 +1,35 @@
+# Configuration related to daily quests
+
+daily_quests:
+- id: 1
+  quest_vnums: # Priestess Serizad 65
+  - 5514
+- id: 2
+  quest_vnums: # Fire Alchemist 66
+  - 5517
+  - 5914
+- id: 3
+  quest_vnums: # John the Adventurer 67
+  - 5515
+  - 5905
+  - 5906
+  - 5908
+- id: 4
+  quest_vnums: # Akamur Merchant Military Engineer 68
+  - 5519
+  - 5910
+  - 5911
+  - 5912
+  - 5916
+  - 5917
+  - 5918
+  - 5919
+  - 5920
+  - 5921
+- id: 5
+  quest_vnums: # Fortune-Teller Nuki
+  - 2251
+  - 2252
+  - 2253
+  - 2254
+  - 2255

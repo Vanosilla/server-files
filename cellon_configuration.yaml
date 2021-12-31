@@ -1,0 +1,250 @@
+# Configuration related to Cellon options in Jewelry
+
+options:
+## CELLON LEVEL 1
+- cellon_level: 1
+  price: 700
+  options:
+  - type: Hp
+    range:
+      minimum: 30
+      maximum: 100
+  - type: Mp
+    range:
+      minimum: 50
+      maximum: 120
+  - type: HpRecovery
+    range:
+      minimum: 5
+      maximum: 10
+  - type: MpRecovery
+    range:
+      minimum: 8
+      maximum: 15
+
+## CELLON LEVEL 2
+- cellon_level: 2
+  price: 1400
+  options:
+  - type: Hp
+    range:
+      minimum: 120
+      maximum: 200
+  - type: Mp
+    range:
+      minimum: 150
+      maximum: 250
+  - type: HpRecovery
+    range:
+      minimum: 14
+      maximum: 20
+  - type: MpRecovery
+    range:
+      minimum: 16
+      maximum: 25
+## CELLON LEVEL 3
+- cellon_level: 3
+  price: 3000
+  options:
+  - type: Hp
+    range:
+      minimum: 220
+      maximum: 330
+  - type: Mp
+    range:
+      minimum: 280
+      maximum: 330
+  - type: HpRecovery
+    range:
+      minimum: 22
+      maximum: 28
+  - type: MpRecovery
+    range:
+      minimum: 28
+      maximum: 35
+- cellon_level: 4
+  price: 5000
+  options:
+  - type: Hp
+    range:
+      minimum: 330
+      maximum: 400
+  - type: Mp
+    range:
+      minimum: 350
+      maximum: 420
+  - type: HpRecovery
+    range:
+      minimum: 30
+      maximum: 38
+  - type: MpRecovery
+    range:
+      minimum: 38
+      maximum: 45
+- cellon_level: 5
+  price: 10000
+  options:
+  - type: Hp
+    range:
+      minimum: 430
+      maximum: 550
+  - type: Mp
+    range:
+      minimum: 450
+      maximum: 550
+  - type: HpRecovery
+    range:
+      minimum: 40
+      maximum: 50
+  - type: MpRecovery
+    range:
+      minimum: 50
+      maximum: 60
+- cellon_level: 6
+  price: 20000
+  options:
+  - type: Hp
+    range:
+      minimum: 600
+      maximum: 750
+  - type: Mp
+    range:
+      minimum: 600
+      maximum: 750
+  - type: HpRecovery
+    range:
+      minimum: 55
+      maximum: 70
+  - type: MpRecovery
+    range:
+      minimum: 65
+      maximum: 80
+  - type: MpConsumption
+    range:
+      minimum: 1
+      maximum: 7
+  - type: CriticalDamageDecrease
+    range:
+      minimum: 1
+      maximum: 7
+- cellon_level: 7
+  price: 32000
+  options:
+  - type: Hp
+    range:
+      minimum: 800
+      maximum: 1000
+  - type: Mp
+    range:
+      minimum: 800
+      maximum: 1000
+  - type: HpRecovery
+    range:
+      minimum: 75
+      maximum: 90
+  - type: MpRecovery
+    range:
+      minimum: 75
+      maximum: 90
+  - type: MpConsumption
+    range:
+      minimum: 8
+      maximum: 12
+  - type: CriticalDamageDecrease
+    range:
+      minimum: 11
+      maximum: 20
+- cellon_level: 8
+  price: 58000
+  options:
+  - type: Hp
+    range:
+      minimum: 1000
+      maximum: 1300
+  - type: Mp
+    range:
+      minimum: 1000
+      maximum: 1300
+  - type: HpRecovery
+    range:
+      minimum: 100
+      maximum: 120
+  - type: MpRecovery
+    range:
+      minimum: 100
+      maximum: 120
+  - type: MpConsumption
+    range:
+      minimum: 13
+      maximum: 17
+  - type: CriticalDamageDecrease
+    range:
+      minimum: 21
+      maximum: 35
+- cellon_level: 9
+  price: 95000
+  options:
+  - type: Hp
+    range:
+      minimum: 1100
+      maximum: 1500
+  - type: Mp
+    range:
+      minimum: 1100
+      maximum: 1500
+  - type: HpRecovery
+    range:
+      minimum: 110
+      maximum: 135
+  - type: MpRecovery
+    range:
+      minimum: 110
+      maximum: 135
+  - type: MpConsumption
+    range:
+      minimum: 14
+      maximum: 21
+  - type: CriticalDamageDecrease
+    range:
+      minimum: 22
+      maximum: 45
+- cellon_level: 10
+  price: 134900
+  options:
+  - type: Hp
+    range:
+      minimum: 1200
+      maximum: 1700
+  - type: Mp
+    range:
+      minimum: 1200
+      maximum: 1700
+  - type: HpRecovery
+    range:
+      minimum: 120
+      maximum: 150
+  - type: MpRecovery
+    range:
+      minimum: 120
+      maximum: 150
+  - type: MpConsumption
+    range:
+      minimum: 15
+      maximum: 25
+  - type: CriticalDamageDecrease
+    range:
+      minimum: 23
+      maximum: 55
+chances_to_success:
+- cellon_amount: 0
+  success_chance: 85
+- cellon_amount: 1
+  success_chance: 75
+- cellon_amount: 2
+  success_chance: 65
+- cellon_amount: 3
+  success_chance: 50
+- cellon_amount: 4
+  success_chance: 40
+- cellon_amount: 5
+  success_chance: 30

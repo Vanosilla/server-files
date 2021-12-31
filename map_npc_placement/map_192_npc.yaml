@@ -1,0 +1,37 @@
+map_id: 192
+npcs:
+- map_npc_id: 26700
+  vnum: 1323
+  pos_x: 20
+  pos_y: 122
+  dialog_id: 99
+- map_npc_id: 26701
+  vnum: 1080
+  pos_x: 185
+  pos_y: 149
+  dialog_id: 99
+- map_npc_id: 26702
+  vnum: 1309
+  pos_x: 197
+  pos_y: 135
+  dialog_id: 99
+- map_npc_id: 26703
+  vnum: 1311
+  pos_x: 118
+  pos_y: 25
+  dialog_id: 99
+- map_npc_id: 26704
+  vnum: 1312
+  pos_x: 122
+  pos_y: 25
+  dialog_id: 99
+- map_npc_id: 26705
+  vnum: 1313
+  pos_x: 126
+  pos_y: 25
+  dialog_id: 99
+- map_npc_id: 26706
+  vnum: 1314
+  pos_x: 130
+  pos_y: 25
+  dialog_id: 99

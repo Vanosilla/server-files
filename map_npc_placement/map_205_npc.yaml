@@ -1,0 +1,21 @@
+map_id: 205
+npcs:
+- map_npc_id: 11079
+  vnum: 1074
+  pos_x: 116
+  pos_y: 24
+  effect_delay: 4750
+  can_move: true
+- map_npc_id: 11080
+  vnum: 1074
+  pos_x: 124
+  pos_y: 21
+  effect_delay: 4750
+  can_move: true
+- map_npc_id: 11081
+  vnum: 2001
+  pos_x: 119
+  pos_y: 24
+  effect_delay: 4750
+  dialog_id: 504
+  direction_facing: 7

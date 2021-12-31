@@ -1,0 +1,68 @@
+vnum: 3118
+type: Sawmill
+minimum_level: 30
+minimum_reputation: 5_001
+rewards:
+- reward_level: FirstReward
+  durability_cost: 5
+  rewards:
+  - vnum: 2099 #Red Fruits
+    amount: 3
+  - vnum: 2100 #Blue Herb
+    amount: 3
+  - vnum: 2102 #Sugar Beet
+    amount: 3
+- reward_level: SecondReward
+  durability_cost: 5
+  rewards:
+  - vnum: 2032 #Leaf of Luinia
+    amount: 3
+  - vnum: 2206 #Apple
+    amount: 1
+- reward_level: ThirdReward
+  durability_cost: 5
+  rewards:
+  - vnum: 2034 #Low Quality Metal
+    amount: 2
+  - vnum: 2038 #Low Quality Wood
+    amount: 2
+  - vnum: 2042 #Low Quality Rag
+    amount: 2
+  - vnum: 2046 #Low Quality Leather
+    amount: 2
+  - vnum: 2190 #Seed of Life
+    amount: 1
+- reward_level: FourthReward
+  durability_cost: 7
+  rewards:
+  - vnum: 2035 #Normal Metal
+    amount: 2
+  - vnum: 2039 #Normal Wood
+    amount: 2
+  - vnum: 2043 #Normal Rag
+    amount: 2
+  - vnum: 2047 #Normal Leather
+    amount: 2
+  - vnum: 2190 #Seed of Life
+    amount: 1
+  - vnum: 2109 #Seedling
+    amount: 1
+- reward_level: FifthReward
+  durability_cost: 10
+  rewards:
+  - vnum: 2036 #High Quality Metal
+    amount: 2
+  - vnum: 2040 #High Quality Wood
+    amount: 2
+  - vnum: 2044 #High Quality Rag
+    amount: 2
+  - vnum: 2048 #High Quality Leather
+    amount: 2
+  - vnum: 2190 #Seed of Life
+    amount: 1
+  - vnum: 2109 #Seedling
+    amount: 1
+  - vnum: 2194 #Rare Leaf
+    amount: 1
+#  - vnum: 9356 #Punter
+#    amount: 1

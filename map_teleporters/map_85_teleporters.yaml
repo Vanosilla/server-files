@@ -1,0 +1,26 @@
+map_id: 85
+teleporters:
+- map_npc_id: 7137
+  map_x: 4
+  map_y: 56
+  type: 1
+- map_npc_id: 7136
+  map_x: 9
+  map_y: 70
+  type: 1
+- map_npc_id: 7135
+  map_x: 6
+  map_y: 19
+  type: 1
+- map_npc_id: 7134
+  map_x: 43
+  map_y: 78
+  type: 1
+- map_npc_id: 7133
+  map_x: 41
+  map_y: 32
+  type: 1
+- map_npc_id: 7132
+  map_x: 44
+  map_y: 45
+  type: 1

@@ -1,0 +1,10 @@
+map_id: 63
+npcs:
+- map_npc_id: 6269
+  vnum: 389
+  pos_x: 7
+  pos_y: 7
+  effect_delay: 4750
+  dialog_id: 315
+  quest_dialog_id: 47
+  direction_facing: 1

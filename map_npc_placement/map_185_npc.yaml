@@ -1,0 +1,27 @@
+map_id: 185
+npcs:
+- map_npc_id: 10297
+  vnum: 1089
+  pos_x: 192
+  pos_y: 58
+  effect_delay: 4750
+  dialog_id: 86
+  direction_facing: 3
+- map_npc_id: 10298
+  vnum: 1315
+  pos_x: 146
+  pos_y: 82
+  effect_delay: 4750
+  dialog_id: 99
+- map_npc_id: 10299
+  vnum: 1316
+  pos_x: 116
+  pos_y: 82
+  effect_delay: 4750
+  dialog_id: 99
+- map_npc_id: 10300
+  vnum: 1317
+  pos_x: 69
+  pos_y: 128
+  effect_delay: 4750
+  dialog_id: 99

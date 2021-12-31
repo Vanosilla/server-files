@@ -1,0 +1,36 @@
+map_id: 193
+npcs:
+- map_npc_id: 10728
+  vnum: 1088
+  pos_x: 133
+  pos_y: 186
+  effect_delay: 4750
+  dialog_id: 89
+  direction_facing: 3
+- map_npc_id: 10729
+  vnum: 1331
+  pos_x: 106
+  pos_y: 129
+  effect_delay: 4750
+  dialog_id: 99
+- map_npc_id: 10730
+  vnum: 1331
+  pos_x: 109
+  pos_y: 100
+  effect_delay: 4750
+  dialog_id: 99
+- map_npc_id: 10731
+  vnum: 1331
+  pos_x: 165
+  pos_y: 97
+  effect_delay: 4750
+  dialog_id: 99
+- map_npc_id: 24840
+  vnum: 1080
+  pos_x: 48
+  pos_y: 124
+  dialog_id: 20020
+  direction_facing: 7
+  can_move: false
+  can_attack: false
+

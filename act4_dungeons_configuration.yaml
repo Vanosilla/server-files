@@ -1,0 +1,78 @@
+# Configuration related to Act4 - Guardian spawns, duration of Dungeons
+
+dungeon_portal_map_id: 134
+dungeon_portal_map_x: 139
+dungeon_portal_map_y: 99
+dungeon_return_portal_map_id: 134
+dungeon_return_portal_map_x: 139
+dungeon_return_portal_map_y: 99
+dungeon_entry_cost_multiplier: 5
+dungeon_duration: 01:00:00
+dungeon_boss_map_closure_after_reward: 00:00:30
+dungeon_slow_mo_delay: 00:00:07
+guardians_for_angels:
+- monster_vnum: 679
+  map_x: 147
+  map_y: 88
+  direction: 5
+- monster_vnum: 679
+  map_x: 149
+  map_y: 94
+  direction: 1
+- monster_vnum: 679
+  map_x: 147
+  map_y: 101
+  direction: 6
+- monster_vnum: 679
+  map_x: 139
+  map_y: 105
+  direction: 2
+- monster_vnum: 679
+  map_x: 139
+  map_y: 84
+  direction: 0
+- monster_vnum: 679
+  map_x: 132
+  map_y: 101
+  direction: 7
+- monster_vnum: 679
+  map_x: 129
+  map_y: 94
+  direction: 3
+- monster_vnum: 679
+  map_x: 132
+  map_y: 88
+  direction: 4
+guardians_for_demons:
+- monster_vnum: 680
+  map_x: 147
+  map_y: 88
+  direction: 5
+- monster_vnum: 680
+  map_x: 149
+  map_y: 94
+  direction: 1
+- monster_vnum: 680
+  map_x: 147
+  map_y: 101
+  direction: 6
+- monster_vnum: 680
+  map_x: 139
+  map_y: 105
+  direction: 2
+- monster_vnum: 680
+  map_x: 139
+  map_y: 84
+  direction: 0
+- monster_vnum: 680
+  map_x: 132
+  map_y: 101
+  direction: 7
+- monster_vnum: 680
+  map_x: 129
+  map_y: 94
+  direction: 3
+- monster_vnum: 680
+  map_x: 132
+  map_y: 88
+  direction: 4

@@ -1,0 +1,21 @@
+# Configuration related to gibberish talking
+
+- id: 0
+  keys:
+  - "FIRST_GIBBERISH_0"
+  - "FIRST_GIBBERISH_1"
+  - "FIRST_GIBBERISH_2"
+  - "FIRST_GIBBERISH_3"
+  - "FIRST_GIBBERISH_4"
+- id: 1
+  keys:
+  - "SECOND_GIBBERISH_0"
+  - "SECOND_GIBBERISH_1"
+  - "SECOND_GIBBERISH_2"
+  - "SECOND_GIBBERISH_3"
+  - "SECOND_GIBBERISH_4"
+- id: 2
+  keys:
+  - "THIRD_GIBBERISH_0"
+  - "THIRD_GIBBERISH_1"
+  - "THIRD_GIBBERISH_2"

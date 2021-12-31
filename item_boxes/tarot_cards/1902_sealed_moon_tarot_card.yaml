@@ -1,0 +1,5 @@
+item_vnum: 1902
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4054   # Tarot Card (The Moon)
+  quantity:  1

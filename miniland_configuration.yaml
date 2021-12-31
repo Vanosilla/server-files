@@ -1,0 +1,24 @@
+# Configuration related to objects position in miniland
+
+- map_vnum: 20001
+  forced_placings:
+  - sub_type: House
+    forced_location:
+      x: 24
+      y: 6
+  - sub_type: Small_House
+    forced_location:
+      x: 21
+      y: 4
+  - sub_type: Warehouse
+    forced_location:
+      x: 31
+      y: 2
+  restricted_zones:
+  - restriction_tag: OnlyMates
+    corner1:
+      x: 2
+      y: 7
+    corner2:
+      x: 17
+      y: 8

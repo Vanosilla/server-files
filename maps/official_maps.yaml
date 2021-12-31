@@ -1,0 +1,4911 @@
+# Put all official maps here, and all missing official maps that you add manually or whatever.
+#
+# ???
+- map_id: 0
+  map_vnum: 0
+  map_name_id: 0
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# NosVille
+- map_id: 1
+  map_vnum: 1
+  map_name_id: 1
+  map_music_id: 0
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+  - HAS_USER_SHOPS_DISABLED
+  - NOSVILLE
+  - HAS_SEALED_VESSELS_DISABLED
+  - HAS_SIGNPOSTS_ENABLED
+#
+# NosVille Meadows
+- map_id: 2
+  map_vnum: 2
+  map_name_id: 2
+  map_music_id: 1
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Mine Plains
+- map_id: 3
+  map_vnum: 3
+  map_name_id: 3
+  map_music_id: 2
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Sunny Meadows
+- map_id: 4
+  map_vnum: 4
+  map_name_id: 4
+  map_music_id: 2
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Outpost
+- map_id: 5
+  map_vnum: 5
+  map_name_id: 5
+  map_music_id: 1
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Western Mine 1
+- map_id: 6
+  map_vnum: 6
+  map_name_id: 6
+  map_music_id: 3
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Western Mine 2
+- map_id: 7
+  map_vnum: 7
+  map_name_id: 7
+  map_music_id: 3
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Northern Mine
+- map_id: 8
+  map_vnum: 8
+  map_name_id: 8
+  map_music_id: 3
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Western Mine 2
+- map_id: 9
+  map_vnum: 9
+  map_name_id: 9
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Fernon Temple 1
+- map_id: 10
+  map_vnum: 10
+  map_name_id: 10
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple -1
+- map_id: 11
+  map_vnum: 11
+  map_name_id: 11
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple -2
+- map_id: 12
+  map_vnum: 12
+  map_name_id: 12
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon's Hideout 1
+- map_id: 13
+  map_vnum: 13
+  map_name_id: 13
+  map_music_id: 5
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon's Hideout 2
+- map_id: 14
+  map_vnum: 14
+  map_name_id: 14
+  map_music_id: 5
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon's Hideout 3
+- map_id: 15
+  map_vnum: 15
+  map_name_id: 15
+  map_music_id: 5
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon's Hideout 4
+- map_id: 16
+  map_vnum: 16
+  map_name_id: 16
+  map_music_id: 5
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon's Hideout 5
+- map_id: 17
+  map_vnum: 17
+  map_name_id: 17
+  map_music_id: 5
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# ???
+- map_id: 18
+  map_vnum: 18
+  map_name_id: 18
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Western Krem
+- map_id: 20
+  map_vnum: 20
+  map_name_id: 20
+  map_music_id: 11
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Eastern Krem
+- map_id: 21
+  map_vnum: 21
+  map_name_id: 21
+  map_music_id: 11
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Peak of Mt. Krem
+- map_id: 22
+  map_vnum: 22
+  map_name_id: 22
+  map_music_id: 11
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Mountain Cave 1
+- map_id: 23
+  map_vnum: 23
+  map_name_id: 23
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Mountain Cave 2
+- map_id: 24
+  map_vnum: 24
+  map_name_id: 24
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Mountain Cave 3
+- map_id: 25
+  map_vnum: 25
+  map_name_id: 25
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Mountain Cave 4
+- map_id: 26
+  map_vnum: 26
+  map_name_id: 26
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Mountain Cave 5
+- map_id: 27
+  map_vnum: 27
+  map_name_id: 27
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Mountain Cave 6
+- map_id: 28
+  map_vnum: 28
+  map_name_id: 28
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Shanera Dungeon -1
+- map_id: 29
+  map_vnum: 29
+  map_name_id: 29
+  map_music_id: 12
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Shanera Dungeon -2
+- map_id: 30
+  map_vnum: 30
+  map_name_id: 30
+  map_music_id: 12
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Shanera Dungeon -3
+- map_id: 31
+  map_vnum: 31
+  map_name_id: 31
+  map_music_id: 12
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Shanera Dungeon -4
+- map_id: 32
+  map_vnum: 32
+  map_name_id: 32
+  map_music_id: 12
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Hidden Path
+- map_id: 33
+  map_vnum: 33
+  map_name_id: 33
+  map_music_id: 11
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# ???
+- map_id: 34
+  map_vnum: 34
+  map_name_id: 34
+  map_music_id: 90
+#  flags:
+#  - IS_BASE_MAP
+#  - ACT_2
+#  - HAS_LUNAR_EVENTS_ENABLED
+#
+# Misty Path
+- map_id: 41
+  map_vnum: 41
+  map_name_id: 41
+  map_music_id: 17
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Secret Lab 1
+- map_id: 42
+  map_vnum: 42
+  map_name_id: 42
+  map_music_id: 17
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Secret Lab 2
+- map_id: 43
+  map_vnum: 43
+  map_name_id: 43
+  map_music_id: 17
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Secret Lab 3
+- map_id: 44
+  map_vnum: 44
+  map_name_id: 44
+  map_music_id: 17
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Fir Forest
+- map_id: 46
+  map_vnum: 46
+  map_name_id: 46
+  map_music_id: 26
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Maple Woods
+- map_id: 47
+  map_vnum: 47
+  map_name_id: 47
+  map_music_id: 26
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Enchanted Pathway
+- map_id: 49
+  map_vnum: 49
+  map_name_id: 49
+  map_music_id: 2
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Closed Mine
+- map_id: 50
+  map_vnum: 50
+  map_name_id: 50
+  map_music_id: 3
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Closed Mine 1
+- map_id: 51
+  map_vnum: 51
+  map_name_id: 51
+  map_music_id: 3
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Knights' Camp
+- map_id: 52
+  map_vnum: 52
+  map_name_id: 52
+  map_music_id: 2
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# ???
+- map_id: 53
+  map_vnum: 53
+  map_name_id: 53
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 2
+- map_id: 54
+  map_vnum: 54
+  map_name_id: 54
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 3
+- map_id: 55
+  map_vnum: 55
+  map_name_id: 55
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 4
+- map_id: 56
+  map_vnum: 56
+  map_name_id: 56
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 5
+- map_id: 57
+  map_vnum: 57
+  map_name_id: 57
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 6
+- map_id: 58
+  map_vnum: 58
+  map_name_id: 58
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 7
+- map_id: 59
+  map_vnum: 59
+  map_name_id: 59
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 8
+- map_id: 60
+  map_vnum: 60
+  map_name_id: 60
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 9
+- map_id: 61
+  map_vnum: 61
+  map_name_id: 61
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Fernon Temple 10
+- map_id: 62
+  map_vnum: 62
+  map_name_id: 62
+  map_music_id: 4
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Secret Room
+- map_id: 63
+  map_vnum: 63
+  map_name_id: 63
+  map_music_id: 20
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Northern Exit
+- map_id: 64
+  map_vnum: 64
+  map_name_id: 64
+  map_music_id: 20
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Eastern Exit
+- map_id: 65
+  map_vnum: 65
+  map_name_id: 65
+  map_music_id: 20
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Western Exit
+- map_id: 66
+  map_vnum: 66
+  map_name_id: 66
+  map_music_id: 20
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Mysterious Gates
+- map_id: 67
+  map_vnum: 67
+  map_name_id: 67
+  map_music_id: 20
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 1
+- map_id: 68
+  map_vnum: 68
+  map_name_id: 68
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 2
+- map_id: 69
+  map_vnum: 69
+  map_name_id: 69
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 3
+- map_id: 70
+  map_vnum: 70
+  map_name_id: 70
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 4
+- map_id: 71
+  map_vnum: 71
+  map_name_id: 71
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 5
+- map_id: 72
+  map_vnum: 72
+  map_name_id: 72
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 6
+- map_id: 73
+  map_vnum: 73
+  map_name_id: 73
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 7
+- map_id: 74
+  map_vnum: 74
+  map_name_id: 74
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Wizard Tower 8
+- map_id: 75
+  map_vnum: 75
+  map_name_id: 75
+  map_music_id: 21
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Stone Cliff 1
+- map_id: 76
+  map_vnum: 76
+  map_name_id: 76
+  map_music_id: 22
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Stone Cliff 2
+- map_id: 77
+  map_vnum: 77
+  map_name_id: 77
+  map_music_id: 22
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Stone Cliff 3
+- map_id: 78
+  map_vnum: 78
+  map_name_id: 78
+  map_music_id: 22
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Stone Cliff 4
+- map_id: 79
+  map_vnum: 79
+  map_name_id: 79
+  map_music_id: 22
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Zigzag Trail
+- map_id: 80
+  map_vnum: 80
+  map_name_id: 80
+  map_music_id: 20
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Spiral Maze E
+- map_id: 81
+  map_vnum: 81
+  map_name_id: 81
+  map_music_id: 23
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Spiral Maze W
+- map_id: 82
+  map_vnum: 82
+  map_name_id: 82
+  map_music_id: 23
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Spiral Maze S
+- map_id: 83
+  map_vnum: 83
+  map_name_id: 83
+  map_music_id: 23
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Spiral Maze N
+- map_id: 84
+  map_vnum: 84
+  map_name_id: 84
+  map_music_id: 23
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Deep Cave
+- map_id: 85
+  map_vnum: 85
+  map_name_id: 85
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Deep Cave
+- map_id: 86
+  map_vnum: 86
+  map_name_id: 86
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Chief's Cave
+- map_id: 87
+  map_vnum: 87
+  map_name_id: 87
+  map_music_id: 11
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# NosCamp Cave
+- map_id: 88
+  map_vnum: 88
+  map_name_id: 88
+  map_music_id: 2
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Bridge Cave
+- map_id: 89
+  map_vnum: 89
+  map_name_id: 89
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Bridge Cave
+- map_id: 90
+  map_vnum: 90
+  map_name_id: 90
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Bridge Cave
+- map_id: 91
+  map_vnum: 91
+  map_name_id: 91
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Bridge Cave
+- map_id: 92
+  map_vnum: 92
+  map_name_id: 92
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Red Zone
+- map_id: 93
+  map_vnum: 93
+  map_name_id: 93
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Blue Zone
+- map_id: 94
+  map_vnum: 94
+  map_name_id: 94
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Green Zone
+- map_id: 95
+  map_vnum: 95
+  map_name_id: 95
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Yellow Zone
+- map_id: 96
+  map_vnum: 96
+  map_name_id: 96
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Desolate Area
+- map_id: 97
+  map_vnum: 97
+  map_name_id: 97
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Sunset Cliff
+- map_id: 98
+  map_vnum: 98
+  map_name_id: 98
+  map_music_id: 11
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Misty Valley
+- map_id: 99
+  map_vnum: 99
+  map_name_id: 99
+  map_music_id: 11
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Cave of Ghosts
+- map_id: 100
+  map_vnum: 100
+  map_name_id: 100
+  map_music_id: 13
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Labyrinth of Pain
+- map_id: 101
+  map_vnum: 101
+  map_name_id: 101
+  map_music_id: 12
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Secret Crevice
+- map_id: 102
+  map_vnum: 102
+  map_name_id: 102
+  map_music_id: 12
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Comet Meadow
+- map_id: 103
+  map_vnum: 103
+  map_name_id: 103
+  map_music_id: 24
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Comet Meadow
+- map_id: 104
+  map_vnum: 104
+  map_name_id: 104
+  map_music_id: 25
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# Forester's House
+- map_id: 105
+  map_vnum: 105
+  map_name_id: 105
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Watermill
+- map_id: 106
+  map_vnum: 106
+  map_name_id: 106
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Warehouse
+- map_id: 107
+  map_vnum: 107
+  map_name_id: 107
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Cat Room
+- map_id: 108
+  map_vnum: 108
+  map_name_id: 108
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Fir Forest's Edge
+- map_id: 109
+  map_vnum: 109
+  map_name_id: 109
+  map_music_id: 26
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Stream Mine -1
+- map_id: 110
+  map_vnum: 110
+  map_name_id: 110
+  map_music_id: 28
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Stream Mine -2
+- map_id: 111
+  map_vnum: 111
+  map_name_id: 111
+  map_music_id: 28
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Stream Mine -3
+- map_id: 112
+  map_vnum: 112
+  map_name_id: 112
+  map_music_id: 28
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Earth Tunnel -1
+- map_id: 113
+  map_vnum: 113
+  map_name_id: 113
+  map_music_id: 28
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Earth Tunnel -2
+- map_id: 114
+  map_vnum: 114
+  map_name_id: 114
+  map_music_id: 28
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Earth Tunnel -3
+- map_id: 115
+  map_vnum: 115
+  map_name_id: 115
+  map_music_id: 28
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Forest Floor
+- map_id: 116
+  map_vnum: 116
+  map_name_id: 116
+  map_music_id: 27
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Forest Floor
+- map_id: 117
+  map_vnum: 117
+  map_name_id: 117
+  map_music_id: 27
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Underground Path
+- map_id: 118
+  map_vnum: 118
+  map_name_id: 118
+  map_music_id: 27
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Cold Tunnel
+- map_id: 119
+  map_vnum: 119
+  map_name_id: 119
+  map_music_id: 27
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Rock Cliff
+- map_id: 120
+  map_vnum: 120
+  map_name_id: 120
+  map_music_id: 25
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Rock Canyon
+- map_id: 121
+  map_vnum: 121
+  map_name_id: 121
+  map_music_id: 25
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+#
+# Maple Woods' Edge
+- map_id: 122
+  map_vnum: 122
+  map_name_id: 122
+  map_music_id: 26
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Seli-Lusha
+- map_id: 123
+  map_vnum: 123
+  map_name_id: 123
+  map_music_id: 26
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Seli-Lusha -1
+- map_id: 124
+  map_vnum: 124
+  map_name_id: 124
+  map_music_id: 29
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Seli-Lusha -2
+- map_id: 125
+  map_vnum: 125
+  map_name_id: 125
+  map_music_id: 29
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Seli-Lusha -3
+- map_id: 126
+  map_vnum: 126
+  map_name_id: 126
+  map_music_id: 29
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Seli-Lusha -4
+- map_id: 127
+  map_vnum: 127
+  map_name_id: 127
+  map_music_id: 29
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Seli-Lusha -5
+- map_id: 128
+  map_vnum: 128
+  map_name_id: 128
+  map_music_id: 29
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# ???
+- map_id: 129
+  map_vnum: 129
+  map_name_id: 129
+  map_music_id: 6
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+  - HAS_USER_SHOPS_DISABLED
+  - HAS_SEALED_VESSELS_DISABLED
+  - PORT_ALVEUS
+#
+# Port Alveus Square
+- map_id: 145
+  map_vnum: 145
+  map_name_id: 145
+  map_music_id: 6
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+  - HAS_USER_SHOPS_DISABLED
+  - PORT_ALVEUS
+  - HAS_SIGNPOSTS_ENABLED
+#
+# Port Alveus Market
+- map_id: 146
+  map_vnum: 146
+  map_name_id: 146
+  map_music_id: 6
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+  - HAS_USER_SHOPS_DISABLED
+  - PORT_ALVEUS
+#
+# Market Place
+- map_id: 147
+  map_vnum: 147
+  map_name_id: 147
+  map_music_id: 6
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+  - PORT_ALVEUS
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# Ship Angels
+- map_id: 148
+  map_vnum: 148
+  map_name_id: 148
+  map_music_id: 7
+  flags:
+  - ANGEL_SIDE
+#
+# Ship Demons
+- map_id: 149
+  map_vnum: 148
+  map_name_id: 149
+  map_music_id: 7
+  flags:
+  - DEMON_SIDE
+#
+# Land of Death
+- map_id: 150
+  map_vnum: 150
+  map_name_id: 150
+  map_music_id: 16
+  flags:
+#
+# Ship Mortaz
+- map_id: 155
+  map_vnum: 148
+  map_name_id: 155
+  map_music_id: 7
+  flags:
+#
+# Mortaz Desert Port
+- map_id: 170
+  map_vnum: 170
+  map_name_id: 170
+  map_music_id: 33
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Port Surroundings
+- map_id: 171
+  map_vnum: 171
+  map_name_id: 171
+  map_music_id: 33
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Neil's Camp Area
+- map_id: 172
+  map_vnum: 172
+  map_name_id: 172
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Neil's Camp
+- map_id: 173
+  map_vnum: 173
+  map_name_id: 173
+  map_music_id: 32
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# East Merchant Camp
+- map_id: 174
+  map_vnum: 174
+  map_name_id: 174
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Melki's Camp Area
+- map_id: 175
+  map_vnum: 175
+  map_name_id: 175
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Melki's Camp
+- map_id: 176
+  map_vnum: 176
+  map_name_id: 176
+  map_music_id: 32
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Akamur Camp
+- map_id: 177
+  map_vnum: 177
+  map_name_id: 177
+  map_music_id: 34
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Northern Desert
+- map_id: 178
+  map_vnum: 178
+  map_name_id: 178
+  map_music_id: 34
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Volcano Gate
+- map_id: 179
+  map_vnum: 179
+  map_name_id: 179
+  map_music_id: 72
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# West Merchant Camp
+- map_id: 180
+  map_vnum: 180
+  map_name_id: 180
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Keru's Camp Area
+- map_id: 181
+  map_vnum: 181
+  map_name_id: 181
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Keru's Camp
+- map_id: 182
+  map_vnum: 182
+  map_name_id: 182
+  map_music_id: 32
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Garton's Camp Area
+- map_id: 183
+  map_vnum: 183
+  map_name_id: 183
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Temple Path
+- map_id: 184
+  map_vnum: 184
+  map_name_id: 184
+  map_music_id: 37
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Temple Site
+- map_id: 185
+  map_vnum: 185
+  map_name_id: 185
+  map_music_id: 37
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Chaos Environment
+- map_id: 186
+  map_vnum: 186
+  map_name_id: 186
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Garton's Camp
+- map_id: 187
+  map_vnum: 187
+  map_name_id: 187
+  map_music_id: 32
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Lost Desert
+- map_id: 188
+  map_vnum: 188
+  map_name_id: 188
+  map_music_id: 35
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Desert Eagle City
+- map_id: 189
+  map_vnum: 189
+  map_name_id: 189
+  map_music_id: 63
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Chaos Zone
+- map_id: 190
+  map_vnum: 190
+  map_name_id: 190
+  map_music_id: 63
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Aster Courtyard
+- map_id: 191
+  map_vnum: 191
+  map_name_id: 191
+  map_music_id: 36
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Aster Centre
+- map_id: 192
+  map_vnum: 192
+  map_name_id: 192
+  map_music_id: 36
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Robber Courtyard
+- map_id: 193
+  map_vnum: 193
+  map_name_id: 193
+  map_music_id: 36
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Robber Centre
+- map_id: 194
+  map_vnum: 194
+  map_name_id: 194
+  map_music_id: 36
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Rashid Courtyard
+- map_id: 195
+  map_vnum: 195
+  map_name_id: 195
+  map_music_id: 36
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Rashid Centre
+- map_id: 196
+  map_vnum: 196
+  map_name_id: 196
+  map_music_id: 36
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Robber Camp Area
+- map_id: 197
+  map_vnum: 197
+  map_name_id: 197
+  map_music_id: 32
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Desert Robber Camp
+- map_id: 198
+  map_vnum: 198
+  map_name_id: 198
+  map_music_id: 32
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Aster Temple
+- map_id: 199
+  map_vnum: 199
+  map_name_id: 199
+  map_music_id: 36
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Treasure Hunt Camp
+- map_id: 200
+  map_vnum: 200
+  map_name_id: 200
+  map_music_id: 63
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# Akamur Quarter
+- map_id: 201
+  map_vnum: 201
+  map_name_id: 201
+  map_music_id: 63
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+#
+# ???
+- map_id: 202
+  map_vnum: 202
+  map_name_id: 202
+  map_music_id: 55
+  flags:
+  - ACT_5_1
+#
+# ???
+- map_id: 203
+  map_vnum: 203
+  map_name_id: 203
+  map_music_id: 55
+  flags:
+  - ACT_5_1
+#
+# ???
+- map_id: 204
+  map_vnum: 204
+  map_name_id: 204
+  map_music_id: 55
+  flags:
+  - ACT_5_1
+#
+# Kertos' Jaws
+- map_id: 205
+  map_vnum: 205
+  map_name_id: 205
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Eastern Path
+- map_id: 206
+  map_vnum: 206
+  map_name_id: 206
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Western Path
+- map_id: 207
+  map_vnum: 207
+  map_name_id: 207
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Valakus' Claws
+- map_id: 208
+  map_vnum: 208
+  map_name_id: 208
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Phoenix Wings
+- map_id: 209
+  map_vnum: 209
+  map_name_id: 209
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Left Wing
+- map_id: 210
+  map_vnum: 210
+  map_name_id: 210
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Right Wing
+- map_id: 211
+  map_vnum: 211
+  map_name_id: 211
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Katol's Street
+- map_id: 212
+  map_vnum: 212
+  map_name_id: 212
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# ???
+- map_id: 213
+  map_vnum: 213
+  map_name_id: 213
+  map_music_id: 16
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# ???
+- map_id: 214
+  map_vnum: 214
+  map_name_id: 214
+  map_music_id: 66
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# ???
+- map_id: 215
+  map_vnum: 215
+  map_name_id: 215
+  map_music_id: 66
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# ???
+- map_id: 216
+  map_vnum: 216
+  map_name_id: 216
+  map_music_id: 55
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# ???
+- map_id: 217
+  map_vnum: 217
+  map_name_id: 217
+  map_music_id: 55
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# ???
+- map_id: 218
+  map_vnum: 218
+  map_name_id: 218
+  map_music_id: 55
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Valakus' Lair
+- map_id: 219
+  map_vnum: 219
+  map_name_id: 219
+  map_music_id: 16
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# ???
+- map_id: 220
+  map_vnum: 220
+  map_name_id: 220
+  map_music_id: 16
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Cylloan
+- map_id: 228
+  map_vnum: 228
+  map_name_id: 228
+  map_music_id: 74
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - HAS_USER_SHOPS_DISABLED
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# Heaven's Gate 1
+- map_id: 229
+  map_vnum: 229
+  map_name_id: 229
+  map_music_id: 75
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# Heaven's Gate 2
+- map_id: 230
+  map_vnum: 230
+  map_name_id: 230
+  map_music_id: 75
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# Heaven's Gate 3
+- map_id: 231
+  map_vnum: 231
+  map_name_id: 231
+  map_music_id: 75
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# Heaven's Gate 4
+- map_id: 232
+  map_vnum: 232
+  map_name_id: 232
+  map_music_id: 75
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# Hell's Gate 1
+- map_id: 233
+  map_vnum: 233
+  map_name_id: 233
+  map_music_id: 77
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# Hell's Gate 2
+- map_id: 234
+  map_vnum: 234
+  map_name_id: 234
+  map_music_id: 77
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# Hell's Gate 3
+- map_id: 235
+  map_vnum: 235
+  map_name_id: 235
+  map_music_id: 77
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# Hell's Gate 4
+- map_id: 236
+  map_vnum: 236
+  map_name_id: 236
+  map_music_id: 77
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# Heaven's Ruins 1
+- map_id: 237
+  map_vnum: 237
+  map_name_id: 237
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# Heaven's Ruins 2
+- map_id: 238
+  map_vnum: 238
+  map_name_id: 238
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# Hell's Ruins 1
+- map_id: 239
+  map_vnum: 239
+  map_name_id: 239
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# Hell's Ruins 2
+- map_id: 240
+  map_vnum: 240
+  map_name_id: 240
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# Ancelloan's Will 1
+- map_id: 241
+  map_vnum: 241
+  map_name_id: 241
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_2
+#
+# Ancelloan's Will 2
+- map_id: 242
+  map_vnum: 242
+  map_name_id: 242
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_2
+
+#
+# Ancelloan's Will 3
+- map_id: 243
+  map_vnum: 243
+  map_name_id: 243
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_2
+#
+# Ancelloan's Will 4
+- map_id: 244
+  map_vnum: 244
+  map_name_id: 244
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_2
+#
+# Ancelloan's Will 5
+- map_id: 245
+  map_vnum: 245
+  map_name_id: 245
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_2
+#
+# Ancelloan's Will 6
+- map_id: 246
+  map_vnum: 246
+  map_name_id: 246
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_2
+#
+# Airship - Cylloan
+- map_id: 247
+  map_vnum: 247
+  map_name_id: 247
+  map_music_id: 55
+  flags:
+  - ACT_6_2
+#
+# Airship
+- map_id: 248
+  map_vnum: 248
+  map_name_id: 248
+  map_music_id: 55
+  flags:
+  - ACT_6_2
+#
+# Temple Site
+- map_id: 249
+  map_vnum: 249
+  map_name_id: 249
+  map_music_id: 55
+  flags:
+  - ACT_6_2
+  - ACT_4
+#
+# ???
+- map_id: 250
+  map_vnum: 250
+  map_name_id: 250
+  map_music_id: 55
+  flags:
+  - ACT_6_2
+  - ACT_4
+#
+# ???
+- map_id: 251
+  map_vnum: 251
+  map_name_id: 251
+  map_music_id: 55
+  flags:
+  - ACT_6_2
+  - ACT_4
+#
+# Midgard
+- map_id: 260
+  map_vnum: 260
+  map_name_id: 260
+  map_music_id: 28
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+#
+# Tart Hapendam
+- map_id: 261
+  map_vnum: 261
+  map_name_id: 261
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Oasis
+- map_id: 262
+  map_vnum: 262
+  map_name_id: 262
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Jotunheim
+- map_id: 263
+  map_vnum: 263
+  map_name_id: 263
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Cuarry Bank
+- map_id: 264
+  map_vnum: 264
+  map_name_id: 264
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 299
+  map_vnum: 299
+  map_name_id: 299
+  map_music_id: 55
+  flags:
+#
+# Lopello Library
+- map_id: 400
+  map_vnum: 400
+  map_name_id: 400
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Misty Forest
+- map_id: 401
+  map_vnum: 401
+  map_name_id: 401
+  map_music_id: 8
+  flags:
+  - IS_BASE_MAP
+#
+# Cave of Memory
+- map_id: 402
+  map_vnum: 402
+  map_name_id: 402
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Cave of Memory
+- map_id: 403
+  map_vnum: 403
+  map_name_id: 403
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Cave of Memory
+- map_id: 404
+  map_vnum: 404
+  map_name_id: 404
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Cave of Memory
+- map_id: 405
+  map_vnum: 405
+  map_name_id: 405
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Side Road
+- map_id: 406
+  map_vnum: 406
+  map_name_id: 406
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Dense Forest
+- map_id: 407
+  map_vnum: 407
+  map_name_id: 407
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Waterfall Passage
+- map_id: 408
+  map_vnum: 408
+  map_name_id: 408
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Hidden Land
+- map_id: 409
+  map_vnum: 409
+  map_name_id: 409
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Front of Temple
+- map_id: 410
+  map_vnum: 410
+  map_name_id: 410
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Mystical Temple
+- map_id: 411
+  map_vnum: 411
+  map_name_id: 411
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Cliff Cave
+- map_id: 412
+  map_vnum: 412
+  map_name_id: 412
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# zts292e
+- map_id: 413
+  map_vnum: 413
+  map_name_id: 413
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Instant Combat
+- map_id: 2004
+  map_vnum: 2004
+  map_name_id: 2004
+  map_music_id: 56
+  flags:
+#
+# Icebreaker
+- map_id: 2005
+  map_vnum: 2005
+  map_name_id: 2005
+  map_music_id: 55
+  flags:
+#
+# Individual Arena
+- map_id: 2006
+  map_vnum: 2006
+  map_name_id: 2006
+  map_music_id: 55
+  flags:
+  - HAS_PVP_ENABLED
+#
+# ???
+- map_id: 2009
+  map_vnum: 2009
+  map_name_id: 2009
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 2010
+  map_vnum: 2010
+  map_name_id: 2010
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 2012
+  map_vnum: 2012
+  map_name_id: 2012
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 2013
+  map_vnum: 2013
+  map_name_id: 2013
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 2014
+  map_vnum: 2014
+  map_name_id: 2014
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 2015
+  map_vnum: 2015
+  map_name_id: 2015
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 2100
+  map_vnum: 2100
+  map_name_id: 2100
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 2101
+  map_vnum: 2101
+  map_name_id: 2101
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 2102
+  map_vnum: 2102
+  map_name_id: 2102
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 2103
+  map_vnum: 2103
+  map_name_id: 2103
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 2104
+  map_vnum: 2104
+  map_name_id: 2110
+  map_music_id: 3
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+#
+# ???
+- map_id: 2105
+  map_vnum: 2105
+  map_name_id: 2105
+  map_music_id: 55
+  flags:
+#
+# Family Arena (Arena of Glory)
+- map_id: 2106
+  map_vnum: 2106
+  map_name_id: 2106
+  map_music_id: 56
+  flags:
+  - HAS_PVP_FAMILY_ENABLED
+#
+# Pajama Stone
+- map_id: 2107
+  map_vnum: 2107
+  map_name_id: 2107
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+#
+# SP1 Stone
+- map_id: 2108
+  map_vnum: 2107
+  map_name_id: 2108
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+#
+# SP2 Stone
+- map_id: 2109
+  map_vnum: 2107
+  map_name_id: 2109
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+#
+# SP3 Stone
+- map_id: 2111
+  map_vnum: 2107
+  map_name_id: 2111
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+#
+# SP4 Stone
+- map_id: 2112
+  map_vnum: 2107
+  map_name_id: 2112
+  map_music_id: 14
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 2304
+  map_vnum: 2304
+  map_name_id: 2304
+  map_music_id: 55
+#
+# Gate of Mourning
+- map_id: 2500
+  map_vnum: 2500
+  map_name_id: 2500
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Adventure Zone
+- map_id: 2501
+  map_vnum: 2501
+  map_name_id: 2501
+  map_music_id: 15
+  flags:
+#
+# Hall of Mourning
+- map_id: 2502
+  map_vnum: 2502
+  map_name_id: 2502
+  map_music_id: 16
+  flags:
+#
+# ???
+- map_id: 2506
+  map_vnum: 2506
+  map_name_id: 2506
+  map_music_id: 16
+  flags:
+#
+# Sinister Path
+- map_id: 2508
+  map_vnum: 2508
+  map_name_id: 2508
+  flags:
+  map_music_id: 15
+#
+# Fox's Den
+- map_id: 2509
+  map_vnum: 2509
+  map_name_id: 2509
+  map_music_id: 16
+  flags:
+#
+# Jelly Entrance
+- map_id: 2510
+  map_vnum: 2510
+  map_name_id: 2110
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Adventure Zone
+- map_id: 2511
+  map_vnum: 2511
+  map_name_id: 2511
+  map_music_id: 15
+  flags:
+#
+# Jelly Square
+- map_id: 2512
+  map_vnum: 2512
+  map_name_id: 2512
+  map_music_id: 16
+  flags:
+#
+# ???
+- map_id: 2514
+  map_vnum: 2514
+  map_name_id: 2514
+  map_music_id: 16
+  flags:
+#
+# Witch's House
+- map_id: 2515
+  map_vnum: 2550
+  map_name_id: 2515
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# ???
+- map_id: 2517
+  map_vnum: 2517
+  map_name_id: 2517
+  map_music_id: 16
+  flags:
+#
+# Ginseng Entrance
+- map_id: 2520
+  map_vnum: 2520
+  map_name_id: 2520
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - ACT_1
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Adventure Zone
+- map_id: 2521
+  map_vnum: 2521
+  map_name_id: 2521
+  map_music_id: 15
+  flags:
+#
+# Ginseng Farm
+- map_id: 2522
+  map_vnum: 2522
+  map_name_id: 2522
+  map_music_id: 16
+  flags:
+#
+# ???
+- map_id: 2524
+  map_vnum: 2524
+  map_name_id: 2524
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 2525
+  map_vnum: 2525
+  map_name_id: 2525
+  map_music_id: 6
+  flags:
+#
+# ???
+- map_id: 2526
+  map_vnum: 2526
+  map_name_id: 2526
+  map_music_id: 55
+  flags:
+  - ACT_6_1
+#
+# ???
+- map_id: 2527
+  map_vnum: 2527
+  map_name_id: 2527
+  map_music_id: 55
+  flags:
+  - ACT_6_1
+#
+# Spider Cavern Path
+- map_id: 2530
+  map_vnum: 2530
+  map_name_id: 2530
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - ACT_2
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Adventure Zone
+- map_id: 2531
+  map_vnum: 2531
+  map_name_id: 2531
+  map_music_id: 15
+  flags:
+#
+# Spider Cavern
+- map_id: 2532
+  map_vnum: 2532
+  map_name_id: 2532
+  map_music_id: 16
+  flags:
+#
+# Grenigas Square
+- map_id: 2536
+  map_vnum: 2536
+  map_name_id: 2536
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Lava Path
+- map_id: 2537
+  map_vnum: 2537
+  map_name_id: 2537
+  map_music_id: 15
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Way of the Phoenix
+- map_id: 2538
+  map_vnum: 2538
+  map_name_id: 2538
+  map_music_id: 15
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Grenigas Temple
+- map_id: 2539
+  map_vnum: 2539
+  map_name_id: 2539
+  map_music_id: 16
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Path to Altar
+- map_id: 2540
+  map_vnum: 2540
+  map_name_id: 2540
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - ACT_3
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Adventure Zone
+- map_id: 2541
+  map_vnum: 2541
+  map_name_id: 2541
+  map_music_id: 15
+  flags:
+#
+# Altar of Pain
+- map_id: 2542
+  map_vnum: 2542
+  map_name_id: 2542
+  map_music_id: 16
+  flags:
+#
+# Pirate Ship
+- map_id: 2544
+  map_vnum: 2544
+  map_name_id: 2544
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# below deck
+- map_id: 2545
+  map_vnum: 2545
+  map_name_id: 2545
+  map_music_id: 15
+  flags:
+#
+# Foredeck
+- map_id: 2546
+  map_vnum: 2546
+  map_name_id: 2546
+  map_music_id: 16
+  flags:
+#
+# Nest Surroundings
+- map_id: 2547
+  map_vnum: 2547
+  map_name_id: 2547
+  map_music_id: 55
+  flags:
+#
+# Chicken Farm Path
+- map_id: 2550
+  map_vnum: 2550
+  map_name_id: 2550
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Chicken Farm
+- map_id: 2551
+  map_vnum: 2551
+  map_name_id: 2551
+  map_music_id: 15
+  flags:
+#
+# Breeding Grounds
+- map_id: 2552
+  map_vnum: 2552
+  map_name_id: 2552
+  map_music_id: 16
+  flags:
+#
+# Kertos' Cave
+- map_id: 2553
+  map_vnum: 2553
+  map_name_id: 2553
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Kertos' Path
+- map_id: 2554
+  map_vnum: 2554
+  map_name_id: 2554
+  map_music_id: 15
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Kertos' Lair
+- map_id: 2555
+  map_vnum: 2555
+  map_name_id: 2555
+  map_music_id: 16
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Valakus' Cave
+- map_id: 2556
+  map_vnum: 2556
+  map_name_id: 2556
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Valakus' Path
+- map_id: 2557
+  map_vnum: 2557
+  map_name_id: 2557
+  map_music_id: 15
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Valakus' Lair
+- map_id: 2558
+  map_vnum: 2558
+  map_name_id: 2558
+  map_music_id: 16
+  flags:
+  - ACT_5_2
+  - HAS_BURNING_SWORD_ENABLED
+#
+# Full Moon Roof
+- map_id: 2560
+  map_vnum: 2560
+  map_name_id: 2560
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Namaju's Lair
+- map_id: 2561
+  map_vnum: 2561
+  map_name_id: 2561
+  map_music_id: 15
+  flags:
+#
+# Namaju's Lair
+- map_id: 2562
+  map_vnum: 2562
+  map_name_id: 2562
+  map_music_id: 15
+  flags:
+#
+# Namaju's Lair
+- map_id: 2563
+  map_vnum: 2563
+  map_name_id: 2563
+  map_music_id: 15
+  flags:
+#
+# Namaju's Lair
+- map_id: 2564
+  map_vnum: 2564
+  map_name_id: 2564
+  map_music_id: 15
+  flags:
+#
+# Namaju's Lair
+- map_id: 2565
+  map_vnum: 2565
+  map_name_id: 2565
+  map_music_id: 15
+  flags:
+#
+# Cosy Garden
+- map_id: 2566
+  map_vnum: 2566
+  map_name_id: 2566
+  map_music_id: 16
+  flags:
+#
+# Snow Trail
+- map_id: 2580
+  map_vnum: 2580
+  map_name_id: 2580
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# ???
+- map_id: 2581
+  map_vnum: 2581
+  map_name_id: 2581
+  map_music_id: 55
+  flags:
+#
+# Jack's Hideout
+- map_id: 2583
+  map_vnum: 2583
+  map_name_id: 2583
+  map_music_id: 55
+  flags:
+#
+# Jack's Hideout
+- map_id: 2584
+  map_vnum: 2584
+  map_name_id: 2584
+  map_music_id: 55
+  flags:
+#
+# Wedding Gazebo
+- map_id: 2586
+  map_vnum: 2586
+  map_name_id: 2586
+  map_music_id: 6
+  flags:
+  - IS_BASE_MAP
+#
+# Water Grotto
+- map_id: 2587
+  map_vnum: 2587
+  map_name_id: 2587
+  map_music_id: 66
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# ???
+- map_id: 2588
+  map_vnum: 2588
+  map_name_id: 2588
+  map_music_id: 66
+  flags:
+#
+# ???
+- map_id: 2589
+  map_vnum: 2589
+  map_name_id: 2589
+  map_music_id: 16
+  flags:
+#
+# Secret Path
+- map_id: 2590
+  map_vnum: 2590
+  map_name_id: 2590
+  map_music_id: 53
+  flags:
+  - IS_BASE_MAP
+  - ACT_5_1
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Robber Cellar
+- map_id: 2591
+  map_vnum: 2591
+  map_name_id: 2591
+  map_music_id: 15
+  flags:
+  - ACT_5_1
+#
+# Robber Altar
+- map_id: 2592
+  map_vnum: 2592
+  map_name_id: 2592
+  map_music_id: 15
+  flags:
+  - ACT_5_1
+#
+# ???
+- map_id: 2593
+  map_vnum: 2593
+  map_name_id: 2593
+  map_music_id: 16
+  flags:
+  - ACT_5_1
+#
+# ???
+- map_id: 2600
+  map_vnum: 2600
+  map_name_id: 2600
+  map_music_id: 75
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# ???
+- map_id: 2601
+  map_vnum: 2601
+  map_name_id: 2601
+  map_music_id: 75
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# ???
+- map_id: 2602
+  map_vnum: 2602
+  map_name_id: 2602
+  map_music_id: 16
+  flags:
+  - ACT_6_1
+  - ANGEL_SIDE
+#
+# ???
+- map_id: 2603
+  map_vnum: 2603
+  map_name_id: 2603
+  map_music_id: 77
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# ???
+- map_id: 2604
+  map_vnum: 2604
+  map_name_id: 2604
+  map_music_id: 77
+  flags:
+  - IS_BASE_MAP
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# ???
+- map_id: 2605
+  map_vnum: 2605
+  map_name_id: 2605
+  map_music_id: 16
+  flags:
+  - ACT_6_1
+  - DEMON_SIDE
+#
+# Castle Treasury
+- map_id: 2610
+  map_vnum: 2610
+  map_name_id: 2610
+  map_music_id: 55
+#
+# Castle Aria Int.
+- map_id: 2611
+  map_vnum: 2611
+  map_name_id: 2611
+  map_music_id: 55
+#
+# Castle Aria Int.
+- map_id: 2612
+  map_vnum: 2612
+  map_name_id: 2612
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Forgotten Tower
+- map_id: 2613
+  map_vnum: 2613
+  map_name_id: 2613
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Forgotten Tower 1
+- map_id: 2614
+  map_vnum: 2614
+  map_name_id: 2614
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Forgotten Tower 2
+- map_id: 2615
+  map_vnum: 2615
+  map_name_id: 2615
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Forgotten Tower 3
+- map_id: 2616
+  map_vnum: 2616
+  map_name_id: 2616
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Forgotten Tower 4
+- map_id: 2617
+  map_vnum: 2617
+  map_name_id: 2617
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Forgotten Tower 5
+- map_id: 2618
+  map_vnum: 2618
+  map_name_id: 2618
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Forgotten Tower 6
+- map_id: 2619
+  map_vnum: 2619
+  map_name_id: 2619
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# Forgotten Tower 7
+- map_id: 2620
+  map_vnum: 2620
+  map_name_id: 2620
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 2621
+  map_vnum: 2621
+  map_name_id: 2621
+  map_music_id: 55
+#
+# ???
+- map_id: 2622
+  map_vnum: 2622
+  map_name_id: 2622
+  map_music_id: 55
+#
+# Catacombs Entrance
+- map_id: 2623
+  map_vnum: 2623
+  map_name_id: 2623
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+  - HAS_RAID_TEAM_SUMMON_STONE_ENABLED
+#
+# Catacombs Region
+- map_id: 2624
+  map_vnum: 2624
+  map_name_id: 2624
+  map_music_id: 55
+#
+# Lost Catacombs
+- map_id: 2625
+  map_vnum: 2625
+  map_name_id: 2625
+  map_music_id: 55
+#
+# ???
+- map_id: 2626
+  map_vnum: 2626
+  map_name_id: 2626
+  map_music_id: 55
+#
+# Occ. Chicken Farm
+- map_id: 2627
+  map_vnum: 2627
+  map_name_id: 2627
+  map_music_id: 55
+#
+# ???
+- map_id: 2628
+  map_vnum: 2628
+  map_name_id: 2628
+  map_music_id: 115
+  flags:
+  - IS_BASE_MAP
+  - ACT_7
+#
+# ???
+- map_id: 2629
+  map_vnum: 2629
+  map_name_id: 2629
+  map_music_id: 55
+#
+# ???
+- map_id: 2630
+  map_vnum: 2630
+  map_name_id: 2630
+  map_music_id: 113
+#
+# ???
+- map_id: 2631
+  map_vnum: 2631
+  map_name_id: 2631
+  map_music_id: 113
+#
+# ???
+- map_id: 2632
+  map_vnum: 2632
+  map_name_id: 2632
+  map_music_id: 113
+#
+# ???
+- map_id: 2633
+  map_vnum: 2633
+  map_name_id: 2633
+  map_music_id: 114
+#
+# ???
+- map_id: 2634
+  map_vnum: 2634
+  map_name_id: 2634
+  map_music_id: 114
+#
+# ???
+- map_id: 2635
+  map_vnum: 2635
+  map_name_id: 2635
+  map_music_id: 116
+#
+# ???
+- map_id: 2636
+  map_vnum: 2636
+  map_name_id: 2636
+  map_music_id: 116
+#
+# ???
+- map_id: 2637
+  map_vnum: 2637
+  map_name_id: 2637
+  map_music_id: 114
+#
+# ???
+- map_id: 2638
+  map_vnum: 2638
+  map_name_id: 2638
+  map_music_id: 118
+#
+# ???
+- map_id: 2639
+  map_vnum: 2639
+  map_name_id: 2639
+  map_music_id: 55
+#
+# ???
+- map_id: 2640
+  map_vnum: 2640
+  map_name_id: 2640
+  map_music_id: 117
+#
+# ???
+- map_id: 2641
+  map_vnum: 2641
+  map_name_id: 2641
+  map_music_id: 117
+#
+# ???
+- map_id: 2642
+  map_vnum: 2642
+  map_name_id: 2642
+  map_music_id: 55
+#
+# ???
+- map_id: 2643
+  map_vnum: 2643
+  map_name_id: 2643
+  map_music_id: 55
+#
+# ???
+- map_id: 2644
+  map_vnum: 2644
+  map_name_id: 2644
+  map_music_id: 55
+#
+# ???
+- map_id: 2649
+  map_vnum: 2649
+  map_name_id: 2649
+  map_music_id: 55
+#
+# ???
+- map_id: 2650
+  map_vnum: 2650
+  map_name_id: 2650
+  map_music_id: 55
+  flags:
+  - ACT_7
+#
+# Hero Mine
+- map_id: 4000
+  map_vnum: 4000
+  map_name_id: 4000
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4001
+  map_vnum: 4001
+  map_name_id: 4001
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4002
+  map_vnum: 4002
+  map_name_id: 4002
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4003
+  map_vnum: 4003
+  map_name_id: 4003
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4004
+  map_vnum: 4004
+  map_name_id: 4004
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4005
+  map_vnum: 4005
+  map_name_id: 4005
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4006
+  map_vnum: 4006
+  map_name_id: 4006
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4007
+  map_vnum: 4007
+  map_name_id: 4007
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4008
+  map_vnum: 4008
+  map_name_id: 4008
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4009
+  map_vnum: 4009
+  map_name_id: 4009
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4010
+  map_vnum: 4010
+  map_name_id: 4010
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4011
+  map_vnum: 4011
+  map_name_id: 4011
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4012
+  map_vnum: 4012
+  map_name_id: 4012
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4013
+  map_vnum: 4013
+  map_name_id: 4013
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4014
+  map_vnum: 4014
+  map_name_id: 4014
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4015
+  map_vnum: 4015
+  map_name_id: 4015
+  map_music_id: 90
+  flags:
+#
+# Hero Mine
+- map_id: 4016
+  map_vnum: 4016
+  map_name_id: 4016
+  map_music_id: 90
+  flags:
+#
+# Plateau of Action
+- map_id: 4100
+  map_vnum: 4100
+  map_name_id: 4100
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4101
+  map_vnum: 4101
+  map_name_id: 4101
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4102
+  map_vnum: 4102
+  map_name_id: 4102
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4103
+  map_vnum: 4103
+  map_name_id: 4103
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4104
+  map_vnum: 4104
+  map_name_id: 4104
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4105
+  map_vnum: 4105
+  map_name_id: 4105
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4106
+  map_vnum: 4106
+  map_name_id: 4106
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4107
+  map_vnum: 4107
+  map_name_id: 4107
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4108
+  map_vnum: 4108
+  map_name_id: 4108
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4109
+  map_vnum: 4109
+  map_name_id: 4109
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4110
+  map_vnum: 4110
+  map_name_id: 4110
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4111
+  map_vnum: 4111
+  map_name_id: 4111
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4112
+  map_vnum: 4112
+  map_name_id: 4112
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4113
+  map_vnum: 4113
+  map_name_id: 4113
+  map_music_id: 50
+  flags:
+#
+# Plateau of Action
+- map_id: 4114
+  map_vnum: 4114
+  map_name_id: 4114
+  map_music_id: 50
+  flags:
+#
+# Plateau of Time
+- map_id: 4200
+  map_vnum: 4200
+  map_name_id: 4200
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4201
+  map_vnum: 4201
+  map_name_id: 4201
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4202
+  map_vnum: 4202
+  map_name_id: 4202
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4203
+  map_vnum: 4203
+  map_name_id: 4203
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4204
+  map_vnum: 4204
+  map_name_id: 4204
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4205
+  map_vnum: 4205
+  map_name_id: 4205
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4206
+  map_vnum: 4206
+  map_name_id: 4206
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4207
+  map_vnum: 4207
+  map_name_id: 4207
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4208
+  map_vnum: 4208
+  map_name_id: 4208
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4209
+  map_vnum: 4209
+  map_name_id: 4209
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4210
+  map_vnum: 4210
+  map_name_id: 4210
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4211
+  map_vnum: 4211
+  map_name_id: 4211
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4212
+  map_vnum: 4212
+  map_name_id: 4212
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4213
+  map_vnum: 4213
+  map_name_id: 4213
+  map_music_id: 51
+  flags:
+#
+# Plateau of Time
+- map_id: 4214
+  map_vnum: 4214
+  map_name_id: 4214
+  map_music_id: 51
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4300
+  map_vnum: 4300
+  map_name_id: 4300
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4301
+  map_vnum: 4301
+  map_name_id: 4301
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4302
+  map_vnum: 4302
+  map_name_id: 4302
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4303
+  map_vnum: 4303
+  map_name_id: 4303
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4304
+  map_vnum: 4304
+  map_name_id: 4304
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4305
+  map_vnum: 4305
+  map_name_id: 4305
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4306
+  map_vnum: 4306
+  map_name_id: 4306
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4307
+  map_vnum: 4307
+  map_name_id: 4307
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4308
+  map_vnum: 4308
+  map_name_id: 4308
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4309
+  map_vnum: 4309
+  map_name_id: 4309
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4310
+  map_vnum: 4310
+  map_name_id: 4310
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4311
+  map_vnum: 4311
+  map_name_id: 4311
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4312
+  map_vnum: 4312
+  map_name_id: 4312
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4313
+  map_vnum: 4313
+  map_name_id: 4313
+  map_music_id: 52
+  flags:
+#
+# Plain of Emptiness
+- map_id: 4314
+  map_vnum: 4314
+  map_name_id: 4314
+  map_music_id: 52
+  flags:
+#
+# Strange World
+- map_id: 4315
+  map_vnum: 4315
+  map_name_id: 4315
+  map_music_id: 55
+  flags:
+#
+# Strange World
+- map_id: 4316
+  map_vnum: 4316
+  map_name_id: 4316
+  map_music_id: 55
+  flags:
+#
+# Strange World
+- map_id: 4317
+  map_vnum: 4317
+  map_name_id: 4317
+  map_music_id: 55
+  flags:
+#
+# Strange World
+- map_id: 4318
+  map_vnum: 4318
+  map_name_id: 4318
+  map_music_id: 55
+  flags:
+#
+# Strange World
+- map_id: 4319
+  map_vnum: 4319
+  map_name_id: 4319
+  map_music_id: 55
+  flags:
+#
+# Strange World
+- map_id: 4320
+  map_vnum: 4320
+  map_name_id: 4320
+  map_music_id: 55
+  flags:
+#
+# Hero Temple
+- map_id: 4400
+  map_vnum: 4400
+  map_name_id: 4400
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4401
+  map_vnum: 4401
+  map_name_id: 4401
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4402
+  map_vnum: 4402
+  map_name_id: 4402
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4403
+  map_vnum: 4403
+  map_name_id: 4403
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4404
+  map_vnum: 4404
+  map_name_id: 4404
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4405
+  map_vnum: 4405
+  map_name_id: 4405
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4406
+  map_vnum: 4406
+  map_name_id: 4406
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4407
+  map_vnum: 4407
+  map_name_id: 4407
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4408
+  map_vnum: 4408
+  map_name_id: 4408
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4409
+  map_vnum: 4409
+  map_name_id: 4409
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4410
+  map_vnum: 4410
+  map_name_id: 4410
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4411
+  map_vnum: 4411
+  map_name_id: 4411
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4412
+  map_vnum: 4412
+  map_name_id: 4412
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4413
+  map_vnum: 4413
+  map_name_id: 4413
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4414
+  map_vnum: 4414
+  map_name_id: 4414
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4415
+  map_vnum: 4415
+  map_name_id: 4415
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4416
+  map_vnum: 4416
+  map_name_id: 4416
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4417
+  map_vnum: 4417
+  map_name_id: 4417
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4418
+  map_vnum: 4418
+  map_name_id: 4418
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4419
+  map_vnum: 4419
+  map_name_id: 4419
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4420
+  map_vnum: 4420
+  map_name_id: 4420
+  map_music_id: 90
+  flags:
+#
+# Hero Temple
+- map_id: 4421
+  map_vnum: 4421
+  map_name_id: 4421
+  map_music_id: 90
+  flags:
+#
+# Roots of Fernon
+- map_id: 4500
+  map_vnum: 4500
+  map_name_id: 4500
+  map_music_id: 90
+  flags:
+#
+# Roots of Fernon
+- map_id: 4501
+  map_vnum: 4501
+  map_name_id: 4501
+  map_music_id: 90
+  flags:
+#
+# Roots of Fernon
+- map_id: 4502
+  map_vnum: 4502
+  map_name_id: 4502
+  map_music_id: 90
+  flags:
+#
+# Roots of Fernon
+- map_id: 4503
+  map_vnum: 4503
+  map_name_id: 4503
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4600
+  map_vnum: 4600
+  map_name_id: 4600
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4601
+  map_vnum: 4601
+  map_name_id: 4601
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4602
+  map_vnum: 4602
+  map_name_id: 4602
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4603
+  map_vnum: 4603
+  map_name_id: 4603
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4604
+  map_vnum: 4604
+  map_name_id: 4604
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4605
+  map_vnum: 4605
+  map_name_id: 4605
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4606
+  map_vnum: 4606
+  map_name_id: 4606
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4607
+  map_vnum: 4607
+  map_name_id: 4607
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4608
+  map_vnum: 4608
+  map_name_id: 4608
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4609
+  map_vnum: 4609
+  map_name_id: 4609
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4610
+  map_vnum: 4610
+  map_name_id: 4610
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4611
+  map_vnum: 4611
+  map_name_id: 4611
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4612
+  map_vnum: 4612
+  map_name_id: 4612
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4613
+  map_vnum: 4613
+  map_name_id: 4613
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4614
+  map_vnum: 4614
+  map_name_id: 4614
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4615
+  map_vnum: 4615
+  map_name_id: 4615
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4616
+  map_vnum: 4616
+  map_name_id: 4616
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4617
+  map_vnum: 4617
+  map_name_id: 4617
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4618
+  map_vnum: 4618
+  map_name_id: 4618
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4619
+  map_vnum: 4619
+  map_name_id: 4619
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4620
+  map_vnum: 4620
+  map_name_id: 4620
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4621
+  map_vnum: 4621
+  map_name_id: 4621
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4622
+  map_vnum: 4622
+  map_name_id: 4622
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4623
+  map_vnum: 4623
+  map_name_id: 4623
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4624
+  map_vnum: 4624
+  map_name_id: 4624
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4625
+  map_vnum: 4625
+  map_name_id: 4625
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4626
+  map_vnum: 4626
+  map_name_id: 4626
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4627
+  map_vnum: 4627
+  map_name_id: 4627
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4630
+  map_vnum: 4630
+  map_name_id: 4630
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4631
+  map_vnum: 4631
+  map_name_id: 4631
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4632
+  map_vnum: 4632
+  map_name_id: 4632
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4633
+  map_vnum: 4633
+  map_name_id: 4633
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4634
+  map_vnum: 4634
+  map_name_id: 4634
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4635
+  map_vnum: 4635
+  map_name_id: 4635
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4636
+  map_vnum: 4636
+  map_name_id: 4636
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4637
+  map_vnum: 4637
+  map_name_id: 4637
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4638
+  map_vnum: 4638
+  map_name_id: 4638
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4639
+  map_vnum: 4639
+  map_name_id: 4639
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4640
+  map_vnum: 4640
+  map_name_id: 4640
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4641
+  map_vnum: 4641
+  map_name_id: 4641
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4642
+  map_vnum: 4642
+  map_name_id: 4642
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4643
+  map_vnum: 4643
+  map_name_id: 4643
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4644
+  map_vnum: 4644
+  map_name_id: 4644
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4645
+  map_vnum: 4645
+  map_name_id: 4645
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4646
+  map_vnum: 4646
+  map_name_id: 4646
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4647
+  map_vnum: 4647
+  map_name_id: 4647
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4648
+  map_vnum: 4648
+  map_name_id: 4648
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4649
+  map_vnum: 4649
+  map_name_id: 4649
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4650
+  map_vnum: 4650
+  map_name_id: 4650
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4651
+  map_vnum: 4651
+  map_name_id: 4651
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4652
+  map_vnum: 4652
+  map_name_id: 4652
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4653
+  map_vnum: 4653
+  map_name_id: 4653
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4654
+  map_vnum: 4654
+  map_name_id: 4654
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4655
+  map_vnum: 4655
+  map_name_id: 4655
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4656
+  map_vnum: 4656
+  map_name_id: 4656
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4657
+  map_vnum: 4657
+  map_name_id: 4657
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4658
+  map_vnum: 4658
+  map_name_id: 4658
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4659
+  map_vnum: 4659
+  map_name_id: 4659
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4660
+  map_vnum: 4660
+  map_name_id: 4660
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4661
+  map_vnum: 4661
+  map_name_id: 4661
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4662
+  map_vnum: 4662
+  map_name_id: 4662
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4663
+  map_vnum: 4663
+  map_name_id: 4663
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4664
+  map_vnum: 4664
+  map_name_id: 4664
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4665
+  map_vnum: 4665
+  map_name_id: 4665
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4666
+  map_vnum: 4666
+  map_name_id: 4666
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4667
+  map_vnum: 4667
+  map_name_id: 4667
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4668
+  map_vnum: 4668
+  map_name_id: 4668
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4669
+  map_vnum: 4669
+  map_name_id: 4669
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4670
+  map_vnum: 4670
+  map_name_id: 4670
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4671
+  map_vnum: 4671
+  map_name_id: 4671
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4672
+  map_vnum: 4672
+  map_name_id: 4672
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4673
+  map_vnum: 4673
+  map_name_id: 4673
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4674
+  map_vnum: 4674
+  map_name_id: 4674
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4675
+  map_vnum: 4675
+  map_name_id: 4675
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4676
+  map_vnum: 4676
+  map_name_id: 4676
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4677
+  map_vnum: 4677
+  map_name_id: 4677
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4700
+  map_vnum: 4700
+  map_name_id: 4700
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4701
+  map_vnum: 4701
+  map_name_id: 4701
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4702
+  map_vnum: 4702
+  map_name_id: 4702
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4703
+  map_vnum: 4703
+  map_name_id: 4703
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4704
+  map_vnum: 4704
+  map_name_id: 4704
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4705
+  map_vnum: 4705
+  map_name_id: 4705
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4706
+  map_vnum: 4706
+  map_name_id: 4706
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4707
+  map_vnum: 4707
+  map_name_id: 4707
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4708
+  map_vnum: 4708
+  map_name_id: 4708
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4709
+  map_vnum: 4709
+  map_name_id: 4709
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4710
+  map_vnum: 4710
+  map_name_id: 4710
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4711
+  map_vnum: 4711
+  map_name_id: 4711
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4712
+  map_vnum: 4712
+  map_name_id: 4712
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4713
+  map_vnum: 4713
+  map_name_id: 4713
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4714
+  map_vnum: 4714
+  map_name_id: 4714
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4715
+  map_vnum: 4715
+  map_name_id: 4715
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4716
+  map_vnum: 4716
+  map_name_id: 4716
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4717
+  map_vnum: 4717
+  map_name_id: 4717
+  map_music_id: 90
+  flags:
+#
+# ???
+- map_id: 4800
+  map_vnum: 4800
+  map_name_id: 4800
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4801
+  map_vnum: 4801
+  map_name_id: 4801
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4802
+  map_vnum: 4802
+  map_name_id: 4802
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4803
+  map_vnum: 4803
+  map_name_id: 4803
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4804
+  map_vnum: 4804
+  map_name_id: 4804
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4805
+  map_vnum: 4805
+  map_name_id: 4805
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4806
+  map_vnum: 4806
+  map_name_id: 4806
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4807
+  map_vnum: 4807
+  map_name_id: 4807
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4808
+  map_vnum: 4808
+  map_name_id: 4808
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4809
+  map_vnum: 4809
+  map_name_id: 4809
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4810
+  map_vnum: 4810
+  map_name_id: 4810
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4811
+  map_vnum: 4811
+  map_name_id: 4811
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4812
+  map_vnum: 4812
+  map_name_id: 4812
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4813
+  map_vnum: 4813
+  map_name_id: 4813
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4814
+  map_vnum: 4814
+  map_name_id: 4814
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4815
+  map_vnum: 4815
+  map_name_id: 4815
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4816
+  map_vnum: 4816
+  map_name_id: 4816
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 4817
+  map_vnum: 4817
+  map_name_id: 4817
+  map_music_id: 51
+  flags:
+#
+# ???
+- map_id: 5002
+  map_vnum: 5002
+  map_name_id: 5002
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5003
+  map_vnum: 5003
+  map_name_id: 5003
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5004
+  map_vnum: 5004
+  map_name_id: 5004
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5005
+  map_vnum: 5005
+  map_name_id: 5005
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5006
+  map_vnum: 5006
+  map_name_id: 5006
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5007
+  map_vnum: 5007
+  map_name_id: 5007
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5008
+  map_vnum: 5008
+  map_name_id: 5008
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5009
+  map_vnum: 5009
+  map_name_id: 5009
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 5100
+  map_vnum: 5100
+  map_name_id: 5100
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5201
+  map_vnum: 5201
+  map_name_id: 5201
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5202
+  map_vnum: 5202
+  map_name_id: 5202
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5203
+  map_vnum: 5203
+  map_name_id: 5203
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5204
+  map_vnum: 5204
+  map_name_id: 5204
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5205
+  map_vnum: 5205
+  map_name_id: 5205
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5206
+  map_vnum: 5206
+  map_name_id: 5206
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5207
+  map_vnum: 5207
+  map_name_id: 5207
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5208
+  map_vnum: 5208
+  map_name_id: 5208
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5301
+  map_vnum: 5301
+  map_name_id: 5301
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5302
+  map_vnum: 5302
+  map_name_id: 5302
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5303
+  map_vnum: 5303
+  map_name_id: 5303
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5304
+  map_vnum: 5304
+  map_name_id: 5304
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5305
+  map_vnum: 5305
+  map_name_id: 5305
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5306
+  map_vnum: 5306
+  map_name_id: 5306
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5307
+  map_vnum: 5307
+  map_name_id: 5307
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5308
+  map_vnum: 5308
+  map_name_id: 5308
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5400
+  map_vnum: 5400
+  map_name_id: 5400
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5401
+  map_vnum: 5401
+  map_name_id: 5401
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5402
+  map_vnum: 5402
+  map_name_id: 5402
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5403
+  map_vnum: 5403
+  map_name_id: 5403
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5404
+  map_vnum: 5404
+  map_name_id: 5404
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5410
+  map_vnum: 5410
+  map_name_id: 5410
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5411
+  map_vnum: 5411
+  map_name_id: 5411
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5412
+  map_vnum: 5412
+  map_name_id: 5412
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5413
+  map_vnum: 5413
+  map_name_id: 5413
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5414
+  map_vnum: 5414
+  map_name_id: 5414
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5415
+  map_vnum: 5415
+  map_name_id: 5415
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5416
+  map_vnum: 5416
+  map_name_id: 5416
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5417
+  map_vnum: 5417
+  map_name_id: 5417
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5418
+  map_vnum: 5418
+  map_name_id: 5418
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5419
+  map_vnum: 5419
+  map_name_id: 5419
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5420
+  map_vnum: 5420
+  map_name_id: 5420
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5421
+  map_vnum: 5421
+  map_name_id: 5421
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5422
+  map_vnum: 5422
+  map_name_id: 5422
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5423
+  map_vnum: 5423
+  map_name_id: 5423
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5424
+  map_vnum: 5424
+  map_name_id: 5424
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5425
+  map_vnum: 5425
+  map_name_id: 5425
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5426
+  map_vnum: 5426
+  map_name_id: 5426
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5427
+  map_vnum: 5427
+  map_name_id: 5427
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5428
+  map_vnum: 5428
+  map_name_id: 5428
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5429
+  map_vnum: 5429
+  map_name_id: 5429
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5430
+  map_vnum: 5430
+  map_name_id: 5430
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5431
+  map_vnum: 5431
+  map_name_id: 5431
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5432
+  map_vnum: 5432
+  map_name_id: 5432
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5433
+  map_vnum: 5433
+  map_name_id: 5433
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5434
+  map_vnum: 5434
+  map_name_id: 5434
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5435
+  map_vnum: 5435
+  map_name_id: 5435
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5436
+  map_vnum: 5436
+  map_name_id: 5436
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5437
+  map_vnum: 5437
+  map_name_id: 5437
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5438
+  map_vnum: 5438
+  map_name_id: 5438
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 5439
+  map_vnum: 5439
+  map_name_id: 5439
+  map_music_id: 50
+  flags:
+#
+# ???
+- map_id: 9305
+  map_vnum: 9305
+  map_name_id: 9305
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 9307
+  map_vnum: 9307
+  map_name_id: 9307
+  map_music_id: 55
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 9990
+  map_vnum: 9990
+  map_name_id: 9990
+  map_music_id: 60
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 9995
+  map_vnum: 9995
+  map_name_id: 9995
+  map_music_id: 60
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 9998
+  map_vnum: 9998
+  map_name_id: 9998
+  map_music_id: 60
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 9999
+  map_vnum: 9999
+  map_name_id: 9999
+  map_music_id: 60
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 10000
+  map_vnum: 10000
+  map_name_id: 10000
+  map_music_id: 80
+  flags:
+  - IS_BASE_MAP
+#
+# ???
+- map_id: 15000
+  map_vnum: 15000
+  map_name_id: 15000
+  map_music_id: 55
+  flags:
+#
+# ???
+- map_id: 15001
+  map_vnum: 15001
+  map_name_id: 15001
+  map_music_id: 55
+  flags:
+#
+# Miniland
+- map_id: 20001
+  map_vnum: 20001
+  map_name_id: 20001
+  map_music_id: 80
+  flags:
+  - IS_MINILAND_MAP

@@ -1,0 +1,22 @@
+portals:
+- destination_map_id: 2635
+  destination_map_x: 145
+  destination_map_y: 70
+  source_map_id: 2637
+  source_map_x: 15
+  source_map_y: 100
+  type: -1
+- destination_map_id: 2628
+  destination_map_x: 111
+  destination_map_y: 126
+  source_map_id: 2637
+  source_map_x: 110
+  source_map_y: 1
+  type: -1
+- destination_map_id: 2638
+  destination_map_x: 1
+  destination_map_y: 51
+  source_map_id: 2637
+  source_map_x: 197
+  source_map_y: 38
+  type: -1

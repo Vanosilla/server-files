@@ -1,0 +1,10 @@
+map_id: 234
+npcs:
+- map_npc_id: 11866
+  vnum: 2544
+  pos_x: 120
+  pos_y: 109
+  effect_delay: 4750
+  dialog_id: 9774
+  direction_facing: 6
+  can_move: true

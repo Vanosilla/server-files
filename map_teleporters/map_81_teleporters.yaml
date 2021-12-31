@@ -1,0 +1,10 @@
+map_id: 81
+teleporters:
+- map_npc_id: 6750
+  map_x: 5
+  map_y: 80
+  type: 1
+- map_npc_id: 6751
+  map_x: 5
+  map_y: 50
+  type: 1

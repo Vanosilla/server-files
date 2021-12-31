@@ -1,0 +1,9 @@
+map_id: 33
+npcs:
+- map_npc_id: 24807
+  custom_name: "Catherine de Fruitcheesecake"
+  vnum: 249
+  pos_x: 5
+  pos_y: 18
+  dialog_id: 20011
+  direction_facing: 1

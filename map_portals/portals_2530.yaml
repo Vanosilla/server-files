@@ -1,0 +1,16 @@
+portals:
+- destination_map_id: 27
+  destination_map_x: 80
+  destination_map_y: 24
+  source_map_id: 2530
+  source_map_x: 25
+  source_map_y: 52
+  type: -1
+- destination_map_id: 2532
+  destination_map_x: 0
+  destination_map_y: 0
+  source_map_id: 2530
+  source_map_x: 24
+  source_map_y: 12
+  type: 8
+  raid_type: 3

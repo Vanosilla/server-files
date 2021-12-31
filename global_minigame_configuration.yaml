@@ -1,0 +1,20 @@
+# Configuration related to mini-games rates
+
+maxmimum_minigame_points: 2000
+minigame_points_cost_per_minigame: 100
+production_coupon_vnum: 1271
+production_coupon_points_amount: 500
+repair_durability_gold_cost: 100
+repair_durability_coupon_vnum: 1269
+durability_coupon_repairing_amount: 300
+durability_warning: 1000
+minigame_maximum_rewards: 999
+double_reward_coupon_vnum: 1270
+minigame_rewards_inventory_warning: 880
+minigame_rewards_inventory_ultimatum: 970
+anti_exploit_configuration:
+  minigame_abuse_detection_threshold: 0.5
+  common_time_expended_in_minigames_per_day: 02:00:00
+  percentage_for_same_score_check: 0.5
+  use_same_score_check_at_x_minigames: 10
+  give_rewards_to_possible_false_positives: false

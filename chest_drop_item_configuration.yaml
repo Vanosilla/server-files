@@ -1,0 +1,45 @@
+# Configuration related to Time-Space rewards from boxes
+
+- id: 2
+  item_chance: 70
+  possible_items:
+  - item_vnum: 2034
+    amount: 5
+  - item_vnum: 2038
+    amount: 5
+  - item_vnum: 2042
+    amount: 5
+  - item_vnum: 2046
+    amount: 5
+  - item_vnum: 2032
+    amount: 5
+- id: 3
+  item_chance: 80
+  possible_items:
+  - item_vnum: 2035
+    amount: 5
+  - item_vnum: 2039
+    amount: 5
+  - item_vnum: 2043
+    amount: 5
+  - item_vnum: 2047
+    amount: 5
+  - item_vnum: 2032
+    amount: 10
+  - item_vnum: 1122
+    amount: 10
+- id: 4
+  item_chance: 90
+  possible_items:
+  - item_vnum: 2036
+    amount: 5
+  - item_vnum: 2040
+    amount: 5
+  - item_vnum: 2044
+    amount: 5
+  - item_vnum: 2048
+    amount: 5
+  - item_vnum: 2032
+    amount: 25
+  - item_vnum: 1244
+    amount: 10

@@ -1,0 +1,19 @@
+map_id: 87
+npcs:
+- map_npc_id: 7139
+  vnum: 327
+  pos_x: 18
+  pos_y: 3
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 7140
+  vnum: 392
+  pos_x: 14
+  dialog_id: 20012
+  direction_facing: 2
+- map_npc_id: 7141
+  vnum: 393
+  pos_x: 10
+  pos_y: 3
+  dialog_id: 20010
+  direction_facing: 2

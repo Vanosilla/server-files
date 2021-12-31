@@ -1,0 +1,90 @@
+vnum: 3121
+type: Quarry
+minimum_level: 40
+minimum_reputation: 25_001
+rewards:
+- reward_level: FirstReward
+  durability_cost: 7
+  rewards:
+  - vnum: 2099 #Red Fruits
+    amount: 4
+  - vnum: 2100 #Blue Herb
+    amount: 4
+  - vnum: 2102 #Sugar Beet
+    amount: 4
+  - vnum: 1031 #Red Crystal Piece
+    amount: 3
+  - vnum: 1032 #Blue Crystal Piece
+    amount: 3
+  - vnum: 1033 #White Crystal Piece
+    amount: 3
+  - vnum: 1034 #Black Crystal Piece
+    amount: 3
+- reward_level: SecondReward
+  durability_cost: 7
+  rewards:
+  - vnum: 2034 #Low Quality Metal
+    amount: 3
+  - vnum: 2038 #Low Quality Wood
+    amount: 3
+  - vnum: 2042 #Low Quality Rag
+    amount: 3
+  - vnum: 2046 #Low Quality Leather
+    amount: 3
+  - vnum: 2189 #Building Block
+    amount: 1
+  - vnum: 2205 #Mysterious Stone
+    amount: 1
+- reward_level: ThirdReward
+  durability_cost: 7
+  rewards:
+  - vnum: 2035 #Normal Metal
+    amount: 3
+  - vnum: 2039 #Normal Wood
+    amount: 3
+  - vnum: 2043 #Normal Rag
+    amount: 3
+  - vnum: 2047 #Normal Leather
+    amount: 3
+  - vnum: 2193 #Orichalcum
+    amount: 1
+  - vnum: 2105 #Stone Block
+    amount: 1
+- reward_level: FourthReward
+  durability_cost: 10
+  rewards:
+  - vnum: 2036 #High Quality Metal
+    amount: 3
+  - vnum: 2040 #High Quality Wood
+    amount: 3
+  - vnum: 2044 #High Quality Rag
+    amount: 3
+  - vnum: 2048 #High Quality Leather
+    amount: 3
+  - vnum: 2193 #Orichalcum
+    amount: 1
+  - vnum: 1028 #New Moon Crystal
+    amount: 1
+- reward_level: FifthReward
+  durability_cost: 15
+  rewards:
+  - vnum: 2037 #Rare Metal
+    amount: 3
+  - vnum: 2041 #Rare Wood
+    amount: 3
+  - vnum: 2045 #Rare Rag
+    amount: 3
+  - vnum: 2049 #Rare Leather
+    amount: 3
+  - vnum: 2193 #Orichalcum
+    amount: 1
+  - vnum: 2197 #Hammer
+    amount: 1
+  - vnum: 2226 #Stained Arrow Tip
+    amount: 1
+  - vnum: 1028 #New Moon Crystal
+    amount: 1
+  - vnum: 1029 #Half Moon Crystal
+    amount: 1
+#  - vnum: 9356 #Punter
+#    amount: 1

@@ -1,0 +1,8 @@
+portals:
+- destination_map_id: 3
+  destination_map_x: 10
+  destination_map_y: 208
+  source_map_id: 6
+  source_map_x: 9
+  source_map_y: 1
+  type: -1

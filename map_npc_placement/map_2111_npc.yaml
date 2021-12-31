@@ -1,0 +1,46 @@
+map_id: 2111
+npcs:
+- map_npc_id: 11452
+  vnum: 948
+  pos_x: 5
+  pos_y: 5
+  dialog_id: 7201
+  direction_facing: 2
+- map_npc_id: 24933
+  vnum: 352
+  custom_name: "Monkey Trainer"
+  pos_x: 1
+  pos_y: 1
+  effect_delay: -1
+  dialog_id: 15
+  direction_facing: 6
+  can_move: false
+  item_shop:
+    name: "If you are stupid enough to delete a quest item that you needed, click here"
+    shop_type: 10
+    menu_type: 0
+    tabs:
+    - shop_tab_id: 0
+      items:
+      - item_vnum: 1302 # Rebecca's Jewelled Belt
+        price: 1000000
+      - item_vnum: 1304 # Piena's Diary
+        price: 1000000
+      - item_vnum: 1324 # Bean Pod
+        price: 1000000
+      - item_vnum: 1325 # Flint
+        price: 1000000
+      - item_vnum: 1323 # Straw
+        price: 1000000
+      - item_vnum: 1331 # Special Water Bottle
+        price: 1000000
+      - item_vnum: 1322 # Special Bleach Recipe
+        price: 1000000
+      - item_vnum: 1311 # Ruddy's Handkerchief
+        price: 1000000
+      - item_vnum: 1326 # The Elementary Book of Adventurer
+        price: 1000000
+      - item_vnum: 1306 # Lucky Stone Necklace
+        price: 1000000
+      - item_vnum: 1308 # Justin's Portrait
+        price: 1000000

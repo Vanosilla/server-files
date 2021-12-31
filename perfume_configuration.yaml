@@ -1,0 +1,120 @@
+# Configuration related to equipment perfume
+
+- min_level: 1
+  max_level: 24
+  gold: 0
+  perfumes: []
+- min_level: 25
+  max_level: 39
+  gold: 5000
+  perfumes:
+  - rarity: 4
+    perfumes: 5
+  - rarity: 5
+    perfumes: 5
+  - rarity: 6
+    perfumes: 5
+  - rarity: 7
+    perfumes: 10
+- min_level: 40
+  max_level: 49
+  gold: 8000
+  perfumes:
+  - rarity: 3
+    perfumes: 5
+  - rarity: 4
+    perfumes: 5
+  - rarity: 5
+    perfumes: 10
+  - rarity: 6
+    perfumes: 20
+  - rarity: 7
+    perfumes: 40
+- min_level: 50
+  max_level: 59
+  gold: 10000
+  perfumes:
+  - rarity: 2
+    perfumes: 5
+  - rarity: 3
+    perfumes: 10
+  - rarity: 4
+    perfumes: 10
+  - rarity: 5
+    perfumes: 20
+  - rarity: 6
+    perfumes: 40
+  - rarity: 7
+    perfumes: 80
+- min_level: 60
+  max_level: 69
+  gold: 12500
+  perfumes:
+  - rarity: 1
+    perfumes: 5
+  - rarity: 2
+    perfumes: 10
+  - rarity: 3
+    perfumes: 10
+  - rarity: 4
+    perfumes: 20
+  - rarity: 5
+    perfumes: 40
+  - rarity: 6
+    perfumes: 80
+  - rarity: 7
+    perfumes: 120
+- min_level: 70
+  max_level: 79
+  gold: 15000
+  perfumes:
+  - rarity: 1
+    perfumes: 10
+  - rarity: 2
+    perfumes: 10
+  - rarity: 3
+    perfumes: 20
+  - rarity: 4
+    perfumes: 40
+  - rarity: 5
+    perfumes: 80
+  - rarity: 6
+    perfumes: 120
+  - rarity: 7
+    perfumes: 160
+- min_level: 80
+  max_level: 89
+  gold: 17500
+  perfumes:
+  - rarity: 1
+    perfumes: 10
+  - rarity: 2
+    perfumes: 20
+  - rarity: 3
+    perfumes: 40
+  - rarity: 4
+    perfumes: 80
+  - rarity: 5
+    perfumes: 120
+  - rarity: 6
+    perfumes: 160
+  - rarity: 7
+    perfumes: 200
+- min_level: 90
+  max_level: 99
+  gold: 20000
+  perfumes:
+  - rarity: 1
+    perfumes: 20
+  - rarity: 2
+    perfumes: 40
+  - rarity: 3
+    perfumes: 80
+  - rarity: 4
+    perfumes: 120
+  - rarity: 5
+    perfumes: 160
+  - rarity: 6
+    perfumes: 200
+  - rarity: 7
+    perfumes: 300

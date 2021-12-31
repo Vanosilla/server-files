@@ -1,0 +1,25 @@
+# Configuration related to Costume scroll
+
+- scroll_item_vnum: 1913  # Ice Costume Scroll
+  possible_morphs: # vnums, not morphid
+  - 248 # Darkwitch
+  - 249 # Bloodwitch
+  - 251 # Weak Deathwitch
+  - 276 # Dust King
+  - 325 # Cenil
+  - 404 # Pinching Torturer
+  - 405 # Wheel Torturer
+  - 406 # Iron Torturer
+  - 441 # Death Warrior
+  - 446 # Yak Warrior
+- scroll_item_vnum: 1947  # Halloween Costume Scoll
+  possible_morphs: # vnums, not morphid
+  - 520 # Enkidu
+  - 543 # Cappen
+  - 544 # Kangpen
+  - 545 # Jackpen
+  - 547 # Gnoll Warrior
+  - 549 # Giant Yeti
+  - 552 # Ice Witch
+  - 668 # Fierce Prota
+  - 754 # Snow Lion

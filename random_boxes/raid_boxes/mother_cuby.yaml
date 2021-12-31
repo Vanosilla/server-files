@@ -1,0 +1,62 @@
+random_boxes:
+- item_vnum: 1234 # Raidbox item vnum - you have to choose it
+  categories:
+#==================================================
+  - chance: 1  #1 to 10000   #0.01% to get legendary drop
+    items:
+    - item_vnum: 1127   # Mother Cuby Raid Seal x99
+      quantity: 99
+#==================================================
+  - chance: 100  #1 to 10000   #1% to get very rare drop
+    items:
+    - item_vnum: 1127   # Mother Cuby Raid Seal x99
+      quantity: 10
+#==================================================
+  - chance: 500  #1 to 10000   #5% to get rare drop
+    items:
+    - item_vnum: 1127   # Mother Cuby Raid Seal
+      quantity: 1
+#==================================================
+  - chance: 3400  #1 to 10000   #34% to get uncommon drop
+    items:
+    - item_vnum: 316   # 36Lv. gloves 0/8/0/0
+      quantity: 1
+    - item_vnum: 321   # 37Lv. boots 0/0/8/0
+      quantity: 1
+    - item_vnum: 1010   # big recovery potion x30
+      quantity: 30
+#==================================================
+  - chance: 5999  #1 to 10000   #59.99% to get common drop
+    items:
+    - item_vnum: 262   # 45Lv. swordie weapon
+      quantity: 1
+      random_rarity: true
+      minimum_random_rarity: 0
+      maximum_random_rarity: 7
+    - item_vnum: 265   # 45Lv. archer weapon
+      quantity: 1
+      random_rarity: true
+      minimum_random_rarity: 0
+      maximum_random_rarity: 7
+    - item_vnum: 268   # 45Lv. mage weapon
+      quantity: 1
+      random_rarity: true
+      minimum_random_rarity: 0
+      maximum_random_rarity: 7
+    - item_vnum: 26   # 46Lv. swordie weapon
+      quantity: 1
+      random_rarity: true
+      minimum_random_rarity: 0
+      maximum_random_rarity: 7
+    - item_vnum: 40   # 46Lv. archer weapon
+      quantity: 1
+      random_rarity: true
+      minimum_random_rarity: 0
+      maximum_random_rarity: 7
+    - item_vnum: 54   # 46Lv. mage weapon
+      quantity: 1
+      random_rarity: true
+      minimum_random_rarity: 0
+      maximum_random_rarity: 7
+    - item_vnum: 1009   # medium recovery potion x30
+      quantity: 30

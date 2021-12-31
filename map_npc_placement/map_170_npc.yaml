@@ -1,0 +1,167 @@
+map_id: 170
+npcs:
+#- map_npc_id: 9866
+#  vnum: 3109
+#  pos_x: 91
+#  pos_y: 68
+#  effect_delay: 4750
+#  dialog_id: 11007
+#  direction_facing: 0
+#  item_shop:
+#    name: "Moritius Crossing"
+#    menu_type: 0
+#    shop_type: 91
+#    tabs: []
+- map_npc_id: 9402
+  vnum: 1061
+  pos_x: 128
+  pos_y: 63
+  effect_delay: 4750
+  dialog_id: 102
+  direction_facing: 3
+- map_npc_id: 9403
+  vnum: 1062
+  pos_x: 62
+  pos_y: 82
+  effect_delay: 4750
+  dialog_id: 100
+  direction_facing: 1
+- map_npc_id: 9404
+  vnum: 1074
+  pos_x: 13
+  pos_y: 67
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9405
+  vnum: 1074
+  pos_x: 95
+  pos_y: 59
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9406
+  vnum: 1379
+  pos_x: 13
+  pos_y: 123
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9407
+  vnum: 1379
+  pos_x: 30
+  pos_y: 104
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9408
+  vnum: 1380
+  pos_x: 27
+  pos_y: 28
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9409
+  vnum: 1380
+  pos_x: 70
+  pos_y: 109
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9410
+  vnum: 1380
+  pos_x: 77
+  pos_y: 22
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9411
+  vnum: 955
+  pos_x: 89
+  pos_y: 45
+  effect_vnum: 857
+  effect_delay: 4750
+  dialog_id: 452
+  item_shop:
+    name: "Teleport"
+    tabs: []
+- map_npc_id: 9412
+  vnum: 1350
+  pos_x: 145
+  pos_y: 44
+  effect_delay: 4750
+  dialog_id: 446
+  direction_facing: 1
+  item_shop:
+    name: "Go back to Alveus"
+    tabs: []
+- map_npc_id: 9413
+  vnum: 1363
+  pos_x: 45
+  pos_y: 78
+  effect_delay: 4750
+  dialog_id: 449
+  item_shop:
+    name: "Desert Market"
+    shop_type: 35
+    tabs:
+    - items:
+      - item_vnum: 2373
+        price: 800
+      - item_vnum: 2374
+        price: 3000
+      - item_vnum: 2350
+        price: 5000
+      - item_vnum: 2375
+        price: 1200
+      - item_vnum: 2376
+        price: 2400
+      - item_vnum: 2295
+        price: 175
+      - item_vnum: 2385
+      - item_vnum: 2386
+      - item_vnum: 2387
+      - item_vnum: 2388
+      - item_vnum: 2389
+      - item_vnum: 2390
+      - item_vnum: 2391
+      - item_vnum: 2392
+      - item_vnum: 2393
+- map_npc_id: 9414
+  vnum: 1364
+  pos_x: 29
+  pos_y: 50
+  effect_delay: 4750
+  dialog_id: 450
+  direction_facing: 3
+  item_shop:
+    name: "Armory"
+    shop_type: 36
+    tabs:
+    - shop_tab_id: 12
+      items:
+      - item_vnum: 2082
+      - item_vnum: 2083
+- map_npc_id: 9415
+  vnum: 1365
+  pos_x: 48
+  pos_y: 57
+  effect_delay: 4750
+  dialog_id: 451
+  direction_facing: 2
+  item_shop:
+    name: "Alchemist"
+    shop_type: 37
+    tabs:
+    - items:
+      - item_vnum: 2384
+      - item_vnum: 2071
+      - item_vnum: 2072
+        price: 1200
+      - item_vnum: 2170
+        price: 50000
+      - item_vnum: 2156
+      - item_vnum: 2089
+        price: 30000
+      - item_vnum: 2329
+        price: 30000

@@ -1,0 +1,7 @@
+# Configuration related to NosBazaar - maximum amount of items listed, delay to refresh
+
+maximum_listed_items: 30
+maximum_listed_items_medal: 90
+delay_client_between_requests_in_secs: 3
+delay_server_between_requests_in_secs: 1
+items_per_index: 30

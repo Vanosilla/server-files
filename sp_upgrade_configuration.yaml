@@ -1,0 +1,271 @@
+# Configuration related to Specliast Card upgrade rates
+
+- sp_upgrade_range:
+    minimum: 0
+    maximum: 1
+  sp_level_needed: 21  # Removable if it is 0
+  destroy_chance: 0
+  success_chance: 80
+  gold_needed: 200_000
+  feather_needed: 3
+  full_moons_needed: 1
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2511
+    amount: 2
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2283
+    amount: 2
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 1
+    maximum: 2
+  sp_level_needed: 21  # Removable if it is 0
+  destroy_chance: 0
+  success_chance: 75
+  gold_needed: 200_000
+  feather_needed: 5
+  full_moons_needed: 3
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2511
+    amount: 4
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2283
+    amount: 4
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 2
+    maximum: 3
+  sp_level_needed: 21  # Removable if it is 0
+  destroy_chance: 5
+  success_chance: 70
+  gold_needed: 200_000
+  feather_needed: 8
+  full_moons_needed: 5
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2511
+    amount: 6
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2283
+    amount: 6
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 3
+    maximum: 4
+  sp_level_needed: 21  # Removable if it is 0
+  destroy_chance: 10
+  success_chance: 60
+  gold_needed: 200_000
+  feather_needed: 10
+  full_moons_needed: 7
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2511
+    amount: 8
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2283
+    amount: 8
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 4
+    maximum: 5
+  sp_level_needed: 21  # Removable if it is 0
+  destroy_chance: 15
+  success_chance: 50
+  gold_needed: 200_000
+  feather_needed: 15
+  full_moons_needed: 10
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2511
+    amount: 10
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2283
+    amount: 10
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 5
+    maximum: 6
+  sp_level_needed: 41  # Removable if it is 0
+  destroy_chance: 20
+  success_chance: 40
+  gold_needed: 500_000
+  feather_needed: 20
+  full_moons_needed: 12
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2512
+    amount: 1
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2284
+    amount: 1
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 6
+    maximum: 7
+  sp_level_needed: 41  # Removable if it is 0
+  destroy_chance: 25
+  success_chance: 35
+  gold_needed: 500_000
+  feather_needed: 25
+  full_moons_needed: 14
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2512
+    amount: 2
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2284
+    amount: 2
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 7
+    maximum: 8
+  sp_level_needed: 41  # Removable if it is 0
+  destroy_chance: 30
+  success_chance: 30
+  gold_needed: 500_000
+  feather_needed: 30
+  full_moons_needed: 16
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2512
+    amount: 3
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2284
+    amount: 3
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 8
+    maximum: 9
+  sp_level_needed: 41  # Removable if it is 0
+  destroy_chance: 35
+  success_chance: 25
+  gold_needed: 500_000
+  feather_needed: 35
+  full_moons_needed: 18
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2512
+    amount: 4
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2284
+    amount: 4
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 9
+    maximum: 10
+  sp_level_needed: 41  # Removable if it is 0
+  destroy_chance: 40
+  success_chance: 20
+  gold_needed: 500_000
+  feather_needed: 40
+  full_moons_needed: 20
+  scroll_vnum: 1363
+  special_items_needed:
+  - item_vnum: 2512
+    amount: 5
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2284
+    amount: 5
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 10
+    maximum: 11
+  sp_level_needed: 51  # Removable if it is 0
+  destroy_chance: 45
+  success_chance: 10
+  gold_needed: 1_000_000
+  feather_needed: 45
+  full_moons_needed: 22
+  scroll_vnum: 1364
+  special_items_needed:
+  - item_vnum: 2513
+    amount: 1
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2285
+    amount: 1
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 11
+    maximum: 12
+  sp_level_needed: 51  # Removable if it is 0
+  destroy_chance: 50
+  success_chance: 7
+  gold_needed: 1_000_000
+  feather_needed: 50
+  full_moons_needed: 24
+  scroll_vnum: 1364
+  special_items_needed:
+  - item_vnum: 2513
+    amount: 2
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2285
+    amount: 2
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 12
+    maximum: 13
+  sp_level_needed: 51  # Removable if it is 0
+  destroy_chance: 55
+  success_chance: 5
+  gold_needed: 1_000_000
+  feather_needed: 55
+  full_moons_needed: 26
+  scroll_vnum: 1364
+  special_items_needed:
+  - item_vnum: 2513
+    amount: 3
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2285
+    amount: 3
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 13
+    maximum: 14
+  sp_level_needed: 51  # Removable if it is 0
+  destroy_chance: 60
+  success_chance: 3
+  gold_needed: 1_000_000
+  feather_needed: 60
+  full_moons_needed: 28
+  scroll_vnum: 1364
+  special_items_needed:
+  - item_vnum: 2513
+    amount: 4
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2285
+    amount: 4
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]
+
+- sp_upgrade_range:
+    minimum: 14
+    maximum: 15
+  sp_level_needed: 51  # Removable if it is 0
+  destroy_chance: 70
+  success_chance: 1
+  gold_needed: 1_000_000
+  feather_needed: 70
+  full_moons_needed: 30
+  scroll_vnum: 1364
+  special_items_needed:
+  - item_vnum: 2513
+    amount: 5
+    sp_vnums: [4487, 4488, 4489, 4491, 4492, 4493, 4497, 4498, 4499, 4500, 4501, 4502, 4485, 4486, 4532]  # If it doesn't contain anything it will be needed by all the SPs. Removable if it doesn't contain anything.
+  - item_vnum: 2285
+    amount: 5
+    sp_vnums: [900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 4416]

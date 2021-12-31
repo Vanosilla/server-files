@@ -1,0 +1,512 @@
+# Configuration related to Vehciles
+
+- vehicle_vnum: 1906    # Magic Scooter
+  default_speed: 20
+  male_morph_id: 2368
+  female_morph_id: 2369
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 3
+  vehicle_map_speeds: null
+#
+- vehicle_vnum: 1907    # Magic Carpet
+  default_speed: 20
+  male_morph_id: 2370
+  female_morph_id: 2371
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 3
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+#
+- vehicle_vnum: 1965    # Magic White Tiger
+  default_speed: 20
+  male_morph_id: 2406
+  female_morph_id: 2407
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 3
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 2
+#
+- vehicle_vnum: 5008    # Magic Convertible
+  default_speed: 20
+  male_morph_id: 2411
+  female_morph_id: 2412
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 3
+  vehicle_map_speeds:
+  - map_flag: NOSVILLE
+    speed_bonus: 4
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 4
+#
+- vehicle_vnum: 5117    # Fluffy McFly
+  default_speed: 21
+  male_morph_id: 2429
+  female_morph_id: 2430
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 5
+    second_value: 3
+  vehicle_map_speeds: null
+#
+- vehicle_vnum: 5152    # Horned Sweeper
+  default_speed: 21
+  male_morph_id: 2432
+  female_morph_id: 2433
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  - boost_type: TELEPORT_FORWARD
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 2
+#
+- vehicle_vnum: 5173    # Winnie Whitefeather
+  default_speed: 16
+  male_morph_id: 2511
+  female_morph_id: 2512
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 8
+  vehicle_map_speeds: null
+#
+- vehicle_vnum: 5196    # Nossi the Dragon
+  default_speed: 21
+  male_morph_id: 2517
+  female_morph_id: 2518
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 8
+  - boost_type: REMOVE_BAD_EFFECTS
+    first_value: 4
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 2
+#
+- vehicle_vnum: 5232    # 'Billy Boneshaker' Bike
+  default_speed: 21
+  male_morph_id: 2520
+  female_morph_id: 2521
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  - boost_type: TELEPORT_FORWARD
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+#
+- vehicle_vnum: 5234    # 'Blazing Blades' In-line Skates
+  default_speed: 21
+  male_morph_id: 2522
+  female_morph_id: 2523
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  - boost_type: REMOVE_BAD_EFFECTS
+    first_value: 4
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+#
+- vehicle_vnum: 5236    # 'Doni Darkslide' Skateboard
+  default_speed: 21
+  male_morph_id: 2524
+  female_morph_id: 2525
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  - boost_type: REGENERATE_HP_MP
+    first_value: 15
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+#
+- vehicle_vnum: 5238    # 'Icy Ike' Magical Skis
+  default_speed: 20
+  male_morph_id: 1817
+  female_morph_id: 1818
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 3
+#
+- vehicle_vnum: 5240    # 'Crazy Chris' Magical Snowboard
+  default_speed: 20
+  male_morph_id: 1819
+  female_morph_id: 1820
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 3
+#
+- vehicle_vnum: 5319    # White Unicorn
+  default_speed: 22
+  male_morph_id: 2526
+  female_morph_id: 2527
+  vehicle_boost_type:
+  - boost_type: RANDOM_TELEPORT_ON_MAP
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 1
+#
+- vehicle_vnum: 5321    # Pink Unicorn
+  default_speed: 22
+  male_morph_id: 2528
+  female_morph_id: 2529
+  vehicle_boost_type:
+  - boost_type: RANDOM_TELEPORT_ON_MAP
+  vehicle_map_speeds:
+  - map_flag: NOSVILLE
+    speed_bonus: 3
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 3
+#
+- vehicle_vnum: 5323    # Black Unicorn
+  default_speed: 22
+  male_morph_id: 2530
+  female_morph_id: 2531
+  vehicle_boost_type:
+  - boost_type: RANDOM_TELEPORT_ON_MAP
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+#
+- vehicle_vnum: 5330    # Peculiar UFO
+  default_speed: 22
+  male_morph_id: 2928
+  female_morph_id: 2929
+  vehicle_boost_type:
+  - boost_type: RANDOM_TELEPORT_ON_MAP
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 1
+#
+- vehicle_vnum: 5332    # Marco Pollo
+  default_speed: 14
+  male_morph_id: 2930
+  female_morph_id: 2931
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 4
+  vehicle_map_speeds:
+  - map_flag: ACT_1
+    speed_bonus: 6
+#
+- vehicle_vnum: 5360    # Windsurfer
+  default_speed: 22
+  male_morph_id: 2932
+  female_morph_id: 2933
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  - boost_type: REMOVE_BAD_EFFECTS
+    first_value: 4
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+#
+- vehicle_vnum: 5386    # Yellow Jeep
+  default_speed: 21
+  male_morph_id: 2934
+  female_morph_id: 2935
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 6
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+  - map_flag: NOSVILLE
+    speed_bonus: 3
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 3
+#
+- vehicle_vnum: 5387    # Blue Jeep
+  default_speed: 21
+  male_morph_id: 2936
+  female_morph_id: 2937
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 6
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+  - map_flag: NOSVILLE
+    speed_bonus: 3
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 3
+#
+- vehicle_vnum: 5388    # Red Jeep
+  default_speed: 21
+  male_morph_id: 2938
+  female_morph_id: 2939
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 6
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+  - map_flag: NOSVILLE
+    speed_bonus: 3
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 3
+#
+- vehicle_vnum: 5389    # Cyan Jeep
+  default_speed: 21
+  male_morph_id: 2940
+  female_morph_id: 2941
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 6
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+  - map_flag: NOSVILLE
+    speed_bonus: 3
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 3
+#
+- vehicle_vnum: 5390    # Black Jeep
+  default_speed: 21
+  male_morph_id: 2942
+  female_morph_id: 2943
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 6
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+  - map_flag: NOSVILLE
+    speed_bonus: 3
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 3
+#
+- vehicle_vnum: 5391    # Pink Jeep
+  default_speed: 21
+  male_morph_id: 2944
+  female_morph_id: 2945
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 6
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_2
+    speed_bonus: 2
+  - map_flag: NOSVILLE
+    speed_bonus: 3
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 3
+#
+- vehicle_vnum: 5712    # Magic Sleigh
+  default_speed: 20
+  male_morph_id: 2440
+  female_morph_id: 2441
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 2
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 1
+#
+- vehicle_vnum: 5714    # Magic Sleigh with Red-nosed Reindeer
+  default_speed: 22
+  male_morph_id: 2442
+  female_morph_id: 2443
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 4
+    second_value: 2
+  - boost_type: CREATE_BUFF
+    first_value: 10
+    second_value: 706
+  - boost_type: CREATE_BUFF_ON_END
+    first_value: 707
+  vehicle_map_speeds:
+  - map_flag: ACT_4
+    speed_bonus: 3
+#
+- vehicle_vnum: 5743    # Magic Donkey Pińata
+  default_speed: 21
+  male_morph_id: 2444
+  female_morph_id: 2445
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 8
+  - boost_type: REMOVE_BAD_EFFECTS
+    first_value: 4
+  - boost_type: CREATE_BUFF
+    first_value: 40
+    second_value: 738
+  vehicle_map_speeds:
+  - map_flag: NOSVILLE
+    speed_bonus: 2
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 2
+#
+- vehicle_vnum: 5806    # 12th Anniversary Alpaca
+  default_speed: 15
+  male_morph_id: 2450
+  female_morph_id: 2451
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 4
+  vehicle_map_speeds:
+  - map_flag: ACT_2
+    speed_bonus: 2
+#
+- vehicle_vnum: 5807    # 12th Anniversary Speedy Alpaca
+  default_speed: 20
+  male_morph_id: 2448
+  female_morph_id: 2449
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 5
+  - boost_type: REMOVE_BAD_EFFECTS
+    first_value: 4
+  - boost_type: REGENERATE_HP_MP
+    first_value: 10
+  vehicle_map_speeds:
+  - map_flag: ACT_3
+    speed_bonus: 3
+  - map_flag: ACT_4
+    speed_bonus: 2
+#
+- vehicle_vnum: 5834    # Magic Jaguar
+  default_speed: 20
+  male_morph_id: 3693
+  female_morph_id: 3694
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 4
+    second_value: 2
+  - boost_type: REMOVE_BAD_EFFECTS
+    first_value: 4
+  - boost_type: CREATE_BUFF_ON_END
+    first_value: 665
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_1
+    speed_bonus: 3
+#
+- vehicle_vnum: 5914    # Magical Camel
+  default_speed: 14
+  male_morph_id: 2513
+  female_morph_id: 2514
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 5   # Speed: +2 | Duration 5s
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 6
+  - map_flag: ACT_5_2
+    speed_bonus: 6
+#
+- vehicle_vnum: 5923    # Magical Camel - Magical Camel Parchament Scroll
+  remove_item: true
+  default_speed: 14
+  male_morph_id: 2513
+  female_morph_id: 2514
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 5   # Speed: +2 | Duration 5s
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 6
+  - map_flag: ACT_5_2
+    speed_bonus: 6
+#
+- vehicle_vnum: 5997    # Magic Bone Drake
+  default_speed: 21
+  male_morph_id: 3679
+  female_morph_id: 3680
+  vehicle_boost_type:
+  - boost_type: RANDOM_TELEPORT_ON_MAP
+  vehicle_map_speeds:
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: ACT_5_1
+    speed_bonus: 2
+  - map_flag: NOSVILLE
+    speed_bonus: 1
+  - map_flag: PORT_ALVEUS
+    speed_bonus: 1
+
+- vehicle_vnum: 9087    # Marco Pollo
+  default_speed: 14
+  male_morph_id: 2930
+  female_morph_id: 2931
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 3
+    second_value: 4
+  vehicle_map_speeds:
+  - map_flag: ACT_1
+    speed_bonus: 6
+#
+- vehicle_vnum: 21180    # Winnie Whitefeather
+  default_speed: 16
+  male_morph_id: 2511
+  female_morph_id: 2512
+  vehicle_boost_type:
+  - boost_type: INCREASE_SPEED
+    first_value: 2
+    second_value: 8
+  vehicle_map_speeds: null

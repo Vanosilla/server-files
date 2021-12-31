@@ -1,0 +1,148 @@
+# Configuration related to Specialist Card perfections
+
+perf_upgrade_configurations:
+- sp_perf_upgrade_range:
+    minimum: 0
+    maximum: 9
+  gold_needed: 5000
+  stones_needed: 1
+  success_chance: 75
+  stat_amount_range:
+    minimum: 1
+    maximum: 1
+- sp_perf_upgrade_range:
+    minimum: 10
+    maximum: 19
+  gold_needed: 5000
+  stones_needed: 1
+  success_chance: 60
+  stat_amount_range:
+    minimum: 1
+    maximum: 1
+- sp_perf_upgrade_range:
+    minimum: 20
+    maximum: 29
+  gold_needed: 10_000
+  stones_needed: 2
+  success_chance: 50
+  stat_amount_range:
+    minimum: 1
+    maximum: 1
+- sp_perf_upgrade_range:
+    minimum: 30
+    maximum: 39
+  gold_needed: 10_000
+  stones_needed: 2
+  success_chance: 40
+  stat_amount_range:
+    minimum: 1
+    maximum: 1
+- sp_perf_upgrade_range:
+    minimum: 40
+    maximum: 49
+  gold_needed: 20_000
+  stones_needed: 3
+  success_chance: 35
+  stat_amount_range:
+    minimum: 1
+    maximum: 1
+- sp_perf_upgrade_range:
+    minimum: 50
+    maximum: 59
+  gold_needed: 20_000
+  stones_needed: 3
+  success_chance: 30
+  stat_amount_range:
+    minimum: 1
+    maximum: 1
+- sp_perf_upgrade_range:
+    minimum: 60
+    maximum: 69
+  gold_needed: 50_000
+  stones_needed: 4
+  success_chance: 25
+  stat_amount_range:
+    minimum: 2
+    maximum: 2
+- sp_perf_upgrade_range:
+    minimum: 70
+    maximum: 79
+  gold_needed: 50_000
+  stones_needed: 4
+  success_chance: 20
+  stat_amount_range:
+    minimum: 2
+    maximum: 3
+- sp_perf_upgrade_range:
+    minimum: 80
+    maximum: 89
+  gold_needed: 100_000
+  stones_needed: 5
+  success_chance: 15
+  stat_amount_range:
+    minimum: 3
+    maximum: 4
+- sp_perf_upgrade_range:
+    minimum: 90
+    maximum: 99
+  gold_needed: 100_000
+  stones_needed: 5
+  success_chance: 10
+  stat_amount_range:
+    minimum: 4
+    maximum: 5
+stat_probability_configuration:
+  Attack: 4
+  Defense: 4
+  Element: 4
+  HpMp: 4
+  ResistanceFire: 1
+  ResistanceWater: 1
+  ResistanceLight: 1
+  ResistanceDark: 1
+sp_stones_links:
+- stone_vnum: 2514 #Small Ruby
+  sp_vnums:
+  - 901 #SP 1 Swordie
+  - 911 #SP 3 Archer
+  - 905 #SP 1 Mage
+  - 908 #SP Jajamaru
+  - 4486 #SP 1 Martial Artist
+- stone_vnum: 2515 #Small Sapphire
+  sp_vnums:
+  - 902 #SP 2 Swordie
+  - 903 #SP 1 Archer
+  - 913 #SP 3 Mage
+  - 4485 #SP 2 Martial Artist
+- stone_vnum: 2516 #Small Obsidian
+  sp_vnums:
+  - 910 #SP 4 Swordie
+  - 904 #SP 3 Archer
+  - 914 #SP 4 Mage
+  - 4532 #SP 4 Martial Artist
+- stone_vnum: 2517 #Small Topaz
+  sp_vnums:
+  - 909 #SP 3 Swordie
+  - 912 #SP 4 Archer
+  - 906 #SP 2 Mage
+  - 4437 #SP 3 Martial Artist
+- stone_vnum: 2518 #Big Ruby
+  sp_vnums:
+  - 4500 #SP 5 Swordie
+  - 4501 #SP 5 Archer
+  - 4502 #SP 5 Mage
+- stone_vnum: 2519 #Big Sapphire
+  sp_vnums:
+  - 4497 #SP 6 Swordie
+  - 4498 #SP 6 Archer
+  - 4499 #SP 6 Mage
+- stone_vnum: 2520 #Big Obsidian
+  sp_vnums:
+  - 4493 #SP 7 Swordie
+  - 4492 #SP 7 Archer
+  - 4491 #SP 7 Mage
+- stone_vnum: 2521 #Big Topaz
+  sp_vnums:
+  - 4489 #SP 8 Swordie
+  - 4488 #SP 8 Archer
+  - 4487 #SP 8 Mage

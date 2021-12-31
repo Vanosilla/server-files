@@ -1,0 +1,32 @@
+type: Shooting
+scores:
+- reward_level: NoReward
+  score_range:
+    minimum: 0
+    maximum: 999
+  minimum_time_of_completion: 00:00:01
+- reward_level: FirstReward
+  score_range:
+    minimum: 1000
+    maximum: 3999
+  minimum_time_of_completion: 00:00:10
+- reward_level: SecondReward
+  score_range:
+    minimum: 4000
+    maximum: 7999
+  minimum_time_of_completion: 00:00:15
+- reward_level: ThirdReward
+  score_range:
+    minimum: 8000
+    maximum: 14999
+  minimum_time_of_completion: 00:00:30
+- reward_level: FourthReward
+  score_range:
+    minimum: 15000
+    maximum: 24999
+  minimum_time_of_completion: 00:01:05
+- reward_level: FifthReward
+  score_range:
+    minimum: 25000
+    maximum: 1000000
+  minimum_time_of_completion: 00:01:20

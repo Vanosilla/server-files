@@ -1,0 +1,5 @@
+item_vnum: 5915
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 5914   # Magical Camel
+  quantity:  1

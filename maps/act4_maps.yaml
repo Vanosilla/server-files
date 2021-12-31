@@ -1,0 +1,199 @@
+# Citadel (Angel)
+- map_id: 130
+  map_vnum: 130
+  map_name_id: 130
+  map_music_id: 30
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - ANGEL_SIDE
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# Citadel (Demon)
+- map_id: 131
+  map_vnum: 131
+  map_name_id: 131
+  map_music_id: 30
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - DEMON_SIDE
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# Western Frost Land (Angel)
+- map_id: 132
+  map_vnum: 132
+  map_name_id: 132
+  map_music_id: 31
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - ANGEL_SIDE
+  - HAS_PVP_FACTION_ENABLED
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_IMMUNITY_ON_MAP_CHANGE_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# Eastern Frost Land (Demon)
+- map_id: 133
+  map_vnum: 133
+  map_name_id: 133
+  map_music_id: 31
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - DEMON_SIDE
+  - HAS_PVP_FACTION_ENABLED
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_IMMUNITY_ON_MAP_CHANGE_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# Bitoren Tundra
+- map_id: 134
+  map_vnum: 134
+  map_name_id: 134
+  map_music_id: 31
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - HAS_PVP_FACTION_ENABLED
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_IMMUNITY_ON_MAP_CHANGE_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+  - HAS_PVE_REPUTATION_ENABLED
+#
+# North Ice Desert (Angel)
+- map_id: 151
+  map_vnum: 151
+  map_name_id: 151
+  map_music_id: 31
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - ANGEL_SIDE
+  - HAS_PVP_FACTION_ENABLED
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_IMMUNITY_ON_MAP_CHANGE_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# North Ice Desert (Demon)
+- map_id: 152
+  map_vnum: 152
+  map_name_id: 152
+  map_music_id: 31
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - DEMON_SIDE
+  - HAS_PVP_FACTION_ENABLED
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_IMMUNITY_ON_MAP_CHANGE_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+#
+# Primal Land
+- map_id: 153
+  map_vnum: 153
+  map_name_id: 30000
+  map_music_id: 31
+  flags:
+  - IS_BASE_MAP
+  - ACT_4
+  - HAS_PVP_FACTION_ENABLED
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+  - HAS_IMMUNITY_ON_MAP_CHANGE_ENABLED
+  - HAS_SEALED_VESSELS_DISABLED
+  - HAS_PVE_REPUTATION_ENABLED
+#
+#
+#
+# Caligor's Realm
+- map_id: 154
+  map_vnum: 154
+  map_name_id: 154
+  map_music_id: 31
+  flags:
+  - ACT_4
+  - HAS_PVP_FACTION_ENABLED
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+#
+#
+# Shares Canyon
+- map_id: 135
+  map_vnum: 135
+  map_name_id: 135
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+# Morcos' Throne
+- map_id: 136
+  map_vnum: 136
+  map_name_id: 136
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+#
+#
+# Lorten Forest
+- map_id: 137
+  map_vnum: 137
+  map_name_id: 137
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+# Cleft of Darkness
+- map_id: 138
+  map_vnum: 138
+  map_name_id: 138
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+#
+#
+# Radikun Beach
+- map_id: 139
+  map_vnum: 139
+  map_name_id: 139
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+# Calvinas' Nest
+- map_id: 140
+  map_vnum: 140
+  map_name_id: 140
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+#
+#
+# Crystal Cave
+- map_id: 141
+  map_vnum: 141
+  map_name_id: 141
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED
+#
+# Crystal Altar
+- map_id: 142
+  map_vnum: 142
+  map_name_id: 142
+  map_music_id: 16
+  flags:
+  - ACT_4
+  - HAS_DROP_DIRECTLY_IN_INVENTORY_ENABLED

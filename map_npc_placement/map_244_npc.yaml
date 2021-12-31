@@ -1,0 +1,8 @@
+map_id: 244
+npcs:
+- map_npc_id: 12950
+  vnum: 2590
+  pos_x: 74
+  pos_y: 95
+  effect_delay: 4750
+  dialog_id: 9959

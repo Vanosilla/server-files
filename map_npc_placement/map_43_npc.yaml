@@ -1,0 +1,30 @@
+map_id: 43
+npcs:
+- map_npc_id: 5575
+  vnum: 855
+  pos_x: 17
+  pos_y: 59
+  effect_delay: 4750
+  dialog_id: 6555
+  direction_facing: 2
+- map_npc_id: 5576
+  vnum: 855
+  pos_x: 61
+  pos_y: 119
+  effect_delay: 4750
+  dialog_id: 6557
+  direction_facing: 2
+- map_npc_id: 5577
+  vnum: 855
+  pos_x: 119
+  pos_y: 87
+  effect_delay: 4750
+  dialog_id: 6556
+  direction_facing: 2
+- map_npc_id: 5578
+  vnum: 855
+  pos_x: 158
+  pos_y: 17
+  effect_delay: 4750
+  dialog_id: 6554
+  direction_facing: 2

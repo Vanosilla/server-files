@@ -1,0 +1,30 @@
+map_id: 172
+npcs:
+- map_npc_id: 9534
+  vnum: 1085
+  pos_x: 112
+  pos_y: 45
+  effect_delay: 4750
+  dialog_id: 101
+  direction_facing: 2
+- map_npc_id: 9535
+  vnum: 1272
+  pos_x: 149
+  pos_y: 96
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 9536
+  vnum: 1272
+  pos_x: 183
+  pos_y: 126
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 9537
+  vnum: 1272
+  pos_x: 187
+  pos_y: 69
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2

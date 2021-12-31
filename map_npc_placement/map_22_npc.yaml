@@ -1,0 +1,62 @@
+map_id: 22
+npcs:
+- map_npc_id: 4241
+  vnum: 906
+  pos_x: 32
+  pos_y: 26
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 4242
+  vnum: 914
+  pos_x: 18
+  pos_y: 41
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 4243
+  vnum: 914
+  pos_x: 19
+  pos_y: 38
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 4244
+  vnum: 914
+  pos_x: 21
+  pos_y: 36
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 4245
+  vnum: 914
+  pos_x: 29
+  pos_y: 31
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 4246
+  vnum: 914
+  pos_x: 29
+  pos_y: 34
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 4247
+  vnum: 917
+  pos_x: 85
+  pos_y: 44
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 4248
+  vnum: 952
+  pos_x: 4
+  pos_y: 30
+  dialog_id: 6349
+  direction_facing: 2
+  item_shop:
+    name: "SP Stone"
+    tabs: []
+- map_npc_id: 24810
+  custom_name: "Seina Reiya"
+  vnum: 501
+  pos_x: 83
+  pos_y: 52
+  dialog_id: 20015
+  direction_facing: 2
+  can_move: true
+  can_attack: true

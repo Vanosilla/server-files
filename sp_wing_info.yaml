@@ -1,0 +1,46 @@
+# Configuration related to Specialist Card wings' buff
+
+6: # Titan
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+7: # Archangel
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+8: # Archdemon
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+9: # Fiery
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+10: # Icy
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+11: # Golden
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+12: # Onyx
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+13: # Fairy
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+14: # Mega Titan
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+15: # Wind
+  buffs:
+  - buff_id: 999
+    is_permanent: true
+16: # Lightning
+  buffs:
+  - buff_id: 999
+    is_permanent: true

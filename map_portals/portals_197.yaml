@@ -1,0 +1,15 @@
+portals:
+- destination_map_id: 174
+  destination_map_x: 104
+  destination_map_y: 37
+  source_map_id: 197
+  source_map_x: 132
+  source_map_y: 248
+  type: -1
+- destination_map_id: 198
+  destination_map_x: 66
+  destination_map_y: 148
+  source_map_id: 197
+  source_map_x: 119
+  source_map_y: 14
+  type: -1

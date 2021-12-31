@@ -1,0 +1,5 @@
+item_vnum: 1899
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4051   # Tarot Card (The Devil)
+  quantity:  1

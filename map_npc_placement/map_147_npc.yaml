@@ -1,0 +1,13 @@
+map_id: 147
+npcs:
+- map_npc_id: 8907
+  vnum: 793
+  pos_x: 9
+  pos_y: 28
+  effect_delay: 4750
+  dialog_id: 460
+  direction_facing: 1
+  item_shop:
+    name: "NosBazar"
+    shop_type: 45
+    tabs: []

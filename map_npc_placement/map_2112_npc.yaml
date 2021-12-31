@@ -1,0 +1,50 @@
+map_id: 2112
+npcs:
+- map_npc_id: 11453
+  vnum: 954
+  pos_x: 5
+  pos_y: 5
+  dialog_id: 7300
+  direction_facing: 2
+- map_npc_id: 24934
+  vnum: 352
+  custom_name: "Monkey Trainer"
+  pos_x: 1
+  pos_y: 1
+  effect_delay: -1
+  dialog_id: 15
+  direction_facing: 6
+  can_move: false
+  item_shop:
+    name: "If you are stupid enough to delete a quest item that you needed, click here"
+    shop_type: 10
+    menu_type: 0
+    tabs:
+    - shop_tab_id: 0
+      items:
+      - item_vnum: 1340 # Violet Memory Fragment
+        price: 1000000
+      - item_vnum: 1346 # Piepe's Necklace
+        price: 1000000
+      - item_vnum: 1347 # Wooden Wolf Doll
+        price: 1000000
+      - item_vnum: 1341 # Green Memory Fragment
+        price: 1000000
+      - item_vnum: 1342 # Red Memory Fragment
+        price: 1000000
+      - item_vnum: 1361 # Recipe for the Unfinished Priest's Spear
+        price: 1000000
+      - item_vnum: 1352 # Unknown Ore
+        price: 1000000
+      - item_vnum: 1355 # Seli-Lusha Leaf
+        price: 1000000
+      - item_vnum: 1354 # Enkidu Mane
+        price: 1000000
+      - item_vnum: 1356 # Fever's Thread
+        price: 1000000
+      - item_vnum: 1353 # Angel's Feather
+        price: 1000000
+      - item_vnum: 1351 # Priest's Spear
+        price: 1000000
+      - item_vnum: 1343 # White Memory Fragment
+        price: 1000000

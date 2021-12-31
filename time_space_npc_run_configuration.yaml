@@ -1,0 +1,17 @@
+# Configuration related to general Time-Spaces
+
+- quest_vnum: 2006
+  time_space_id: 518
+- quest_vnum: 2008
+  time_space_id: 519
+- quest_vnum: 2010
+  time_space_id: 520
+- quest_vnum: 2012
+  time_space_id: 521
+- quest_vnum: 2016
+  time_space_id: 522
+- quest_vnum: 2017
+  time_space_id: 523
+- quest_vnum: 2019
+  time_space_id: 524
+- time_space_id: 608

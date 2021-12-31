@@ -1,0 +1,5 @@
+item_vnum: 1896
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4048   # Tarot Card (The Lover)
+  quantity:  1

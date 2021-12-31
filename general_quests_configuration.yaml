@@ -1,0 +1,11 @@
+# Configuration related to general Time-Spaces
+
+general_quests:
+- 2000 # Pyjama
+- 2008 # SP1
+- 2014 # SP2
+# - 2022 # Laboratory TimeSpaces
+- 2030 # Jajamaru
+- 2048 # Sakura
+- 2060 # SP3
+- 2100 # SP4

@@ -1,0 +1,86 @@
+# Configuration related to reputation
+
+- rank: BEGINNER_1 # Beginner 1
+  threshold: 0 # no threshold because it's the default one
+- rank: BEGINNER_2 # Beginner 2
+  threshold: 51
+- rank: BEGINNER_3 # Beginner 3
+  threshold: 151
+#
+- rank: GREEN_TRAINEE # Trainee (green)
+  threshold: 251
+- rank: BLUE_TRAINEE # Trainee (blue)
+  threshold: 501
+- rank: RED_TRAINEE # Trainee (red)
+  threshold: 751
+#
+- rank: GREEN_EXPERIENCED # Experienced (green)
+  threshold: 1001
+- rank: BLUE_EXPERIENCED # Experienced (blue)
+  threshold: 2251
+- rank: RED_EXPERIENCED # Experienced (red)
+  threshold: 3501
+#
+- rank: GREEN_BATTLE_SOLDIER # Battle Soldier (green)
+  threshold: 5001
+- rank: BLUE_BATTLE_SOLDIER # Battle Soldier (blue)
+  threshold: 9501
+- rank: RED_BATTLE_SOLDIER # Battle Soldier (red)
+  threshold: 19001
+#
+- rank: GREEN_EXPERT # Expert (green)
+  threshold: 25001
+- rank: BLUE_EXPERT # Expert (blue)
+  threshold: 40001
+- rank: RED_EXPERT # Expert (red)
+  threshold: 60001
+#
+- rank: GREEN_LEADER # Leader (green)
+  threshold: 85001
+- rank: BLUE_LEADER # Leader (blue)
+  threshold: 125001
+- rank: RED_LEADER # Leader (red)
+  threshold: 175001
+#
+- rank: GREEN_MASTER # Master (green)
+  threshold: 250001
+- rank: BLUE_MASTER # Master (blue)
+  threshold: 350001
+- rank: RED_MASTER # Master (red)
+  threshold: 500001
+#
+- rank: GREEN_NOS # Nos. (green)
+  threshold: 700001
+- rank: BLUE_NOS # Nos. (blue)
+  threshold: 1000001
+- rank: RED_NOS # Nos. (red)
+  threshold: 2500001
+#
+- rank: GREEN_ELITE # Elite (green)
+  threshold: 5000001
+- rank: BLUE_ELITE # Elite (blue)
+  threshold: 7500001
+- rank: RED_ELITE # Elite (red)
+  threshold: 10000001
+#
+- rank: SECOND_LEGEND # Legend (green)
+  threshold: 10000001
+  min_players: 43 # only places 43-14. can have this rank
+  max_players: 14
+- rank: FIRST_LEGEND # Legend (blue)
+  threshold: 10000001
+  min_players: 4 # only places 13-4. can have this rank
+  max_players: 13
+#
+- rank: ANCIENT_HERO # Ancient Hero (green)
+  threshold: 10000001
+  min_players: 3 # only 3rd place can have this rank
+  max_players: 3
+- rank: MYSTERIOUS_HERO # Mysterious Hero (blue)
+  threshold: 10000001
+  min_players: 2 # only 2nd place can have this rank
+  max_players: 2
+- rank: LEGENDARY_HERO # Legendary Hero (red)
+  threshold: 10000001
+  min_players: 1 # only 1st place can have this rank
+  max_players: 1

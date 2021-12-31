@@ -1,0 +1,132 @@
+# Configuration related to Cuarry Bank - bank rank based on reputation and fee penalty per bank rank
+
+bank_ranks:
+- bank_rank: BRONZE_3
+  reputations:
+  - BEGINNER_1
+  - BEGINNER_2
+  - BEGINNER_3
+  - GREEN_TRAINEE
+  - BLUE_TRAINEE
+  - RED_TRAINEE
+#
+- bank_rank: BRONZE_2
+  reputations:
+  - GREEN_EXPERIENCED
+  - BLUE_EXPERIENCED
+  - RED_EXPERIENCED
+#
+- bank_rank: BRONZE_1
+  reputations:
+  - GREEN_BATTLE_SOLDIER
+  - BLUE_BATTLE_SOLDIER
+  - RED_BATTLE_SOLDIER
+#
+- bank_rank: SILVER_3
+  reputations:
+  - GREEN_EXPERT
+  - BLUE_EXPERT
+  - RED_EXPERT
+#
+- bank_rank: SILVER_2
+  reputations:
+  - GREEN_LEADER
+  - BLUE_LEADER
+  - RED_LEADER
+#
+- bank_rank: SILVER_1
+  reputations:
+  - GREEN_MASTER
+  - BLUE_MASTER
+  - RED_MASTER
+#
+- bank_rank: GOLD_3
+  reputations:
+  - GREEN_NOS
+  - BLUE_NOS
+  - RED_NOS
+#
+- bank_rank: GOLD_2
+  reputations:
+  - GREEN_ELITE
+  - BLUE_ELITE
+#
+- bank_rank: GOLD_1
+  reputations:
+  - RED_ELITE
+#
+- bank_rank: DIAMOND
+  reputations:
+  - SECOND_LEGEND
+  - FIRST_LEGEND
+#
+- bank_rank: VIP
+  reputations:
+  - ANCIENT_HERO
+  - MYSTERIOUS_HERO
+  - LEGENDARY_HERO
+bank_penalties:
+- reputation: BEGINNER_1
+  gold_cost: 528000
+- reputation: BEGINNER_2
+  gold_cost: 517000
+- reputation: BEGINNER_3
+  gold_cost: 506000
+- reputation: GREEN_TRAINEE
+  gold_cost: 495000
+- reputation: BLUE_TRAINEE
+  gold_cost: 483000
+- reputation: RED_TRAINEE
+  gold_cost: 473000
+- reputation: GREEN_EXPERIENCED
+  gold_cost: 420000
+- reputation: BLUE_EXPERIENCED
+  gold_cost: 410000
+- reputation: RED_EXPERIENCED
+  gold_cost: 400000
+- reputation: GREEN_BATTLE_SOLDIER
+  gold_cost: 351000
+- reputation: BLUE_BATTLE_SOLDIER
+  gold_cost: 342000
+- reputation: RED_BATTLE_SOLDIER
+  gold_cost: 333000
+- reputation: GREEN_EXPERT
+  gold_cost: 288000
+- reputation: BLUE_EXPERT
+  gold_cost: 280000
+- reputation: RED_EXPERT
+  gold_cost: 272000
+- reputation: GREEN_LEADER
+  gold_cost: 231000
+- reputation: BLUE_LEADER
+  gold_cost: 224000
+- reputation: RED_LEADER
+  gold_cost: 217000
+- reputation: GREEN_MASTER
+  gold_cost: 180000
+- reputation: BLUE_MASTER
+  gold_cost: 174000
+- reputation: RED_MASTER
+  gold_cost: 168000
+- reputation: GREEN_NOS
+  gold_cost: 135000
+- reputation: BLUE_NOS
+  gold_cost: 130000
+- reputation: RED_NOS
+  gold_cost: 125000
+- reputation: GREEN_ELITE
+  gold_cost: 96000
+- reputation: BLUE_ELITE
+  gold_cost: 92000
+- reputation: RED_ELITE
+  gold_cost: 66000
+- reputation: SECOND_LEGEND
+  gold_cost: 42000
+- reputation: FIRST_LEGEND
+  gold_cost: 20000
+- reputation: ANCIENT_HERO
+  gold_cost: 0
+- reputation: MYSTERIOUS_HERO
+  gold_cost: 0
+- reputation: LEGENDARY_HERO
+  gold_cost: 0

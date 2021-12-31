@@ -1,0 +1,406 @@
+# Configuration related to shells values
+
+#all values here are [min, max] for lvl 100 shell ("base")
+- id: DamageImproved # 1
+  c_range_values: [90, 100]
+  b_range_values: [120, 150]
+  a_range_values: [150, 200]
+  s_range_values: []
+- id: PercentageTotalDamage # 2
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [10, 20]
+- id: MinorBleeding # 3
+  c_range_values: [4, 5]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: Bleeding # 4
+  c_range_values: []
+  b_range_values: [4, 5]
+  a_range_values: []
+  s_range_values: []
+- id: HeavyBleeding # 5
+  c_range_values: []
+  b_range_values: []
+  a_range_values: [1, 2]
+  s_range_values: []
+- id: Blackout # 6
+  c_range_values: [4, 5]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: Freeze # 7
+  c_range_values: []
+  b_range_values: [4, 5]
+  a_range_values: []
+  s_range_values: []
+- id: DeadlyBlackout # 8
+  c_range_values: []
+  b_range_values: []
+  a_range_values: [4, 5]
+  s_range_values: []
+- id: DamageIncreasedPlant # 9
+  c_range_values: [8, 10]
+  b_range_values: [12, 20]
+  a_range_values: []
+  s_range_values: []
+- id: DamageIncreasedAnimal # 10
+  c_range_values: [8, 10]
+  b_range_values: [12, 20]
+  a_range_values: []
+  s_range_values: []
+- id: DamageIncreasedEnemy # 11
+  c_range_values: [8, 10]
+  b_range_values: [12, 20]
+  a_range_values: []
+  s_range_values: []
+- id: DamageIncreasedUnDead # 12
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [12, 20]
+  s_range_values: []
+- id: DamageIncreasedSmallMonster # 13
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [12, 20]
+  s_range_values: []
+- id: DamageIncreasedBigMonster # 14
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [12, 20]
+  s_range_values: [12, 23]
+- id: CriticalChance # 15
+  c_range_values: [5, 10]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: CriticalDamage # 16
+  c_range_values: [40, 60]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: AntiMagicDisorder # 17
+  c_range_values: [1, 1]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: IncreasedFireProperties # 18
+  c_range_values: []
+  b_range_values: [150, 350]
+  a_range_values: [400, 700]
+  s_range_values: []
+- id: IncreasedWaterProperties # 19
+  c_range_values: []
+  b_range_values: [150, 350]
+  a_range_values: [400, 700]
+  s_range_values: []
+- id: IncreasedLightProperties # 20
+  c_range_values: []
+  b_range_values: [150, 350]
+  a_range_values: [400, 700]
+  s_range_values: []
+- id: IncreasedDarkProperties # 21
+  c_range_values: []
+  b_range_values: [150, 350]
+  a_range_values: [400, 700]
+  s_range_values: []
+- id: IncreasedElementalProperties # 22
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [600, 1000]
+- id: ReducedMPConsume # 23
+  c_range_values: [9, 12]
+  b_range_values: [20, 23]
+  a_range_values: []
+  s_range_values: []
+- id: HPRecoveryForKilling # 24
+  c_range_values: []
+  b_range_values: [100, 150]
+  a_range_values: [150, 200]
+  s_range_values: []
+- id: MPRecoveryForKilling # 25
+  c_range_values: []
+  b_range_values: [100, 150]
+  a_range_values: [150, 200]
+  s_range_values: []
+- id: SLDamage # 26
+  c_range_values: []
+  b_range_values: [10, 12]
+  a_range_values: [15, 18]
+  s_range_values: []
+- id: SLDefence # 27
+  c_range_values: []
+  b_range_values: [10, 12]
+  a_range_values: [15, 18]
+  s_range_values: []
+- id: SLElement # 28
+  c_range_values: []
+  b_range_values: [10, 12]
+  a_range_values: [15, 18]
+  s_range_values: []
+- id: SLHP # 29
+  c_range_values: []
+  b_range_values: [10, 12]
+  a_range_values: [15, 18]
+  s_range_values: []
+- id: SLGlobal # 30
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [10, 12]
+- id: GainMoreGold # 31
+  c_range_values: [7, 10]
+  b_range_values: [15, 18]
+  a_range_values: [24, 35]
+  s_range_values: []
+- id: GainMoreXP # 32
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [10, 15]
+  s_range_values: []
+- id: GainMoreCXP # 33
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [10, 15]
+  s_range_values: []
+- id: PercentageDamageInPVP # 34
+  c_range_values: [6, 10]
+  b_range_values: [8, 12]
+  a_range_values: [10, 18]
+  s_range_values: [20, 35]
+- id: ReducesPercentageEnemyDefenceInPVP # 35
+  c_range_values: [10, 12]
+  b_range_values: [10, 15]
+  a_range_values: [15, 20]
+  s_range_values: [25, 35]
+- id: ReducesEnemyFireResistanceInPVP # 36
+  c_range_values: []
+  b_range_values: [4, 8]
+  a_range_values: [8, 15]
+  s_range_values: []
+- id: ReducesEnemyWaterResistanceInPVP # 37
+  c_range_values: []
+  b_range_values: [4, 8]
+  a_range_values: [8, 15]
+  s_range_values: []
+- id: ReducesEnemyLightResistanceInPVP # 38
+  c_range_values: []
+  b_range_values: [4, 8]
+  a_range_values: [8, 15]
+  s_range_values: []
+- id: ReducesEnemyDarkResistanceInPVP # 39
+  c_range_values: []
+  b_range_values: [4, 8]
+  a_range_values: [8, 15]
+  s_range_values: []
+- id: ReducesEnemyAllResistancesInPVP # 40
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [10, 20]
+- id: PVPDamageAt15Percent # 42
+  c_range_values: [50, 60]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: ReducesEnemyMPInPVP # 43
+  c_range_values: [10, 20]
+  b_range_values: [25, 30]
+  a_range_values: [40, 50]
+  s_range_values: []
+#
+# armor values
+#
+- id: CloseDefence # 51
+  c_range_values: [40, 70]
+  b_range_values: [70, 120]
+  a_range_values: [150, 250]
+  s_range_values: []
+- id: DistanceDefence # 52
+  c_range_values: [40, 70]
+  b_range_values: [70, 120]
+  a_range_values: [150, 250]
+  s_range_values: []
+- id: MagicDefence # 53
+  c_range_values: [40, 70]
+  b_range_values: [70, 120]
+  a_range_values: [150, 250]
+  s_range_values: []
+- id: PercentageTotalDefence # 54
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [20, 25]
+- id: ReducedMinorBleeding # 55
+  c_range_values: [20, 40]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: ReducedBleedingAndMinorBleeding # 56
+  c_range_values: []
+  b_range_values: [20, 40]
+  a_range_values: []
+  s_range_values: []
+- id: ReducedAllBleedingType # 57
+  c_range_values: []
+  b_range_values: []
+  a_range_values: [30, 50]
+  s_range_values: []
+- id: ReducedStun # 58
+  c_range_values: [20, 40]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: ReducedAllStun # 59
+  c_range_values: []
+  b_range_values: [20, 40]
+  a_range_values: [30, 50]
+  s_range_values: []
+- id: ReducedParalysis # 60
+  c_range_values: []
+  b_range_values: [30, 50]
+  a_range_values: [40, 60]
+  s_range_values: []
+- id: ReducedFreeze # 61
+  c_range_values: []
+  b_range_values: [20, 30]
+  a_range_values: [40, 60]
+  s_range_values: []
+- id: ReducedBlind # 62
+  c_range_values: [30, 50]
+  b_range_values: [40, 60]
+  a_range_values: []
+  s_range_values: []
+- id: ReducedSlow # 63
+  c_range_values: []
+  b_range_values: [40, 60]
+  a_range_values: []
+  s_range_values: []
+- id: ReducedArmorDeBuff # 64
+  c_range_values: []
+  b_range_values: [40, 60]
+  a_range_values: []
+  s_range_values: []
+- id: ReducedShock # 65
+  c_range_values: [30, 60]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: ReducedPoisonParalysis # 66
+  c_range_values: [30, 60]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: ReducedAllNegativeEffect # 67
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [30, 40]
+- id: RecovryHPOnRest # 68
+  c_range_values: [100, 150]
+  b_range_values: [180, 300]
+  a_range_values: []
+  s_range_values: []
+- id: RevoryHP # 69
+  c_range_values: []
+  b_range_values: []
+  a_range_values: [50, 100]
+  s_range_values: []
+- id: RecoveryMPOnRest # 70
+  c_range_values: [100, 150]
+  b_range_values: [180, 300]
+  a_range_values: []
+  s_range_values: []
+- id: RecoveryMP # 71
+  c_range_values: []
+  b_range_values: []
+  a_range_values: [50, 100]
+  s_range_values: []
+- id: RecoveryHPInDefence # 72
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [40, 70]
+- id: ReducedCritChanceRecive # 73
+  c_range_values: [7, 10]
+  b_range_values: [13, 17]
+  a_range_values: []
+  s_range_values: []
+- id: IncreasedFireResistance # 74
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [10, 20]
+  s_range_values: []
+- id: IncreasedWaterResistance # 75
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [10, 20]
+  s_range_values: []
+- id: IncreasedLightResistance # 76
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [10, 20]
+  s_range_values: []
+- id: IncreasedDarkResistance # 77
+  c_range_values: []
+  b_range_values: [8, 10]
+  a_range_values: [10, 20]
+  s_range_values: []
+- id: IncreasedAllResistance # 78
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [20, 30]
+- id: ReducedPrideLoss # 79
+  c_range_values: [50, 100]
+  b_range_values: []
+  a_range_values: []
+  s_range_values: []
+- id: ReducedProductionPointConsumed # 80
+  c_range_values: [40, 80]
+  b_range_values: [40, 80]
+  a_range_values: []
+  s_range_values: []
+- id: IncreasedProductionPossibility # 81
+  c_range_values: []
+  b_range_values: [50, 100]
+  a_range_values: [125, 175]
+  s_range_values: []
+- id: IncreasedRecoveryItemSpeed # 82
+  c_range_values: []
+  b_range_values: [20, 40]
+  a_range_values: [50, 70]
+  s_range_values: []
+- id: PercentageAllPVPDefence # 83
+  c_range_values: [10, 12]
+  b_range_values: [15, 18]
+  a_range_values: [20, 25]
+  s_range_values: [30, 40]
+- id: CloseDefenceDodgeInPVP # 84
+  c_range_values: []
+  b_range_values: [6, 8]
+  a_range_values: [10, 14]
+  s_range_values: []
+- id: DistanceDefenceDodgeInPVP # 85
+  c_range_values: []
+  b_range_values: [6, 8]
+  a_range_values: [10, 14]
+  s_range_values: []
+- id: IgnoreMagicDamage # 86
+  c_range_values: []
+  b_range_values: [6, 8]
+  a_range_values: [10, 14]
+  s_range_values: []
+- id: DodgeAllDamage # 87
+  c_range_values: []
+  b_range_values: []
+  a_range_values: []
+  s_range_values: [15, 20]
+- id: ProtectMPInPVP # 88
+  c_range_values: [1, 1]
+  b_range_values: []
+  a_range_values: [1, 1]
+  s_range_values: []

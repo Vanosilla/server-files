@@ -1,0 +1,5 @@
+item_vnum: 1898
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4050   # Tarot Card (Death)
+  quantity:  1

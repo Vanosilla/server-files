@@ -1,0 +1,213 @@
+map_id: 20
+npcs:
+- map_npc_id: 3943
+  vnum: 106
+  pos_x: 49
+  pos_y: 99
+  effect_delay: 4750
+  dialog_id: 314
+  direction_facing: 7
+  can_move: true
+- map_npc_id: 3944
+  vnum: 109
+  pos_x: 58
+  pos_y: 82
+  effect_delay: 4750
+  dialog_id: 314
+  direction_facing: 7
+  can_move: true
+- map_npc_id: 3945
+  vnum: 113
+  pos_x: 25
+  pos_y: 98
+  effect_delay: 4750
+  dialog_id: 313
+  direction_facing: 7
+  can_move: true
+- map_npc_id: 3949
+  vnum: 907
+  pos_x: 80
+  pos_y: 72
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3950
+  vnum: 908
+  pos_x: 90
+  pos_y: 71
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3951
+  vnum: 908
+  pos_x: 91
+  pos_y: 71
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3952
+  vnum: 908
+  pos_x: 92
+  pos_y: 71
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3953
+  vnum: 909
+  pos_x: 99
+  pos_y: 71
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3954
+  vnum: 909
+  pos_x: 100
+  pos_y: 71
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3955
+  vnum: 909
+  pos_x: 101
+  pos_y: 71
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3956
+  vnum: 910
+  pos_x: 74
+  pos_y: 92
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3957
+  vnum: 910
+  pos_x: 139
+  pos_y: 62
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 3958
+  vnum: 327
+  pos_x: 21
+  pos_y: 84
+  effect_delay: 4750
+  dialog_id: 12
+  direction_facing: 6
+  item_shop:
+    name: "Super Sale Store"
+    shop_type: 8
+    tabs:
+    - items:
+      - item_vnum: 27
+      - item_vnum: 29
+      - item_vnum: 41
+      - item_vnum: 43
+      - item_vnum: 55
+      - item_vnum: 57
+      - item_vnum: 101
+      - item_vnum: 103
+      - item_vnum: 105
+      - item_vnum: 114
+      - item_vnum: 116
+      - item_vnum: 118
+      - item_vnum: 127
+      - item_vnum: 129
+      - item_vnum: 131
+      - item_vnum: 1039
+      - item_vnum: 1040
+      - item_vnum: 1041
+      - item_vnum: 1073
+- map_npc_id: 3960
+  vnum: 330
+  pos_x: 14
+  pos_y: 86
+  effect_delay: 4750
+  dialog_id: 16
+  direction_facing: 2
+  item_shop:
+    name: "Time Circle"
+    tabs: []
+- map_npc_id: 3961
+  vnum: 110
+  pos_x: 59
+  pos_y: 71
+  effect_delay: 4750
+  dialog_id: 14
+  direction_facing: 2
+  item_shop:
+    name: "Clang Construction"
+    menu_type: 4
+    shop_type: 9
+    tabs:
+    - items:
+      - item_vnum: 3024
+      - item_vnum: 3025
+      - item_vnum: 3026
+      - item_vnum: 3027
+      - item_vnum: 3108
+      - item_vnum: 3109
+      - item_vnum: 3006
+      - item_vnum: 3007
+      - item_vnum: 3070
+      - item_vnum: 3071
+      - item_vnum: 3036
+      - item_vnum: 3037
+      - item_vnum: 3038
+      - item_vnum: 3039
+      - item_vnum: 3040
+      - item_vnum: 3041
+      - item_vnum: 3042
+      - item_vnum: 3043
+      - item_vnum: 3044
+      - item_vnum: 3045
+      - item_vnum: 3046
+      - item_vnum: 3047
+      - item_vnum: 3048
+      - item_vnum: 3049
+      - item_vnum: 3050
+      - item_vnum: 3051
+      - item_vnum: 3052
+      - item_vnum: 3053
+- map_npc_id: 3962
+  vnum: 113
+  pos_x: 40
+  pos_y: 110
+  effect_delay: 4750
+  dialog_id: 15
+  direction_facing: 4
+  item_shop:
+    name: "Pick-Up Shop"
+    shop_type: 10
+    tabs:
+    - items:
+#      - item_vnum: 1227
+#      - item_vnum: 2188
+#      - item_vnum: 2018
+#      - item_vnum: 2027
+      - item_vnum: 2028
+      - item_vnum: 2029
+      - item_vnum: 2070
+      - item_vnum: 2071
+      - item_vnum: 2072
+        price: 800
+      - item_vnum: 2082
+      - item_vnum: 2083
+      - item_vnum: 2085
+      - item_vnum: 2086
+#      - item_vnum: 2089
+#      - item_vnum: 2329
+      - item_vnum: 2097
+      - item_vnum: 2098
+#      - item_vnum: 2102
+- map_npc_id: 3963
+  vnum: 955
+  pos_x: 40
+  pos_y: 93
+  effect_vnum: 857
+  effect_delay: 4750
+  dialog_id: 440
+  direction_facing: 2
+  item_shop:
+    name: "Warp Tower"
+    tabs: []

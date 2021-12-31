@@ -1,0 +1,766 @@
+# Configuration related to shells effects per shell
+
+- shell_type: FullShellWeapon
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: SNormalWeapon
+      is_random: false
+- shell_type: FullShellArmor
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: SNormalArmor
+      is_random: false
+- shell_type: SpecialShellWeapon
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CBonusWeapon
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CBonusWeapon
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BBonusWeapon
+      is_random: false
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BBonusWeapon
+      is_random: false
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ABonusWeapon
+      is_random: false
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ABonusWeapon
+      is_random: false
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: SNormalWeapon
+      is_random: false
+    - effect_category: ABonusWeapon
+      is_random: false
+- shell_type: SpecialShellArmor
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CBonusArmor
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CBonusArmor
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BBonusArmor
+      is_random: false
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BBonusArmor
+      is_random: false
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ABonusArmor
+      is_random: false
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ABonusArmor
+      is_random: false
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: SNormalArmor
+      is_random: false
+    - effect_category: ABonusArmor
+      is_random: false
+- shell_type: PvpShellWeapon
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CPVPWeapon
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CPVPWeapon
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BPVPWeapon
+      is_random: true
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: APVPWeapon
+      is_random: false
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: APVPWeapon
+      is_random: false
+    - effect_category: APVPWeapon
+      is_random: false
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: SNormalWeapon
+      is_random: false
+    - effect_category: SPVPWeapon
+      is_random: false
+    - effect_category: SPVPWeapon
+      is_random: false
+    - effect_category: APVPWeapon
+      is_random: false
+    - effect_category: APVPWeapon
+      is_random: false
+    - effect_category: BPVPWeapon
+      is_random: true
+- shell_type: PvpShellArmor
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CPVPArmor
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CPVPArmor
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BPVPArmor
+      is_random: true
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: APVPArmor
+      is_random: false
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: APVPArmor
+      is_random: false
+    - effect_category: APVPArmor
+      is_random: false
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: SNormalArmor
+      is_random: false
+    - effect_category: SPVPArmor
+      is_random: false
+    - effect_category: SPVPArmor
+      is_random: false
+    - effect_category: APVPArmor
+      is_random: false
+    - effect_category: APVPArmor
+      is_random: false
+    - effect_category: BPVPArmor
+      is_random: true
+- shell_type: PerfectShellWeapon
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CBonusWeapon
+      is_random: true
+    - effect_category: CPVPWeapon
+      is_random: true
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CBonusWeapon
+      is_random: true
+    - effect_category: CPVPWeapon
+      is_random: true
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BBonusWeapon
+      is_random: true
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BBonusWeapon
+      is_random: true
+    - effect_category: BPVPWeapon
+      is_random: true
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ABonusWeapon
+      is_random: true
+    - effect_category: APVPWeapon
+      is_random: true
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ABonusWeapon
+      is_random: true
+    - effect_category: APVPWeapon
+      is_random: true
+    - effect_category: APVPWeapon
+      is_random: true
+    - effect_category: BPVPWeapon
+      is_random: true
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: SNormalWeapon
+      is_random: false
+    - effect_category: ABonusWeapon
+      is_random: true
+    - effect_category: SPVPWeapon
+      is_random: true
+    - effect_category: SPVPWeapon
+      is_random: true
+    - effect_category: APVPWeapon
+      is_random: true
+- shell_type: PerfectShellArmor
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CBonusArmor
+      is_random: true
+    - effect_category: CPVPArmor
+      is_random: true
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CBonusArmor
+      is_random: true
+    - effect_category: CPVPArmor
+      is_random: true
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BBonusArmor
+      is_random: true
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BBonusArmor
+      is_random: true
+    - effect_category: BPVPArmor
+      is_random: true
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ABonusArmor
+      is_random: true
+    - effect_category: APVPArmor
+      is_random: true
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ABonusArmor
+      is_random: true
+    - effect_category: APVPArmor
+      is_random: true
+    - effect_category: APVPArmor
+      is_random: true
+    - effect_category: BPVPArmor
+      is_random: true
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: SNormalArmor
+      is_random: false
+    - effect_category: ABonusArmor
+      is_random: true
+    - effect_category: SPVPArmor
+      is_random: true
+    - effect_category: SPVPArmor
+      is_random: true
+    - effect_category: APVPArmor
+      is_random: true
+- shell_type: HalfShellWeapon
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: CNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: BNormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+    - effect_category: ANormalWeapon
+      is_random: false
+- shell_type: HalfShellArmor
+  rarities:
+  - rarity: 1
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+  - rarity: 2
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+  - rarity: 3
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+  - rarity: 4
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+  - rarity: 5
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+  - rarity: 6
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+  - rarity: 7
+    possible_effects:
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: CNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: BNormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false
+    - effect_category: ANormalArmor
+      is_random: false

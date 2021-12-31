@@ -1,0 +1,5 @@
+item_vnum: 1897
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4049   # Tarot Card (The Hermit)
+  quantity:  1

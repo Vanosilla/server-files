@@ -1,0 +1,430 @@
+map_id: 189
+npcs:
+- map_npc_id: 10514
+  vnum: 1072
+  pos_x: 196
+  pos_y: 129
+  effect_delay: 4750
+  dialog_id: 92
+  direction_facing: 3
+- map_npc_id: 10515
+  vnum: 1073
+  pos_x: 196
+  pos_y: 155
+  effect_delay: 4750
+  dialog_id: 93
+  direction_facing: 3
+- map_npc_id: 10516
+  vnum: 1074
+  pos_x: 63
+  pos_y: 55
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10517
+  vnum: 1074
+  pos_x: 117
+  pos_y: 114
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10518
+  vnum: 1074
+  pos_x: 169
+  pos_y: 81
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10519
+  vnum: 1074
+  pos_x: 174
+  pos_y: 29
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10520
+  vnum: 1074
+  pos_x: 189
+  pos_y: 46
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10521
+  vnum: 1076
+  pos_x: 111
+  pos_y: 171
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 10522
+  vnum: 1076
+  pos_x: 178
+  pos_y: 138
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 1
+- map_npc_id: 10523
+  vnum: 1076
+  pos_x: 188
+  pos_y: 96
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 3
+- map_npc_id: 10524
+  vnum: 1077
+  pos_x: 32
+  pos_y: 104
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10525
+  vnum: 1077
+  pos_x: 127
+  pos_y: 48
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10526
+  vnum: 1077
+  pos_x: 129
+  pos_y: 96
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10527
+  vnum: 1077
+  pos_x: 138
+  pos_y: 133
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10528
+  vnum: 1077
+  pos_x: 147
+  pos_y: 83
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10529
+  vnum: 1077
+  pos_x: 173
+  pos_y: 54
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10530
+  vnum: 1077
+  pos_x: 176
+  pos_y: 152
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10531
+  vnum: 1077
+  pos_x: 189
+  pos_y: 118
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10532
+  vnum: 1078
+  pos_x: 44
+  pos_y: 172
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10533
+  vnum: 1078
+  pos_x: 59
+  pos_y: 137
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10534
+  vnum: 1078
+  pos_x: 82
+  pos_y: 77
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10535
+  vnum: 1078
+  pos_x: 96
+  pos_y: 179
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10536
+  vnum: 1078
+  pos_x: 105
+  pos_y: 125
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10537
+  vnum: 1078
+  pos_x: 140
+  pos_y: 142
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10538
+  vnum: 1078
+  pos_x: 147
+  pos_y: 57
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10539
+  vnum: 1078
+  pos_x: 172
+  pos_y: 164
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 10540
+  vnum: 1078
+  pos_x: 175
+  pos_y: 100
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+#- map_npc_id: 10541
+#  vnum: 2033
+#  pos_x: 49
+#  pos_y: 165
+#  effect_delay: 4750
+#  dialog_id: 508
+#  direction_facing: 2
+#  item_shop:
+#    name: "Heroes of Fire"
+#    shop_type: 52
+#    tabs: []
+#- map_npc_id: 10542
+#  vnum: 2045
+#  pos_x: 46
+#  pos_y: 157
+#  effect_delay: 4750
+#  dialog_id: 511
+#  direction_facing: 5
+#  item_shop:
+#    name: "Glacerus, the Ice Cold"
+#    shop_type: 54
+#    tabs: []
+- map_npc_id: 10543
+  vnum: 330
+  pos_x: 68
+  pos_y: 154
+  effect_delay: 4750
+  dialog_id: 58
+  direction_facing: 3
+  item_shop:
+    name: "Time Circle"
+    tabs: []
+- map_npc_id: 10544
+  vnum: 955
+  pos_x: 42
+  pos_y: 168
+  effect_vnum: 857
+  effect_delay: 4750
+  dialog_id: 454
+  item_shop:
+    name: "Warp Tower"
+    tabs: []
+- map_npc_id: 10545
+  vnum: 1343
+  pos_x: 47
+  pos_y: 139
+  effect_delay: 4750
+  dialog_id: 94
+  direction_facing: 2
+  item_shop:
+    name: "Archaeologist"
+    shop_type: 31
+    tabs: []
+- map_npc_id: 10546
+  vnum: 793
+  pos_x: 57
+  pos_y: 137
+  effect_delay: 4750
+  dialog_id: 460
+  direction_facing: 2
+  item_shop:
+    name: "NosBazaar"
+    shop_type: 45
+    tabs: []
+- map_npc_id: 10547
+  vnum: 1344
+  pos_x: 20
+  pos_y: 141
+  effect_delay: 4750
+  dialog_id: 95
+  direction_facing: 1
+  item_shop:
+    name: "Copper Merchant"
+    shop_type: 32
+    tabs: []
+- map_npc_id: 10548
+  vnum: 1345
+  pos_x: 19
+  pos_y: 154
+  effect_delay: 4750
+  dialog_id: 96
+  direction_facing: 1
+  item_shop:
+    name: "Silver Merchant"
+    shop_type: 33
+    tabs: []
+- map_npc_id: 10549
+  vnum: 1362
+  pos_x: 19
+  pos_y: 164
+  effect_delay: 4750
+  dialog_id: 97
+  direction_facing: 1
+  item_shop:
+    name: "Gold Merchant"
+    shop_type: 34
+    tabs: []
+- map_npc_id: 10550
+  vnum: 1363
+  pos_x: 131
+  pos_y: 171
+  effect_delay: 4750
+  dialog_id: 449
+  direction_facing: 2
+  item_shop:
+    name: "Desert Market"
+    shop_type: 35
+    tabs:
+    - items:
+      - item_vnum: 2373
+        price: 800
+      - item_vnum: 2374
+        price: 3000
+      - item_vnum: 2350
+        price: 5000
+      - item_vnum: 2375
+        price: 1200
+      - item_vnum: 2376
+        price: 2400
+      - item_vnum: 2295
+        price: 175
+      - item_vnum: 2385
+      - item_vnum: 2386
+      - item_vnum: 2387
+      - item_vnum: 2388
+      - item_vnum: 2389
+      - item_vnum: 2390
+      - item_vnum: 2391
+      - item_vnum: 2392
+      - item_vnum: 2393
+- map_npc_id: 10551
+  vnum: 1364
+  pos_x: 137
+  pos_y: 191
+  effect_delay: 4750
+  dialog_id: 450
+  item_shop:
+    name: "Weapon Shop"
+    shop_type: 36
+    tabs:
+    - shop_tab_id: 12
+      items:
+      - item_vnum: 2082
+      - item_vnum: 2083
+- map_npc_id: 10552
+  vnum: 1365
+  pos_x: 185
+  pos_y: 168
+  effect_delay: 4750
+  dialog_id: 451
+  direction_facing: 3
+  item_shop:
+    name: "Alchemist"
+    shop_type: 37
+    tabs:
+    - items:
+      - item_vnum: 2384
+      - item_vnum: 2071
+      - item_vnum: 2072
+        price: 1200
+      - item_vnum: 2170
+        price: 50000
+      - item_vnum: 2156
+      - item_vnum: 2089
+        price: 30000
+      - item_vnum: 2329
+        price: 30000
+- map_npc_id: 10553
+  vnum: 1366
+  pos_x: 110
+  pos_y: 133
+  effect_delay: 4750
+  dialog_id: 455
+  item_shop:
+    name: "Merchant"
+    shop_type: 39
+    tabs:
+    - items:
+      - item_vnum: 2050
+      - item_vnum: 2051
+      - item_vnum: 2052
+      - item_vnum: 2053
+      - item_vnum: 2054
+      - item_vnum: 2055
+      - item_vnum: 2056
+      - item_vnum: 2057
+      - item_vnum: 2058
+- map_npc_id: 10554
+  vnum: 1367
+  pos_x: 127
+  pos_y: 189
+  effect_delay: 4750
+  dialog_id: 456
+  item_shop:
+    name: "Tinker"
+    shop_type: 40
+    tabs: []
+- map_npc_id: 10555
+  vnum: 1269
+  pos_x: 42
+  pos_y: 193
+  effect_delay: 4750
+  dialog_id: 70
+  item_shop:
+    name: "Fortune-Teller"
+    shop_type: 41
+    tabs: []
+- map_npc_id: 10556
+  vnum: 1431
+  pos_x: 40
+  pos_y: 183
+  effect_delay: 4750
+  dialog_id: 462
+  direction_facing: 5
+  item_shop:
+    name: "Family Manager"
+    shop_type: 48
+    menu_type: 5
+    tabs:
+    - items:
+      - item_vnum: 9679
+      - item_vnum: 9680
+      - item_vnum: 9681
+      - item_vnum: 9682
+      - item_vnum: 9683
+      - item_vnum: 9684
+      - item_vnum: 9685
+      - item_vnum: 9686
+      - item_vnum: 9687
+      - item_vnum: 9688
+      - item_vnum: 9689
+      - item_vnum: 9690
+      - item_vnum: 9691
+      - item_vnum: 9692
+      - item_vnum: 9693
+      - item_vnum: 9694
+      - item_vnum: 9695
+      - item_vnum: 9696
+      - item_vnum: 9697

@@ -1,0 +1,306 @@
+map_id: 146
+npcs:
+#- map_npc_id: 1201
+#  vnum: 2604
+#  pos_x: 65
+#  pos_y: 120
+#  direction_facing: 3
+#  dialog_id: 3049
+#  can_move: false
+- map_npc_id: 8898
+  vnum: 521
+  pos_x: 41
+  pos_y: 72
+  dialog_id: 425
+  direction_facing: 3
+  item_shop:
+    name: "Powerful Weapon Store"
+    shop_type: 15
+    tabs:
+    - shop_tab_id: 12
+      items:
+      - item_vnum: 2082
+      - item_vnum: 2083
+    - shop_tab_id: 10
+      items:
+      - item_vnum: 27
+      - item_vnum: 41
+      - item_vnum: 55
+      - item_vnum: 29
+      - item_vnum: 43
+      - item_vnum: 57
+      - item_vnum: 754
+      - item_vnum: 756
+      - item_vnum: 758
+      - item_vnum: 760
+      - item_vnum: 762
+      - item_vnum: 764
+- map_npc_id: 8899
+  vnum: 522
+  pos_x: 40
+  pos_y: 84
+  dialog_id: 424
+  direction_facing: 3
+  item_shop:
+    name: "Heavy Duty Armor Store"
+    shop_type: 16
+    tabs:
+    - shop_tab_id: 11
+      items:
+      - item_vnum: 101
+      - item_vnum: 114
+      - item_vnum: 127
+      - item_vnum: 103
+      - item_vnum: 116
+      - item_vnum: 129
+      - item_vnum: 105
+      - item_vnum: 118
+      - item_vnum: 131
+      - item_vnum: 766
+      - item_vnum: 768
+      - item_vnum: 770
+- map_npc_id: 8900
+  vnum: 523
+  pos_x: 41
+  pos_y: 129
+  dialog_id: 421
+  direction_facing: 3
+  item_shop:
+    name: "Noel's Miscellaneous Store"
+    shop_type: 17
+    tabs:
+    - items:
+      - item_vnum: 1084
+      - item_vnum: 1085
+      - item_vnum: 2028
+      - item_vnum: 1047
+      - item_vnum: 1073
+      - item_vnum: 1039
+      - item_vnum: 1040
+      - item_vnum: 1041
+- map_npc_id: 8901
+  vnum: 526
+  pos_x: 42
+  pos_y: 95
+  dialog_id: 422
+  direction_facing: 3
+  item_shop:
+    name: "Magic Alchemist"
+    shop_type: 18
+    tabs:
+    - items:
+      - item_vnum: 2070
+        price: 300
+      - item_vnum: 2071
+        price: 600
+      - item_vnum: 2072
+        price: 800
+      - item_vnum: 2170
+        price: 25000
+      - item_vnum: 2130
+        price: 1000
+- map_npc_id: 8902
+  vnum: 525
+  pos_x: 40
+  pos_y: 173
+  dialog_id: 420
+  item_shop:
+    name: "Alice's Beauty Shop"
+    shop_type: 19
+    tabs:
+    - items:
+      - item_vnum: 2050
+      - item_vnum: 2051
+      - item_vnum: 2052
+      - item_vnum: 2053
+      - item_vnum: 2054
+      - item_vnum: 2055
+      - item_vnum: 2056
+      - item_vnum: 2057
+      - item_vnum: 2058
+      - item_vnum: 780
+      - item_vnum: 778
+      - item_vnum: 776
+- map_npc_id: 8903
+  vnum: 524
+  pos_x: 49
+  pos_y: 145
+  dialog_id: 419
+  direction_facing: 2
+  item_shop:
+    name: "Hot Bakery"
+    shop_type: 20
+    tabs:
+    - items:
+      - item_vnum: 2023
+        price: 17
+      - item_vnum: 2024
+        price: 20
+      - item_vnum: 2018
+        price: 200
+      - item_vnum: 2026
+        price: 160
+      - item_vnum: 2121
+        price: 130
+      - item_vnum: 2299
+        price: 180
+      - item_vnum: 2300
+        price: 120
+      - item_vnum: 2304
+        price: 250
+      - item_vnum: 2305
+        price: 600
+      - item_vnum: 2020
+        price: 750
+- map_npc_id: 8904
+  vnum: 527
+  pos_x: 23
+  pos_y: 148
+  dialog_id: 423
+  direction_facing: 1
+  item_shop:
+    name: "North Mate Land"
+    menu_type: 4
+    shop_type: 21
+    tabs:
+    - items:
+      - item_vnum: 3000
+      - item_vnum: 3069
+      - item_vnum: 3001
+      - item_vnum: 3002
+      - item_vnum: 3003
+      - item_vnum: 3103
+      - item_vnum: 3104
+      - item_vnum: 3004
+      - item_vnum: 3005
+      - item_vnum: 3114
+      - item_vnum: 3117
+      - item_vnum: 3118
+      - item_vnum: 3119
+      - item_vnum: 3120
+      - item_vnum: 3057
+      - item_vnum: 3059
+      - item_vnum: 3063
+      - item_vnum: 3064
+      - item_vnum: 3086
+      - item_vnum: 3087
+      - item_vnum: 3088
+      - item_vnum: 3089
+      - item_vnum: 3090
+      - item_vnum: 3091
+      - item_vnum: 3092
+      - item_vnum: 3093
+      - item_vnum: 3094
+      - item_vnum: 3095
+      - item_vnum: 3096
+      - item_vnum: 3097
+      - item_vnum: 3098
+      - item_vnum: 3099
+      - item_vnum: 3110
+      - item_vnum: 3111
+      - item_vnum: 3113
+      - item_vnum: 3032
+      - item_vnum: 3033
+      - item_vnum: 3034
+      - item_vnum: 3035
+      - item_vnum: 3020
+      - item_vnum: 3021
+      - item_vnum: 3022
+      - item_vnum: 3023
+      - item_vnum: 3028
+      - item_vnum: 3029
+      - item_vnum: 3030
+      - item_vnum: 3031
+      - item_vnum: 3056
+      - item_vnum: 3055
+- map_npc_id: 8905
+  vnum: 578
+  pos_x: 25
+  pos_y: 102
+  dialog_id: 430
+  direction_facing: 1
+  skill_shop:
+    name: "Port Alveus Technology Service"
+    menu_type: 1
+    shop_type: 22
+    tabs:
+    - items:
+      - skill_vnum: 21
+      - skill_vnum: 25
+      - skill_vnum: 29
+      - skill_vnum: 37
+      - skill_vnum: 41
+      - skill_vnum: 45
+      - skill_vnum: 49
+      - skill_vnum: 53
+      - skill_vnum: 57
+    - shop_tab_id: 1
+      items:
+# Adventurer skills
+      - skill_vnum: 200 # Swing
+      - skill_vnum: 200 # Swing
+      - skill_vnum: 301 # Strengthen Swing
+      - skill_vnum: 201 # Slingshot
+      - skill_vnum: 302 # Strengthen Slingshot
+      - skill_vnum: 202 # Strong Hit
+      - skill_vnum: 300 # Devious Strike
+      - skill_vnum: 203 # Slingshot
+      - skill_vnum: 303 # Increased Attack Power
+      - skill_vnum: 204 # Spinning Hit
+      - skill_vnum: 304 # Increased Attack Power
+      - skill_vnum: 205 # Beat-Up
+      - skill_vnum: 305 # Extra Bleeding
+      - skill_vnum: 206 # Battle Cry
+      - skill_vnum: 207 # Shout of Morale
+      - skill_vnum: 208 # Charged Attack
+      - skill_vnum: 210 # Energy Bolt
+      - skill_vnum: 306 # Powerful Energy Bolt
+      - skill_vnum: 209 # Capture (Adventurer)
+# Swordsman skills
+      - skill_vnum: 220 # Basic Slash
+      - skill_vnum: 221 # Crossbow Shot
+      - skill_vnum: 223 # Counterstrike
+      - skill_vnum: 225 # Star Attack
+      - skill_vnum: 228 # Double Attack
+      - skill_vnum: 229 # Dynamic Shot
+      - skill_vnum: 232 # Blood Oath
+      - skill_vnum: 233 # Suppress
+      - skill_vnum: 238 # Stop Bleeding
+      - skill_vnum: 297 # Silent Attack
+      - skill_vnum: 296 # Morale Boost
+      - skill_vnum: 298 # Armor Breaker
+      - skill_vnum: 235 # Capture (Swordsman)
+# Archer skills
+      - skill_vnum: 240 # Archery
+      - skill_vnum: 241 # Dagger Stab
+      - skill_vnum: 244 # Piercing Shot
+      - skill_vnum: 246 # Jump Shot
+      - skill_vnum: 249 # Short Stab
+      - skill_vnum: 250 # Poisonous Dagger
+      - skill_vnum: 251 # Turning Count
+      - skill_vnum: 385 # Target Weak Points
+      - skill_vnum: 236 # Capture (Archer)
+# Mage skills
+      - skill_vnum: 261 # Magic Shot
+      - skill_vnum: 263 # Ice Bolt
+      - skill_vnum: 264 # Magic Missile
+      - skill_vnum: 265 # Stone Cubic
+      - skill_vnum: 268 # Magic Bullet
+      - skill_vnum: 269 # Explosive Magic Bullet
+      - skill_vnum: 271 # Frost Shield
+      - skill_vnum: 272 # Recovery Aura
+      - skill_vnum: 274 # Sleep
+      - skill_vnum: 275 # Red Drain
+      - skill_vnum: 276 # Blind
+      - skill_vnum: 277 # Teleport
+      - skill_vnum: 394 # Magic Beam
+      - skill_vnum: 237 # Capture (Mage)
+- map_npc_id: 8906
+  vnum: 528
+  pos_x: 11
+  pos_y: 84
+  dialog_id: 417
+  direction_facing: 3
+  item_shop:
+    name: "Port Alveus Public Service Center"
+    tabs: []

@@ -1,0 +1,5 @@
+item_vnum: 1901
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4053   # Tarot Card (The Star)
+  quantity:  1

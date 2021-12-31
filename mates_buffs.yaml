@@ -1,0 +1,44 @@
+# Configuration related to NosMate buffs
+
+- pet_vnum: 178 #New Year Lucky Pig
+  buff_ids:
+  - 162 #New Year's Blessing
+- pet_vnum: 567 #Egg Fairy
+  buff_ids:
+  - 167 #Resurrection
+- pet_vnum: 670 #Fibi Frosty
+  buff_ids:
+  - 374 #Owl Blessing
+- pet_vnum: 683 #Otter
+  buff_ids:
+  - 742 #Otter's Blessing
+- pet_vnum: 829 #Rudi Rowdy
+  buff_ids:
+  - 377 #Rudi's Blessing
+- pet_vnum: 836 #Fluffy Bally
+  buff_ids:
+  - 381 #Fluffy Bally's Blessing
+- pet_vnum: 838 #Navy Bushtail
+  buff_ids:
+  - 385 #Blessing of the Navy
+- pet_vnum: 840 #Leo The Coward
+  buff_ids:
+  - 442 #Leo's Blessing
+- pet_vnum: 842 #Indian Bushtail
+  buff_ids:
+  - 399 #Indian's Blessing
+- pet_vnum: 843 #Viking Bushi
+  buff_ids:
+  - 403 #Odin's Blessing
+- pet_vnum: 844 #Cowboy Bushtail
+  buff_ids:
+  - 391 #Cowboy's Blessing
+- pet_vnum: 2105 #Inferno
+  buff_ids:
+  - 383 #Fox's Blessing
+- pet_vnum: 2704 #Fortnite Bushtail
+  buff_ids:
+  - 710 #Lucky Mascot!
+- pet_vnum: 2709 #Super Fortnite Bushtail
+  buff_ids:
+  - 711 #Super Lucky Mascot!

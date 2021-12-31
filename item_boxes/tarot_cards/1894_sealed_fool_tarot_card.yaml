@@ -1,0 +1,5 @@
+item_vnum: 1894
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4046   # Tarot Card (Fool)
+  quantity:  1

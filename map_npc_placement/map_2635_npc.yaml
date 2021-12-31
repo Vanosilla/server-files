@@ -1,0 +1,37 @@
+map_id: 2635
+npcs:
+- map_npc_id: 15271
+  vnum: 3054
+  pos_x: 57
+  pos_y: 59
+  effect_delay: 4750
+  direction_facing: 0
+  dialog_id: 0
+- map_npc_id: 15270
+  vnum: 3053
+  pos_x: 138
+  pos_y: 76
+  effect_delay: 4750
+  direction_facing: 0
+  dialog_id: 0
+- map_npc_id: 15269
+  vnum: 3053
+  pos_x: 122
+  pos_y: 7
+  effect_delay: 4750
+  direction_facing: 0
+  dialog_id: 0
+- map_npc_id: 15268
+  vnum: 3053
+  pos_x: 7
+  pos_y: 4
+  effect_delay: 4750
+  direction_facing: 0
+  dialog_id: 0
+- map_npc_id: 15267
+  vnum: 3044
+  pos_x: 102
+  pos_y: 5
+  effect_delay: 4750
+  direction_facing: 2
+  dialog_id: 11013

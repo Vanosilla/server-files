@@ -1,0 +1,150 @@
+# Configuration related to family creation, upgrades
+
+creation_is_group_required: false
+creation_group_members_required: 3
+creation_price: 200000
+minimum_name_length: 3
+maximum_name_length: 20
+deputy_limit: 2
+keeper_limit: 999
+time_between_family_rejoin: 1.00:00:00
+default_membership_capacity: 20
+upgrades:
+- upgrade_type: INCREASE_ATTACK_DEFENSE
+  upgrade_level: 0 # Level 1
+  value: 1
+- upgrade_type: INCREASE_ATTACK_DEFENSE
+  upgrade_level: 1 # Level 2
+  value: 2
+- upgrade_type: INCREASE_ATTACK_DEFENSE
+  upgrade_level: 2 # Level 3
+  value: 4
+- upgrade_type: INCREASE_ATTACK_DEFENSE
+  upgrade_level: 3 # Level 4
+  value: 6
+- upgrade_type: INCREASE_ATTACK_DEFENSE
+  upgrade_level: 4 # Level 5
+  value: 8
+- upgrade_type: INCREASE_ATTACK_DEFENSE
+  upgrade_level: 5 # Level 6
+  value: 10
+- upgrade_type: INCREASE_FOOD_SNACK_REGEN
+  upgrade_level: 0 # Level 1
+  value: 5
+- upgrade_type: INCREASE_FOOD_SNACK_REGEN
+  upgrade_level: 1 # Level 2
+  value: 10
+- upgrade_type: INCREASE_FOOD_SNACK_REGEN
+  upgrade_level: 2 # Level 3
+  value: 15
+- upgrade_type: DECREASE_SHIP_TP_COST
+  upgrade_level: 0 # Level 1
+  value: 25
+- upgrade_type: DECREASE_SHIP_TP_COST
+  upgrade_level: 1 # Level 2
+  value: 50
+- upgrade_type: DECREASE_SHIP_TP_COST
+  upgrade_level: 2 # Level 3
+  value: 75
+- upgrade_type: INCREASE_POTION_REGEN
+  upgrade_level: 0 # Level 1
+  value: 5
+- upgrade_type: INCREASE_POTION_REGEN
+  upgrade_level: 1 # Level 2
+  value: 10
+- upgrade_type: INCREASE_POTION_REGEN
+  upgrade_level: 2 # Level 3
+  value: 15
+- upgrade_type: INCREASE_FAMILY_WAREHOUSE
+  upgrade_level: 0 # Level 1
+  value: 21
+- upgrade_type: INCREASE_FAMILY_WAREHOUSE
+  upgrade_level: 1 # Level 2
+  value: 49
+- upgrade_type: INCREASE_FAMILY_MEMBERS_LIMIT
+  upgrade_level: 0 # Level 1
+  value: 70
+- upgrade_type: INCREASE_FAMILY_MEMBERS_LIMIT
+  upgrade_level: 1 # Level 2
+  value: 100
+levels:
+- level: 1
+  experience_range:
+    minimum: 0
+    maximum: 99999
+- level: 2
+  experience_range:
+    minimum: 100000
+    maximum: 219999
+- level: 3
+  experience_range:
+    minimum: 220000
+    maximum: 369999
+- level: 4
+  experience_range:
+    minimum: 370000
+    maximum: 559999
+- level: 5
+  experience_range:
+    minimum: 560000
+    maximum: 839999
+- level: 6
+  experience_range:
+    minimum: 840000
+    maximum: 1259999
+- level: 7
+  experience_range:
+    minimum: 1260000
+    maximum: 1899999
+- level: 8
+  experience_range:
+    minimum: 1900000
+    maximum: 2849999
+- level: 9
+  experience_range:
+    minimum: 2850000
+    maximum: 4269999
+- level: 10
+  experience_range:
+    minimum: 4270000
+    maximum: 6109999
+- level: 11
+  experience_range:
+    minimum: 6110000
+    maximum: 8359999
+- level: 12
+  experience_range:
+    minimum: 8360000
+    maximum: 11159999
+- level: 13
+  experience_range:
+    minimum: 11160000
+    maximum: 14869999
+- level: 14
+  experience_range:
+    minimum: 14870000
+    maximum: 19679999
+- level: 15
+  experience_range:
+    minimum: 19680000
+    maximum: 25899999
+- level: 16
+  experience_range:
+    minimum: 25900000
+    maximum: 34419999
+- level: 17
+  experience_range:
+    minimum: 34420000
+    maximum: 46509999
+- level: 18
+  experience_range:
+    minimum: 46510000
+    maximum: 64249999
+- level: 19
+  experience_range:
+    minimum: 64250000
+    maximum: 89549999
+- level: 20
+  experience_range:
+    minimum: 89550000
+    maximum: 9223372036854775806

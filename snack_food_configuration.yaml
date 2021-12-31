@@ -1,0 +1,8 @@
+# Configuration related to snack/food
+
+delay_between_snack: 500
+delay_between_food: 1000
+snack_soft_cap: 3000
+food_soft_cap: 10000
+snack_hard_cap: 10000
+food_hard_cap: 100000

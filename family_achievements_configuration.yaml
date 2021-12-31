@@ -1,0 +1,394 @@
+# Configuration related to family achievements
+
+counters:
+# family level up
+- id: 9018 # Level 2
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_FAMILY_WAREHOUSE
+    upgrade_value: 21
+    upgrade_id: 9694
+- id: 9019 # Level 3
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_ATTACK_DEFENSE
+    upgrade_value: 1
+    upgrade_id: 9679
+  required_id: 9018
+- id: 9020 # Level 4
+  value: 1
+  rewards:
+  - family_upgrade_category: DECREASE_SHIP_TP_COST
+    upgrade_value: 25
+    upgrade_id: 9688
+  required_id: 9019
+- id: 9021 # Level 5
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_FAMILY_MEMBERS_LIMIT
+    upgrade_value: 70
+    upgrade_id: 9696
+  required_id: 9020
+- id: 9022 # Level 6
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_ATTACK_DEFENSE
+    upgrade_value: 2
+    upgrade_id: 9680
+  required_id: 9021
+- id: 9023 # Level 7
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_FAMILY_WAREHOUSE
+    upgrade_value: 49
+    upgrade_id: 9695
+  required_id: 9022
+- id: 9024 # Level 8
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_FOOD_SNACK_REGEN
+    upgrade_value: 5
+    upgrade_id: 9685
+  required_id: 9023
+- id: 9025 # Level 9
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_FAMILY_MEMBERS_LIMIT
+    upgrade_value: 100
+    upgrade_id: 9697
+  required_id: 9024
+- id: 9026 # Level 10
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_ATTACK_DEFENSE
+    upgrade_value: 4
+    upgrade_id: 9681
+  required_id: 9025
+- id: 9027 # Level 11
+  value: 1
+  rewards:
+  - family_upgrade_category: DECREASE_SHIP_TP_COST
+    upgrade_value: 50
+    upgrade_id: 9689
+  required_id: 9026
+- id: 9028 # Level 12
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_POTION_REGEN
+    upgrade_value: 5
+    upgrade_id: 9691
+  required_id: 9027
+- id: 9029 # Level 13
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_ATTACK_DEFENSE
+    upgrade_value: 6
+    upgrade_id: 9682
+  required_id: 9028
+- id: 9030 # Level 14
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_FOOD_SNACK_REGEN
+    upgrade_value: 10
+    upgrade_id: 9686
+  required_id: 9029
+- id: 9031 # Level 15
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_POTION_REGEN
+    upgrade_value: 10
+    upgrade_id: 9692
+  required_id: 9030
+- id: 9032 # Level 16
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_ATTACK_DEFENSE
+    upgrade_value: 8
+    upgrade_id: 9683
+  required_id: 9031
+- id: 9033 # Level 17
+  value: 1
+  rewards:
+  - family_upgrade_category: DECREASE_SHIP_TP_COST
+    upgrade_value: 75
+    upgrade_id: 9690
+  required_id: 9032
+- id: 9034 # Level 18
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_FOOD_SNACK_REGEN
+    upgrade_value: 15
+    upgrade_id: 9687
+  required_id: 9033
+- id: 9035 # Level 19
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_POTION_REGEN
+    upgrade_value: 15
+    upgrade_id: 9693
+  required_id: 9034
+- id: 9036 # Level 20
+  value: 1
+  rewards:
+  - family_upgrade_category: INCREASE_ATTACK_DEFENSE
+    upgrade_value: 10
+    upgrade_id: 9684
+  required_id: 9035
+
+# quotes of the day
+- id: 9037
+  value: 20
+  rewards:
+  - family_xp: 10000
+- id: 9038
+  value: 100
+  required_id: 9037
+  rewards:
+  - family_xp: 30000
+- id: 9039
+  value: 300
+  required_id: 9038
+  rewards:
+  - family_xp: 50000
+- id: 9040
+  value: 1000
+  required_id: 9039
+  rewards:
+  - family_xp: 100000
+- id: 9041
+  value: 3000
+  required_id: 9040
+  rewards:
+  - family_xp: 200000
+
+# complete rainbow battle
+- id: 9042
+  value: 10
+  rewards:
+  - family_xp: 5000
+- id: 9043
+  value: 100
+  required_id: 9042
+  rewards:
+  - family_xp: 25000
+- id: 9044
+  value: 300
+  required_id: 9043
+  rewards:
+  - family_xp: 50000
+- id: 9045
+  value: 1000
+  required_id: 9044
+  rewards:
+  - family_xp: 10000
+- id: 9046
+  value: 3000
+  required_id: 9045
+  rewards:
+  - family_xp: 150000
+
+# win rainbow battle
+- id: 9047
+  value: 5
+  rewards:
+  - family_xp: 5000
+- id: 9048
+  value: 50
+  required_id: 9047
+  rewards:
+  - family_xp: 25000
+- id: 9049
+  value: 150
+  required_id: 9048
+  rewards:
+  - family_xp: 50000
+- id: 9050
+  value: 500
+  required_id: 9049
+  rewards:
+  - family_xp: 100000
+- id: 9051
+  value: 1500
+  required_id: 9050
+  rewards:
+  - family_xp: 150000
+
+# defeat act4 dungeon
+- id: 9052
+  value: 10
+  rewards:
+  - family_xp: 50000
+- id: 9053
+  value: 100
+  required_id: 9052
+  rewards:
+  - family_xp: 100000
+- id: 9054
+  value: 1000
+  required_id: 9053
+  rewards:
+  - family_xp: 500000
+
+# morcos
+- id: 9055
+  value: 1
+  rewards:
+  - family_upgrade_category: FIRE_RESISTANCE
+    upgrade_value: 1
+    upgrade_id: 9732
+  - family_xp: 10000
+- id: 9056
+  value: 10
+  required_id: 9055
+  rewards:
+  - family_upgrade_category: FIRE_RESISTANCE
+    upgrade_value: 2
+    upgrade_id: 9733
+  - family_xp: 50000
+- id: 9057
+  value: 30
+  required_id: 9056
+  rewards:
+  - family_upgrade_category: FIRE_RESISTANCE
+    upgrade_value: 3
+    upgrade_id: 9734
+  - family_xp: 100000
+- id: 9058
+  value: 100
+  required_id: 9057
+  rewards:
+  - family_upgrade_category: FIRE_RESISTANCE
+    upgrade_value: 4
+    upgrade_id: 9735
+  - family_xp: 200000
+- id: 9059
+  value: 300
+  required_id: 9058
+  rewards:
+  - family_upgrade_category: FIRE_RESISTANCE
+    upgrade_value: 5
+    upgrade_id: 9736
+  - family_xp: 300000
+
+  # HATUS
+- id: 9060
+  value: 1
+  rewards:
+  - family_upgrade_category: DARK_RESISTANCE
+    upgrade_value: 1
+    upgrade_id: 9737
+  - family_xp: 10000
+- id: 9061
+  value: 10
+  required_id: 9060
+  rewards:
+  - family_upgrade_category: DARK_RESISTANCE
+    upgrade_value: 2
+    upgrade_id: 9738
+  - family_xp: 50000
+- id: 9062
+  value: 30
+  required_id: 9061
+  rewards:
+  - family_upgrade_category: DARK_RESISTANCE
+    upgrade_value: 3
+    upgrade_id: 9739
+  - family_xp: 100000
+- id: 9063
+  value: 100
+  required_id: 9062
+  rewards:
+  - family_upgrade_category: DARK_RESISTANCE
+    upgrade_value: 4
+    upgrade_id: 9740
+  - family_xp: 200000
+- id: 9064
+  value: 300
+  required_id: 9063
+  rewards:
+  - family_upgrade_category: DARK_RESISTANCE
+    upgrade_value: 5
+    upgrade_id: 9741
+  - family_xp: 300000
+
+  # CALVINAS
+- id: 9065
+  value: 1
+  rewards:
+  - family_upgrade_category: WATER_RESISTANCE
+    upgrade_value: 1
+    upgrade_id: 9742
+  - family_xp: 10000
+- id: 9066
+  value: 10
+  required_id: 9065
+  rewards:
+  - family_upgrade_category: WATER_RESISTANCE
+    upgrade_value: 2
+    upgrade_id: 9743
+  - family_xp: 50000
+- id: 9067
+  value: 30
+  required_id: 9066
+  rewards:
+  - family_upgrade_category: WATER_RESISTANCE
+    upgrade_value: 3
+    upgrade_id: 9744
+  - family_xp: 100000
+- id: 9068
+  value: 100
+  required_id: 9067
+  rewards:
+  - family_upgrade_category: WATER_RESISTANCE
+    upgrade_value: 4
+    upgrade_id: 9745
+  - family_xp: 200000
+- id: 9069
+  value: 300
+  required_id: 9068
+  rewards:
+  - family_upgrade_category: WATER_RESISTANCE
+    upgrade_value: 5
+    upgrade_id: 9746
+  - family_xp: 300000
+
+  # BERIOS
+- id: 9070
+  value: 1
+  rewards:
+  - family_upgrade_category: LIGHT_RESISTANCE
+    upgrade_value: 1
+    upgrade_id: 9747
+  - family_xp: 10000
+- id: 9071
+  value: 10
+  required_id: 9070
+  rewards:
+  - family_upgrade_category: LIGHT_RESISTANCE
+    upgrade_value: 2
+    upgrade_id: 9748
+  - family_xp: 50000
+- id: 9072
+  value: 30
+  required_id: 9071
+  rewards:
+  - family_upgrade_category: LIGHT_RESISTANCE
+    upgrade_value: 3
+    upgrade_id: 9749
+  - family_xp: 100000
+- id: 9073
+  value: 100
+  required_id: 9072
+  rewards:
+  - family_upgrade_category: LIGHT_RESISTANCE
+    upgrade_value: 4
+    upgrade_id: 9750
+  - family_xp: 200000
+- id: 9074
+  value: 300
+  required_id: 9073
+  rewards:
+  - family_upgrade_category: LIGHT_RESISTANCE
+    upgrade_value: 5
+    upgrade_id: 9751
+  - family_xp: 300000

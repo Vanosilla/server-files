@@ -1,0 +1,98 @@
+map_id: 131
+npcs:
+- map_npc_id: 8210
+  vnum: 538
+  pos_x: 40
+  pos_y: 49
+  dialog_id: 437
+- map_npc_id: 8211
+  vnum: 539
+  pos_x: 101
+  pos_y: 45
+  dialog_id: 438
+  direction_facing: 3
+- map_npc_id: 8212
+  vnum: 613
+  pos_x: 12
+  pos_y: 44
+  dialog_id: 429
+- map_npc_id: 8213
+  vnum: 565
+  pos_x: 3
+  pos_y: 16
+  dialog_id: 431
+  direction_facing: 2
+  item_shop:
+    name: "Hemil's Wizard Guild"
+    shop_type: 23
+    tabs:
+    - items:
+      - item_vnum: 2072
+        price: 800
+      - item_vnum: 2156
+      - item_vnum: 2311
+      - item_vnum: 1446
+      - item_vnum: 1447
+      - item_vnum: 1379
+      - item_vnum: 1386
+      - item_vnum: 1390
+      - item_vnum: 1391
+      - item_vnum: 1392
+      - item_vnum: 1389
+      - item_vnum: 1393
+      - item_vnum: 1394
+      - item_vnum: 1398
+- map_npc_id: 8214
+  vnum: 566
+  pos_x: 62
+  pos_y: 8
+  dialog_id: 432
+  direction_facing: 1
+  item_shop:
+    name: "Cold Ice Store"
+    shop_type: 24
+    tabs:
+    - items:
+      - item_vnum: 2301
+        price: 160
+      - item_vnum: 2302
+        price: 500
+      - item_vnum: 2306
+        price: 1800
+      - item_vnum: 2176
+        price: 1600
+      - item_vnum: 2294
+      - item_vnum: 2120
+        price: 170
+      - item_vnum: 2308
+        price: 500
+      - item_vnum: 2082
+      - item_vnum: 2083
+      - item_vnum: 2085
+      - item_vnum: 2086
+      - item_vnum: 2171
+      - item_vnum: 2077
+        price: 3000
+      - item_vnum: 2078
+        price: 10000
+      - item_vnum: 2088
+        price: 50000
+- map_npc_id: 8215
+  vnum: 568
+  pos_x: 15
+  pos_y: 44
+  dialog_id: 427
+  direction_facing: 2
+  item_shop:
+    name: "Go to Port Alveus"
+    tabs: []
+- map_npc_id: 8216
+  vnum: 793
+  pos_x: 44
+  pos_y: 14
+  dialog_id: 460
+  direction_facing: 2
+  item_shop:
+    name: "NosBazaar"
+    shop_type: 45
+    tabs: []

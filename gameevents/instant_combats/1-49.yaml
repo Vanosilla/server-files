@@ -1,0 +1,183 @@
+map_id: 2004    #default IC map
+return_portal_x: 47
+return_portal_y: 33
+requirements:
+  level:
+    minimum: 1
+    maximum: 49
+# heroic_level:
+#   minimum: 0
+#   maximum: 0
+  players:
+    minimum: 1
+    maximum: 50
+reward:
+  gold_multiplier: 2000 # 2,000 ~ 98,000
+  reputation_multiplier: 5
+  sp_points_multiplier: 10
+  family_experience: 100
+  dignity: 20
+closing_time: 00:15:00
+pre_wave_long_warning_time: 00:00:40    # "Monsters will show up in 40s"
+pre_wave_soon_warning_time: 00:00:10    # "Monsters are coming..."
+time_left_warnings:
+- 00:05:00    #10min left
+- 00:10:00    #5min left
+- 00:13:00    #2min left
+- 00:14:00    #1min left
+- 00:14:30    #30s left
+- 00:14:50    #10s left
+waves:
+#
+#
+# ===============================================================
+# Wave 1 - Weaklings!
+#
+- time_start: 00:00:30
+  time_end: 00:02:45
+  title_key: IC_1_49_W1_TITLE
+  monsters:
+  - monster_vnum: 333   # Chicken
+    amount: 50
+  - monster_vnum: 26    # Large Dander
+    amount: 50
+  - monster_vnum: 32    # Strong Seedle
+    amount: 50
+  - monster_vnum: 9     # Happy Wooly
+    amount: 50
+  drops:
+  - item_vnum: 1046     # Gold
+    bunch_count: 15
+    amount_per_bunch: 2500
+  - item_vnum: 2027     # Fried Chicken
+    bunch_count: 10
+    amount_per_bunch: 30
+  - item_vnum: 2018     # Quick Meal
+    bunch_count: 15
+    amount_per_bunch: 8
+  - item_vnum: 1012     # Seed of Power
+    bunch_count: 10
+    amount_per_bunch: 3
+#
+#
+# ===============================================================
+# Wave 2 - Greens
+#
+- time_start: 00:03:15
+  time_end: 00:05:30
+  title_key: IC_1_49_W2_TITLE
+  monsters:
+  - monster_vnum: 47    # Hard Pii Pod
+    amount: 15
+  - monster_vnum: 27    # Weak Toxi Dander
+    amount: 15
+  - monster_vnum: 63    # Tired Walker
+    amount: 15
+  - monster_vnum: 18    # Happy Mandra
+    amount: 15
+  - monster_vnum: 101   # Strong Poisonous Hamster
+    amount: 15
+  drops:
+  - item_vnum: 1046     # Gold
+    bunch_count: 15
+    amount_per_bunch: 3750
+  - item_vnum: 1002     # Small Health Potion
+    bunch_count: 15
+    amount_per_bunch: 3
+  - item_vnum: 1005     # Small Mana Potion
+    bunch_count: 15
+    amount_per_bunch: 3
+  - item_vnum: 1012     # Seed of Power
+    bunch_count: 10
+    amount_per_bunch: 5
+#
+#
+# ===============================================================
+# Wave 3 - Reds
+#
+- time_start: 00:06:00
+  time_end: 00:08:15
+  title_key: IC_1_49_W3_TITLE
+  monsters:
+  - monster_vnum: 2     # Big Fox
+    amount: 15
+  - monster_vnum: 35    # Heavy Fire Seedle
+    amount: 15
+  - monster_vnum: 15    # Tired Ram
+    amount: 15
+  - monster_vnum: 58    # Fire Vampie
+    amount: 15
+  - monster_vnum: 194   # Underworld Devil
+    amount: 10
+  - monster_vnum: 4     # Dusi-Fox
+    amount: 10
+  drops:
+  - item_vnum: 1046     # Gold
+    bunch_count: 15
+    amount_per_bunch: 5000
+  - item_vnum: 1002     # Small Health Potion
+    bunch_count: 15
+    amount_per_bunch: 8
+  - item_vnum: 1005     # Small Mana Potion
+    bunch_count: 15
+    amount_per_bunch: 8
+  - item_vnum: 1012     # Seed of Power
+    bunch_count: 10
+    amount_per_bunch: 10
+#
+#
+# ===============================================================
+# Wave 4 - Yellows
+#
+- time_start: 00:08:45
+  time_end: 00:11:00
+  title_key: IC_1_49_W4_TITLE
+  monsters:
+  - monster_vnum: 50    # Big Wild Pii Pod
+    amount: 20
+  - monster_vnum: 110   # Strong Expy Miner
+    amount: 15
+  - monster_vnum: 112   # Chef Miner
+    amount: 10
+  - monster_vnum: 115   # Koearen Sword Fighter
+    amount: 15
+  - monster_vnum: 121   # Koaren Warrior
+    amount: 10
+  - monster_vnum: 290   # Ginseng Plantlet
+    amount: 10
+  drops:
+  - item_vnum: 1046     # Gold
+    bunch_count: 15
+    amount_per_bunch: 6250
+  - item_vnum: 1002     # Small Health Potion
+    bunch_count: 15
+    amount_per_bunch: 15
+  - item_vnum: 1005     # Small Mana Potion
+    bunch_count: 15
+    amount_per_bunch: 15
+  - item_vnum: 1012     # Seed of Power
+    bunch_count: 10
+    amount_per_bunch: 15
+#
+#
+# ===============================================================
+# Wave 5 - Flyings
+#
+- time_start: 00:11:30
+  time_end: 00:15:00
+  title_key: IC_1_49_W5_TITLE
+  monsters:
+  - monster_vnum: 139   # Morning Star Boing
+    amount: 15
+  - monster_vnum: 364   # Enchanted Sword
+    amount: 15
+  - monster_vnum: 365   # Enchanted Bow
+    amount: 15
+  - monster_vnum: 366   # Enchanted Morning Star
+    amount: 15
+  - monster_vnum: 61    # Devil Vampie
+    amount: 15
+  - monster_vnum: 75    # Happy Horn Imp
+    amount: 15
+  - monster_vnum: 1 # (BOSS) Fox
+    amount: 1

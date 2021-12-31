@@ -1,0 +1,76 @@
+# Configuration related to Cella
+
+- item_vnum: 1036   # Soul Gem Refiner
+  minimum_cella: 3
+  maximum_cella: 12
+  chance_of_optional_item: 30 # 0 to 100
+  items:
+  - vnum: 1015 # soul gem
+    quantity: 1
+    chance: 3
+  - vnum: 1016 # complete soul gem
+    quantity: 1
+    chance: 1
+#
+- item_vnum: 1037   # Cellon Refiner
+  minimum_cella: 3
+  maximum_cella: 12
+  chance_of_optional_item: 30 # 0 to 100
+  items:
+  - vnum: 1017 # cellon 1
+    quantity: 1
+    chance: 5000
+  - vnum: 1018 # cellon 2
+    quantity: 1
+    chance: 5000
+  - vnum: 1019 # cellon 3
+    quantity: 1
+    chance: 20000
+  - vnum: 1020 # cellon 4
+    quantity: 1
+    chance: 15000
+  - vnum: 1021 # cellon 5
+    quantity: 1
+    chance: 2500
+  - vnum: 1022 # cellon 6
+    quantity: 1
+    chance: 750
+  - vnum: 1023 # cellon 7
+    quantity: 1
+    chance: 200
+  - vnum: 1024 # cellon 8
+    quantity: 1
+    chance: 100
+  - vnum: 1025 # cellon 9
+    quantity: 1
+    chance: 50
+  - vnum: 1026 # cellon 10
+    quantity: 1
+    chance: 1
+#
+- item_vnum: 1038   # Crystal Refiner
+  minimum_cella: 3
+  maximum_cella: 12
+  chance_of_optional_item: 30 # 0 to 100
+  items:
+  - vnum: 1028 # NEW_MOON_CRYSTAL
+    quantity: 4
+    chance: 100
+  - vnum: 1029 # HALF_MOON_CRYSTAL
+    quantity: 3
+    chance: 50
+  - vnum: 1030 # FULL_MOON_CRYSTAL
+    quantity: 2
+    chance: 10
+  - vnum: 1031 # RED_CRYSTAL_PIECE
+    quantity: 2
+    chance: 50
+  - vnum: 1032 # BLUE_CRYSTAL_PIECE
+    quantity: 2
+    chance: 50
+  - vnum: 1033 # WHITE_CRYSTAL_PIECE
+    quantity: 2
+    chance: 50
+  - vnum: 1034 # BLACK_CRYSTAL_PIECE
+    quantity: 2
+    chance: 50

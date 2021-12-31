@@ -1,0 +1,79 @@
+# Configuration related to Act4 and Act5 ship
+
+- ship_type: Act4Angels
+  ship_cost: 3000
+  ship_level_restriction: 1
+  ship_map_id: 148
+  ship_map_x:
+    minimum: 15
+    maximum: 25
+  ship_map_y:
+    minimum: 28
+    maximum: 33
+  departure: 00:05:00
+  departure_warnings:
+  - 00:01:00
+  - 00:02:00
+  - 00:03:00
+  - 00:04:00
+  - 00:04:30
+  - 00:04:50
+  destination_map_id: 130
+  destination_map_x:
+    minimum: 10
+    maximum: 15
+  destination_map_y:
+    minimum: 38
+    maximum: 43
+#
+- ship_type: Act4Demons
+  ship_cost: 3000
+  ship_map_id: 149
+  ship_level_restriction: 1
+  ship_map_x:
+    minimum: 15
+    maximum: 25
+  ship_map_y:
+    minimum: 28
+    maximum: 33
+  departure: 00:05:00
+  departure_warnings:
+  - 00:01:00
+  - 00:02:00
+  - 00:03:00
+  - 00:04:00
+  - 00:04:30
+  - 00:04:50
+  destination_map_id: 131
+  destination_map_x:
+    minimum: 10
+    maximum: 15
+  destination_map_y:
+    minimum: 38
+    maximum: 43
+#
+- ship_type: Act5
+  ship_cost: 30000
+  ship_level_restriction: 70
+  ship_map_id: 155
+  ship_map_x:
+    minimum: 15
+    maximum: 25
+  ship_map_y:
+    minimum: 28
+    maximum: 33
+  departure: 00:05:00
+  departure_warnings:
+  - 00:01:00
+  - 00:02:00
+  - 00:03:00
+  - 00:04:00
+  - 00:04:30
+  - 00:04:50
+  destination_map_id: 170
+  destination_map_x:
+    minimum: 127
+    maximum: 127
+  destination_map_y:
+    minimum: 47
+    maximum: 47

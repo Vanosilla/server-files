@@ -1,0 +1,38 @@
+# Configuration related to Rarity of item/shell droped by monster
+
+equipment:
+- rarity: -2
+  chance: 150
+- rarity: -1
+  chance: 250
+- rarity: 0
+  chance: 3000
+- rarity: 1
+  chance: 2000
+- rarity: 2
+  chance: 1500
+- rarity: 3
+  chance: 1300
+- rarity: 4
+  chance: 1000
+- rarity: 5
+  chance: 550
+- rarity: 6
+  chance: 200
+- rarity: 7
+  chance: 50
+shells:
+- rarity: 1
+  chance: 1500
+- rarity: 2
+  chance: 2000
+- rarity: 3
+  chance: 3000
+- rarity: 4
+  chance: 2300
+- rarity: 5
+  chance: 1095
+- rarity: 6
+  chance: 100
+- rarity: 7
+  chance: 5

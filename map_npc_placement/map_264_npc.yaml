@@ -1,0 +1,48 @@
+map_id: 264
+npcs:
+- map_npc_id: 13604
+  vnum: 2692
+  pos_x: 8
+  pos_y: 8
+  effect_delay: 4750
+  dialog_id: 536
+  direction_facing: 2
+  item_shop:
+    name: "Cuarry Bank"
+    shop_type: 81
+    tabs: []
+- map_npc_id: 13605
+  vnum: 2692
+  pos_x: 20
+  pos_y: 8
+  effect_delay: 4750
+  dialog_id: 535
+  direction_facing: 2
+  item_shop:
+    name: "Cuarry Bank"
+    shop_type: 81
+    tabs: []
+- map_npc_id: 13606
+  vnum: 321
+  pos_x: 7
+  pos_y: 23
+  effect_delay: 4750
+  direction_facing: 6
+- map_npc_id: 13607
+  vnum: 321
+  pos_x: 7
+  pos_y: 13
+  effect_delay: 4750
+  direction_facing: 6
+- map_npc_id: 13608
+  vnum: 321
+  pos_x: 21
+  pos_y: 13
+  effect_delay: 4750
+  direction_facing: 7
+- map_npc_id: 13609
+  vnum: 321
+  pos_x: 21
+  pos_y: 23
+  effect_delay: 4750
+  direction_facing: 7

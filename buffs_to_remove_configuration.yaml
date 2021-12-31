@@ -1,0 +1,20 @@
+# Configuration related to Buffs - buffs removing on attack, on defense and when it's PvP
+
+attacker_buffs: # will be removed from entity when it attacks anything
+- 0     # recharge
+- 614   # fast lane 1
+- 615   # fast lane 2
+- 616   # fast lane 3
+#
+defender_buffs: # will be removed from entity when it gets damaged by anything
+- 36    # sleep (7s offi)
+- 548   # song of the sirens
+- 581   # song of the sirens pvp
+- 658   # deam world ticket
+- 1311  # sleep (7s)
+- 1312  # sleep (15s)
+#
+pvp_buffs:  # will be removed from entity when it attacks a player or gets hit by a player
+- 116 # Attack power increased
+- 117 # Armour Enhancement
+- 118 # Energy Enhancement

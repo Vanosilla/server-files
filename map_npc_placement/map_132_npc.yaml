@@ -1,0 +1,37 @@
+map_id: 132
+npcs:
+- map_npc_id: 8305
+  vnum: 2004
+  pos_x: 69
+  pos_y: 95
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 8306
+  vnum: 2004
+  pos_x: 24
+  pos_y: 24
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 1
+- map_npc_id: 8307
+  vnum: 2004
+  pos_x: 32
+  pos_y: 69
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 3
+- map_npc_id: 8308
+  vnum: 2004
+  pos_x: 60
+  pos_y: 35
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 4
+- map_npc_id: 8309
+  vnum: 2004
+  pos_x: 119
+  pos_y: 40
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 4

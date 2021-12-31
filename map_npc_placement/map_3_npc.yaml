@@ -1,0 +1,20 @@
+map_id: 3
+npcs:
+- map_npc_id: 2434
+  vnum: 352
+  pos_x: 5
+  pos_y: 199
+  dialog_id: 308
+  direction_facing: 5
+- map_npc_id: 2435
+  vnum: 422
+  pos_x: 37
+  pos_y: 1
+  dialog_id: 48
+  direction_facing: 2
+- map_npc_id: 2436
+  vnum: 859
+  pos_x: 89
+  pos_y: 21
+  dialog_id: 1
+  direction_facing: 2

@@ -1,0 +1,154 @@
+#
+# ACT 1
+#
+- id: 1
+  act: 1
+  sub_act: 1
+  time_spaces:
+  - 0   # 1Lv.
+  - 9   # 18Lv.
+- id: 2
+  act: 1
+  sub_act: 2
+  time_spaces:
+  - 14   # 24Lv.
+  - 15   # 25Lv.
+- id: 3
+  act: 1
+  sub_act: 3
+  time_spaces:
+  - 16   # 26Lv.
+  - 17   # 27Lv.
+  - 19   # 29Lv.
+  - 20   # 30Lv.
+  - 21   # 31Lv.
+  - 22   # 32Lv.
+- id: 4
+  act: 1
+  sub_act: 4
+  time_spaces:
+  - 25   # 35Lv.
+  - 31   # 41Lv.
+  - 33   # 43Lv.
+- id: 5
+  act: 1
+  sub_act: 5
+  time_spaces:
+  - 35   # 45Lv.
+  - 36   # 46Lv.
+  - 631  # 47Lv.
+  - 38   # 48Lv.
+  - 39   # 49Lv.
+- id: 6
+  act: 1
+  sub_act: 6
+  time_spaces:
+  - 45   # 55Lv.
+#
+#
+# ACT 2
+#
+- id: 7
+  act: 2
+  sub_act: 1
+  time_spaces:
+  - 46   # 56Lv.
+  - 48   # 57Lv.
+- id: 8
+  act: 2
+  sub_act: 2
+  time_spaces:
+  - 51   # 58Lv.
+- id: 9
+  act: 2
+  sub_act: 3
+  time_spaces: []
+- id: 10
+  act: 2
+  sub_act: 4
+  time_spaces:
+  - 59   # 64Lv.
+  - 62   # 65aLv.
+  - 63   # 65bLv.
+#
+#
+# ACT 3
+#
+- id: 11
+  act: 3
+  sub_act: 1
+  time_spaces:
+  - 64   # 66Lv.
+- id: 12
+  act: 3
+  sub_act: 2
+  time_spaces:
+  - 66   # 68Lv.
+  - 68   # 70Lv.
+- id: 13
+  act: 3
+  sub_act: 3
+  time_spaces:
+  - 69   # 71Lv.
+- id: 14
+  act: 3
+  sub_act: 4
+  time_spaces:
+  - 71   # 73Lv.
+  - 73   # 75Lv.
+- id: 15
+  act: 3
+  sub_act: 5
+  time_spaces:
+  - 75   # 77Lv.
+- id: 16
+  act: 3
+  sub_act: 6
+  time_spaces:
+  - 77   # 79Lv.
+  - 78   # 80Lv.
+#
+#
+# ACT 4
+#
+- id: 17
+  act: 4
+  sub_act: 1
+  time_spaces:
+  - 79   # 81Lv.
+#
+#
+# ACT 5
+#
+- id: 18
+  act: 5
+  sub_act: 1
+  time_spaces: []
+#- id: 19
+#  act: 5
+#  sub_act: 2
+#  time_spaces: []
+#
+#
+# ACT 6
+#
+#- id: 20
+#  act: 6
+#  sub_act: 1
+#  time_spaces: []
+#- id: 21
+#  act: 6
+#  sub_act: 2
+#  time_spaces: []
+#
+#
+# ACT 7
+#
+#- id: 22
+#  act: 7
+#  sub_act: 1
+#  time_spaces: []
+#- id: 23
+#  act: 7
+#  sub_act: 2
+#  time_spaces: []

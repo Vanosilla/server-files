@@ -1,0 +1,12 @@
+map_id: 11
+npcs:
+- map_npc_id: 3368
+  vnum: 937
+  pos_x: 8
+  pos_y: 107
+  effect_delay: 4750
+  dialog_id: 6348
+  direction_facing: 2
+  item_shop:
+    name: "SP Stone"
+    tabs: []

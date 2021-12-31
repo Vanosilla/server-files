@@ -1,0 +1,28 @@
+# Configuration related to basics attack vfx of Partner Specialist Card
+
+- morph_id: 2043
+  attack: 4357
+- morph_id: 2044
+  attack: 4222
+- morph_id: 2046
+  attack: 3626
+- morph_id: 2047
+  attack: 3630
+- morph_id: 2048
+  attack: 3635
+- morph_id: 2310
+  attack: 3461
+- morph_id: 2317
+  attack: 4035
+- morph_id: 2323
+  attack: 4035
+- morph_id: 2333
+  attack: 4071
+- morph_id: 2334
+  attack: 4071
+- morph_id: 2343
+  attack: 4085
+- morph_id: 2371
+  attack: 3461
+- morph_id: 2368
+  attack: 7133

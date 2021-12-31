@@ -1,0 +1,131 @@
+map_id: 177
+npcs:
+- map_npc_id: 9812
+  vnum: 1063
+  pos_x: 147
+  pos_y: 84
+  effect_delay: 4750
+  dialog_id: 103
+- map_npc_id: 9813
+  vnum: 1064
+  pos_x: 149
+  pos_y: 64
+  effect_delay: 4750
+  dialog_id: 106
+  direction_facing: 2
+- map_npc_id: 9814
+  vnum: 1074
+  pos_x: 46
+  pos_y: 123
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9815
+  vnum: 1074
+  pos_x: 52
+  pos_y: 95
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9816
+  vnum: 1074
+  pos_x: 81
+  pos_y: 57
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9817
+  vnum: 1074
+  pos_x: 89
+  pos_y: 145
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9818
+  vnum: 1074
+  pos_x: 119
+  pos_y: 48
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9819
+  vnum: 1074
+  pos_x: 167
+  pos_y: 152
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9820
+  vnum: 1074
+  pos_x: 173
+  pos_y: 135
+  effect_delay: 4750
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 9821
+  vnum: 955
+  pos_x: 142
+  pos_y: 120
+  effect_vnum: 857
+  effect_delay: 4750
+  dialog_id: 453
+  item_shop:
+    name: "Warp Tower"
+    tabs: []
+- map_npc_id: 9822
+  vnum: 1363
+  pos_x: 141
+  pos_y: 136
+  effect_delay: 4750
+  dialog_id: 449
+  direction_facing: 6
+  item_shop:
+    name: "Desert Market"
+    shop_type: 35
+    tabs:
+    - items:
+      - item_vnum: 2373
+        price: 800
+      - item_vnum: 2374
+        price: 3000
+      - item_vnum: 2350
+        price: 5000
+      - item_vnum: 2375
+        price: 1200
+      - item_vnum: 2376
+        price: 2400
+      - item_vnum: 2295
+        price: 175
+      - item_vnum: 2385
+      - item_vnum: 2386
+      - item_vnum: 2387
+      - item_vnum: 2388
+      - item_vnum: 2389
+      - item_vnum: 2390
+      - item_vnum: 2391
+      - item_vnum: 2392
+      - item_vnum: 2393
+
+- map_npc_id: 9823
+  vnum: 1365
+  pos_x: 165
+  pos_y: 107
+  effect_delay: 4750
+  dialog_id: 451
+  direction_facing: 3
+  item_shop:
+    name: "Alchemist"
+    shop_type: 37
+    tabs:
+    - items:
+      - item_vnum: 2384
+      - item_vnum: 2071
+      - item_vnum: 2072
+        price: 1200
+      - item_vnum: 2170
+        price: 50000
+      - item_vnum: 2156
+      - item_vnum: 2089
+        price: 30000
+      - item_vnum: 2329
+        price: 30000

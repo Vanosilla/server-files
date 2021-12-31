@@ -1,0 +1,23 @@
+map_id: 2630
+npcs:
+- map_npc_id: 14900
+  vnum: 3095
+  pos_x: 49
+  pos_y: 20
+  effect_delay: 4750
+  direction_facing: 7
+  dialog_id: 11024
+- map_npc_id: 14899
+  vnum: 3094
+  pos_x: 50
+  pos_y: 12
+  effect_delay: 4750
+  direction_facing: 7
+  dialog_id: 11004
+- map_npc_id: 14898
+  vnum: 3061
+  pos_x: 13
+  pos_y: 24
+  effect_delay: 4750
+  direction_facing: 0
+  dialog_id: 0

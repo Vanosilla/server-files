@@ -1,0 +1,27 @@
+map_id: 67
+monsters:
+- map_monster_id: 6370
+  vnum: 363
+  map_x: 7
+  map_y: 19
+  position: 2
+- map_monster_id: 6371
+  vnum: 363
+  map_x: 25
+  map_y: 7
+  position: 2
+- map_monster_id: 6372
+  vnum: 363
+  map_x: 40
+  map_y: 27
+  position: 2
+- map_monster_id: 6373
+  vnum: 363
+  map_x: 43
+  map_y: 14
+  position: 2
+- map_monster_id: 6374
+  vnum: 363
+  map_x: 44
+  map_y: 48
+  position: 2

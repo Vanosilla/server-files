@@ -1,0 +1,21 @@
+map_id: 2631
+npcs:
+- map_npc_id: 14924
+  vnum: 3069
+  pos_x: 42
+  pos_y: 58
+  effect_delay: 4750
+  direction_facing: 3
+  dialog_id: 11016
+  item_shop:
+    name: "Port Alveus Crossing"
+    menu_type: 0
+    shop_type: 91
+    tabs: []
+- map_npc_id: 14923
+  vnum: 3068
+  pos_x: 32
+  pos_y: 46
+  effect_delay: 4750
+  direction_facing: 2
+  dialog_id: 11010

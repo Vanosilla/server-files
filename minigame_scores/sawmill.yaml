@@ -1,0 +1,32 @@
+type: Sawmill
+scores:
+- reward_level: NoReward
+  score_range:
+    minimum: 0
+    maximum: 999
+  minimum_time_of_completion: 00:00:04
+- reward_level: FirstReward
+  score_range:
+    minimum: 1000
+    maximum: 4999
+  minimum_time_of_completion: 00:00:05
+- reward_level: SecondReward
+  score_range:
+    minimum: 5000
+    maximum: 9999
+  minimum_time_of_completion: 00:00:14
+- reward_level: ThirdReward
+  score_range:
+    minimum: 10000
+    maximum: 13999
+  minimum_time_of_completion: 00:00:20
+- reward_level: FourthReward
+  score_range:
+    minimum: 14000
+    maximum: 17999
+  minimum_time_of_completion: 00:00:25
+- reward_level: FifthReward
+  score_range:
+    minimum: 18000
+    maximum: 1000000
+  minimum_time_of_completion: 00:00:30

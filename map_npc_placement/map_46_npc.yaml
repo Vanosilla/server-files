@@ -1,0 +1,29 @@
+map_id: 46
+npcs:
+- map_npc_id: 5821
+  vnum: 953
+  pos_x: 10
+  pos_y: 43
+  dialog_id: 6350
+  direction_facing: 2
+  item_shop:
+    name: "SP Stone"
+    tabs: []
+#- map_npc_id: 5822
+#  vnum: 2351
+#  pos_x: 16
+#  pos_y: 148
+#  effect_vnum: 6003
+#  effect_delay: 4750
+#  dialog_id: 9683
+#  direction_facing: 2
+#  can_move: false
+- map_npc_id: 24809
+  custom_name: "Kupei Karustier"
+  vnum: 515
+  pos_x: 164
+  pos_y: 167
+  dialog_id: 20014
+  direction_facing: 2
+  can_move: true
+  can_attack: true

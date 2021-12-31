@@ -1,0 +1,13 @@
+# Configuration related to min. and max. level, gold and SP points
+
+max_level: 99
+max_mate_level: 99
+max_job_level: 99
+max_sp_level: 99
+max_hero_level: 80
+hero_min_level: 85
+max_gold: 1000000000
+max_bank_gold: 100000000000
+max_sp_base_points: 10000
+max_sp_additional_points: 1000000
+max_dignity: 100

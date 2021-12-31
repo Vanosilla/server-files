@@ -1,0 +1,8 @@
+map_id: 2527
+npcs:
+- map_npc_id: 13032
+  vnum: 2598
+  pos_x: 34
+  pos_y: 47
+  effect_delay: 4750
+  dialog_id: 525

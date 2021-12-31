@@ -1,0 +1,86 @@
+vnum: 3125
+type: Quarry
+minimum_level: 50
+minimum_reputation: 85_001
+rewards:
+- reward_level: FirstReward
+  durability_cost: 10
+  rewards:
+  - vnum: 2034 #Low Quality Metal
+    amount: 4
+  - vnum: 2038 #Low Quality Wood
+    amount: 4
+  - vnum: 2042 #Low Quality Rag
+    amount: 4
+  - vnum: 2046 #Low Quality Leather
+    amount: 4
+  - vnum: 2189 #Building Block
+    amount: 2
+  - vnum: 2205 #Mysterious Stone
+    amount: 2
+- reward_level: SecondReward
+  durability_cost: 15
+  rewards:
+  - vnum: 2035 #Normal Metal
+    amount: 4
+  - vnum: 2039 #Normal Wood
+    amount: 4
+  - vnum: 2043 #Normal Rag
+    amount: 4
+  - vnum: 2047 #Normal Leather
+    amount: 4
+  - vnum: 2105 #Stone Block
+    amount: 2
+- reward_level: ThirdReward
+  durability_cost: 20
+  rewards:
+  - vnum: 2036 #High Quality Metal
+    amount: 4
+  - vnum: 2040 #High Quality Wood
+    amount: 4
+  - vnum: 2044 #High Quality Rag
+    amount: 4
+  - vnum: 2048 #High Quality Leather
+    amount: 4
+  - vnum: 2193 #Orichalcum
+    amount: 2
+- reward_level: FourthReward
+  durability_cost: 25
+  rewards:
+  - vnum: 2037 #Rare Metal
+    amount: 4
+  - vnum: 2041 #Rare Wood
+    amount: 4
+  - vnum: 2045 #Rare Rag
+    amount: 4
+  - vnum: 2049 #Rare Leather
+    amount: 4
+  - vnum: 2193 #Orichalcum
+    amount: 2
+  - vnum: 2197 #Hammer
+    amount: 2
+  - vnum: 2226 #Stained Arrow Tip
+    amount: 2
+  - vnum: 1028 #New Moon Crystal
+    amount: 2
+  - vnum: 1029 #Half Moon Crystal
+    amount: 2
+- reward_level: FifthReward
+  durability_cost: 30
+  rewards:
+  - vnum: 2213 #Legendary Metal
+    amount: 1
+  - vnum: 2214 #Legendary Wood
+    amount: 1
+  - vnum: 2215 #Legendary Cloth
+    amount: 1
+  - vnum: 2216 #Legendary Leather
+    amount: 1
+  - vnum: 2193 #Orichalcum
+    amount: 2
+  - vnum: 2201 #Diamond
+    amount: 1
+  - vnum: 1030 #Full Moon Crystal
+    amount: 2
+#  - vnum: 9356 #Punter
+#    amount: 1

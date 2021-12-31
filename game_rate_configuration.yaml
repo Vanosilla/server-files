@@ -1,0 +1,18 @@
+# Configuration related to server rates
+
+mob_xp_rate: 20 # current official is x3 up until lvl 80, so x3 is 'base', kind of
+job_xp_rate: 20
+hero_xp_rate: 1 # hero xp is based on normal xp, so making it also 10 would mean hero xp is actually x20 (or x100?)
+fairy_xp_rate: 50
+mate_xp_rate: 20 # should be the same as player's
+partner_xp_rate: 20 # should be the same as player's
+family_xp_rate: 2
+reput_rate: 3
+mob_drop_rate: 3 # how many times mob specific items roll&drop, 50% drops become 2x 50% which is 25% for 0, 50% for 1, 25% for 2, which is roughly 75% for at least 1
+mob_drop_chance: 1 # chance multiplier, 50% drop become 100%
+generic_drop_rate: 1 # map/generic drops, should stay 1 and adjust them directly
+generic_drop_chance: 1 # map/generic drops, should stay 1 and adjust them directly
+# quest rates are in separate file
+gold_rate: 6 # gold amount multiplier
+gold_drop_rate: 1 # gold drop tries
+gold_drop_chance: 1 # gold drop chance multiplier, base is 50%

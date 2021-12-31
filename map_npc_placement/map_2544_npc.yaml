@@ -1,0 +1,21 @@
+map_id: 2544
+npcs:
+- map_npc_id: 13106
+  vnum: 822
+  pos_x: 11
+  pos_y: 11
+  effect_delay: 4750
+  dialog_id: 509
+  direction_facing: 6
+  can_move: true
+- map_npc_id: 13107
+  vnum: 1504
+  pos_x: 11
+  pos_y: 31
+  effect_delay: 4750
+  dialog_id: 463
+  direction_facing: 6
+  item_shop:
+    name: "Captain Jack"
+    shop_type: 49
+    tabs: []

@@ -1,0 +1,5 @@
+item_vnum: 1903
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4055   # Tarot Card (The Sun)
+  quantity:  1

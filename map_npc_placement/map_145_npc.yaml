@@ -1,0 +1,69 @@
+map_id: 145
+npcs:
+- map_npc_id: 8892
+  vnum: 540
+  pos_x: 48
+  pos_y: 41
+  effect_delay: 4750
+  dialog_id: 426
+  direction_facing: 2
+  item_shop:
+    name: "Ticket Booth"
+    tabs: []
+- map_npc_id: 8893
+  vnum: 613
+  pos_x: 70
+  pos_y: 39
+  effect_delay: 4750
+  dialog_id: 428
+  direction_facing: 3
+  item_shop:
+    name: "Power of Protection"
+    shop_type: 30
+    tabs:
+    - items:
+      - item_vnum: 1624
+      - item_vnum: 1625
+      - item_vnum: 1626
+      - item_vnum: 1627
+- map_npc_id: 8894
+  vnum: 793
+  pos_x: 70
+  pos_y: 44
+  effect_delay: 4750
+  dialog_id: 460
+  direction_facing: 3
+  item_shop:
+    name: "NosBazar"
+    shop_type: 45
+    tabs: []
+- map_npc_id: 8895
+  vnum: 955
+  pos_x: 59
+  pos_y: 124
+  effect_vnum: 857
+  effect_delay: 4750
+  dialog_id: 441
+  direction_facing: 2
+  item_shop:
+    name: "Warp Tower"
+    tabs: []
+- map_npc_id: 8896
+  vnum: 1351
+  pos_x: 48
+  pos_y: 44
+  dialog_id: 445
+  direction_facing: 1
+  item_shop:
+    name: "Mortaz-Transport"
+    tabs: []
+- map_npc_id: 8897
+  vnum: 534
+  pos_x: 59
+  pos_y: 167
+  effect_delay: 4750
+  dialog_id: 418
+  item_shop:
+    name: "Benito Butler"
+    shop_type: 42
+    tabs: [] # fuck the fireworks.

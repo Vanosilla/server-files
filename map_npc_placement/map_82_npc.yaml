@@ -1,0 +1,16 @@
+map_id: 82
+npcs:
+- map_npc_id: 6842
+  vnum: 899
+  pos_x: 111
+  pos_y: 37
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 6843
+  vnum: 899
+  pos_x: 111
+  pos_y: 63
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2

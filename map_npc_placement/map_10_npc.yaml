@@ -1,0 +1,30 @@
+map_id: 10
+npcs:
+- map_npc_id: 3209
+  vnum: 866
+  pos_x: 4
+  pos_y: 99
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 3210
+  vnum: 866
+  pos_x: 4
+  pos_y: 103
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 3211
+  vnum: 866
+  pos_x: 4
+  pos_y: 107
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 3212
+  vnum: 866
+  pos_x: 4
+  pos_y: 111
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2

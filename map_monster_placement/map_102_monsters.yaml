@@ -1,0 +1,7 @@
+map_id: 102
+monsters:
+- map_monster_id: 7362
+  vnum: 927
+  map_x: 8
+  map_y: 9
+  position: 2

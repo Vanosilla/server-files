@@ -1,0 +1,16 @@
+map_id: 181
+npcs:
+- map_npc_id: 10067
+  vnum: 1274
+  pos_x: 186
+  pos_y: 129
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2
+- map_npc_id: 10068
+  vnum: 1274
+  pos_x: 194
+  pos_y: 162
+  effect_delay: 4750
+  dialog_id: 99
+  direction_facing: 2

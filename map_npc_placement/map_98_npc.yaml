@@ -1,0 +1,14 @@
+map_id: 98
+npcs:
+#- map_npc_id: 7207
+#  vnum: 453
+#  pos_x: 5
+#  pos_y: 37
+#  dialog_id: 20
+#  direction_facing: 2
+- map_npc_id: 7208
+  vnum: 916
+  pos_x: 30
+  pos_y: 41
+  dialog_id: 99
+  direction_facing: 2

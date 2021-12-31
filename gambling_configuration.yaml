@@ -1,0 +1,44 @@
+# Configuration related to equipment gambling rarity
+
+gambling_success:
+- from_rarity: -2
+  success_chance: 10000
+- from_rarity: -1
+  success_chance: 10000
+- from_rarity: 0
+  success_chance: 6000
+- from_rarity: 1
+  success_chance: 5000
+- from_rarity: 2
+  success_chance: 3000
+- from_rarity: 3
+  success_chance: 2500
+- from_rarity: 4
+  success_chance: 1750
+- from_rarity: 5
+  success_chance: 1000
+- from_rarity: 6
+  success_chance: 300
+- from_rarity: 7
+  success_chance: 0 # 100
+#- from_rarity: 8
+#  success_chance: 0 # should not allow r8 gambling anyway
+gambling_rarities:
+- rarity: 1
+  chance: 3000
+- rarity: 2
+  chance: 2500
+- rarity: 3
+  chance: 2000
+- rarity: 4
+  chance: 1600 # 1500
+- rarity: 5
+  chance: 500
+- rarity: 6
+  chance: 300
+- rarity: 7
+  chance: 100
+#- rarity: 8
+#  chance: 100
+gold_price: 500
+cella_used: 5

@@ -1,0 +1,5 @@
+item_vnum: 1900
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4052   # Tarot Card (The Tower)
+  quantity:  1

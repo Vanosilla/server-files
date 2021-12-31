@@ -1,0 +1,797 @@
+#only these NPCs below are different from normal parsed NPCs
+#items with #B at the beginning of their line are meant to be added after the BETA, because they require cmodding
+
+#Shoptype (shop_type) icon list from shoptype.dat translated from Korean to English (google translate cuz its too much):
+#1 - Mimi Mentor
+#2 - Calvin
+#3 - Teoman Topp
+#4 - Teodor Topp
+#5 - Soraya Style
+#6 - Eva Energy
+#7 - Malcolm Mix
+#8 - Kurkarben
+#9 - A hard-core miner
+#10 - The strongest miner
+#11 - Marie Luxury Shop
+#12 - Second Skill Shop
+#13 - For protective scrolls
+#14 - For card-enhanced scrolling
+#15 - Arnold Martin - Weapons Store
+#16 - Isaac Martin - Armor Shop
+#17 - Noel Rosa - Miscellaneous imagination point
+#18 - Philips Ryan - Alchemist
+#19 - Alice Green - granting an option
+#20 - Margaret Aunt - Food Sales
+#21 - Edward Albert - Miniland Related
+#22 - Alfred Sisley - Skill related
+#23 - Hamil Ice's The Sheets - Wizard of the Hail
+#24 - Amelia Bellwood - Ice shop
+#25 - Frozen Server - Temporary Store
+#26 - For New Protection Scrolls
+#27 - New Lower Card Enhancement Scroll
+#28 - New Greater Card Enhancement Scroll
+#29 - Wanderer Sam (Slugg)
+#30 - Nostale_SE Lucas Frost Well Store
+#31 - Nostale_Act5 Archaeological artifacts
+#32 - Nostale_Act5 Archaeological artifacts
+#33 - Nostale_Act5 Archaeological artifacts
+#34 - Nostale_Act5 Archaeological artifacts
+#35 - Nostale_Act5 Restaurant
+#36 - Nostale_Act5 Blacksmith
+#37 - Nostale_Act5 Magic Supply Store
+#38 - Nostale_Act5 Skill Shop
+#39 - Nostale_Act5 Accessories Shop
+#40 - Nostale_Act5 Tinker
+#42 - Nostale_SE Hippopotamus the hippopotamus
+#44 - Nostale_SE Layla
+#45 - Nostale_SE Consignment Sales Manager
+#46 - Nostale_SE investigator Mohammed
+#47 - Enhanced Scrolling Card (Event)
+#48 - Family Function Manager
+#49 - Captain Jax Flanon
+#50 - Pajama Card Strengthening Scroll (Event)
+#51 - Zaragoza card reinforced scroll
+#52 - The Great Wizard Khan
+#53 - Winnie the Snow Fairy
+#54 - Blue Merge Meter
+#55 - Suspicious glaciers
+#56 - Battle Tags Arena
+#57 - The Golden Lion Arena
+#58 - Arena Sergeant
+#59 - Collector Akon
+#60 - Reinforced Captain Costume Card
+#61 - Golden Equipment Protection Scroll
+#62 - Sarah Kael
+#63 - Relief
+#64 - New Specialist Card Carrier
+#65 - First son of Park Shin
+#66 - Park's second son
+#67 - Third son of Park Shin
+#68 - A passing traveler
+#69 - The Suspicious Tiger
+#70 - Yonggung Corporation
+#71 - Suspicious organization
+#72 - Fame Reputation
+#73 - Feeding the Felice Order
+#74 - Felicite Order Conversion
+#75 - Awakened Zenas Egg
+#76 - Awakened Erenia Egg
+#77 - Awakened Fernon Egg
+#78 - Mystic Ticket Conversion (unused)
+#79 - Costume Merge
+#80 - Acorn Exchange
+#81 - Banks
+#82 - Rainbow Shop
+
+map_id: 1
+npcs:
+#- map_npc_id: 1250
+#  vnum: 2540
+#  pos_x: 81
+#  pos_y: 116
+#  dialog_id: 9714
+#  can_move: true
+- map_npc_id: 1854
+  vnum: 320
+  pos_x: 109
+  pos_y: 34
+  dialog_id: 300
+- map_npc_id: 1855
+  vnum: 320
+  pos_x: 39
+  pos_y: 44
+  dialog_id: 302
+  direction_facing: 4
+- map_npc_id: 1856
+  vnum: 321
+  pos_x: 123
+  pos_y: 171
+  dialog_id: 305
+  direction_facing: 4
+- map_npc_id: 1857
+  vnum: 322
+  pos_x: 28
+  pos_y: 129
+  direction_facing: 2
+- map_npc_id: 1858
+  vnum: 322
+  pos_x: 36
+  pos_y: 131
+  direction_facing: 7
+- map_npc_id: 1859
+  vnum: 322
+  pos_x: 51
+  pos_y: 145
+  direction_facing: 2
+- map_npc_id: 1860
+  vnum: 322
+  pos_x: 63
+  pos_y: 152
+  direction_facing: 7
+- map_npc_id: 1861
+  vnum: 322
+  pos_x: 117
+  pos_y: 30
+  dialog_id: 303
+- map_npc_id: 1862
+  vnum: 322
+  pos_x: 47
+  pos_y: 43
+  dialog_id: 301
+  direction_facing: 4
+- map_npc_id: 1863
+  vnum: 334
+  pos_x: 29
+  pos_y: 109
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1864
+  vnum: 334
+  pos_x: 30
+  pos_y: 114
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1865
+  vnum: 334
+  pos_x: 41
+  pos_y: 58
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1866
+  vnum: 334
+  pos_x: 40
+  pos_y: 100
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1867
+  vnum: 334
+  pos_x: 50
+  pos_y: 108
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1868
+  vnum: 334
+  pos_x: 48
+  pos_y: 120
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1869
+  vnum: 334
+  pos_x: 54
+  pos_y: 59
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1870
+  vnum: 334
+  pos_x: 64
+  pos_y: 61
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1871
+  vnum: 334
+  pos_x: 66
+  pos_y: 139
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1872
+  vnum: 334
+  pos_x: 80
+  pos_y: 147
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1873
+  vnum: 334
+  pos_x: 78
+  pos_y: 55
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1874
+  vnum: 334
+  pos_x: 94
+  pos_y: 57
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1875
+  vnum: 334
+  pos_x: 109
+  pos_y: 148
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1876
+  vnum: 334
+  pos_x: 118
+  pos_y: 77
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1877
+  vnum: 334
+  pos_x: 117
+  pos_y: 151
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1878
+  vnum: 334
+  pos_x: 125
+  pos_y: 35
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1879
+  vnum: 334
+  pos_x: 128
+  pos_y: 45
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1880
+  vnum: 334
+  pos_x: 136
+  pos_y: 73
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1881
+  vnum: 334
+  pos_x: 135
+  pos_y: 101
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1882
+  vnum: 334
+  pos_x: 134
+  pos_y: 116
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1883
+  vnum: 334
+  pos_x: 143
+  pos_y: 26
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1884
+  vnum: 334
+  pos_x: 152
+  pos_y: 16
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1885
+  vnum: 334
+  pos_x: 149
+  pos_y: 23
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1886
+  vnum: 334
+  pos_x: 152
+  pos_y: 14
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1887
+  vnum: 334
+  pos_x: 156
+  pos_y: 23
+  direction_facing: 2
+  can_move: true
+- map_npc_id: 1888
+  vnum: 350
+  pos_x: 85
+  pos_y: 41
+  dialog_id: 99
+- map_npc_id: 1889
+  vnum: 351
+  pos_x: 78
+  pos_y: 42
+  dialog_id: 99
+  direction_facing: 5
+- map_npc_id: 1890
+  vnum: 379
+  pos_x: 113
+  pos_y: 171
+  dialog_id: 99
+- map_npc_id: 1891
+  vnum: 939
+  pos_x: 81
+  pos_y: 58
+  dialog_id: 1
+  direction_facing: 2
+- map_npc_id: 1892
+  vnum: 301
+  pos_x: 30
+  pos_y: 71
+  dialog_id: 1
+  quest_dialog_id: 53
+  item_shop:
+    name: "Armor Shop"
+    shop_type: 3
+    tabs:
+    - shop_tab_id: 10
+      items:
+      - item_vnum: 2
+      - item_vnum: 4
+      - item_vnum: 9
+      - item_vnum: 18
+      - item_vnum: 32
+      - item_vnum: 46
+      - item_vnum: 19
+      - item_vnum: 21
+      - item_vnum: 23
+      - item_vnum: 25
+      - item_vnum: 69
+      - item_vnum: 73
+      - item_vnum: 75
+      - item_vnum: 77
+      - item_vnum: 33
+      - item_vnum: 35
+      - item_vnum: 37
+      - item_vnum: 39
+      - item_vnum: 79
+      - item_vnum: 81
+      - item_vnum: 83
+      - item_vnum: 85
+      - item_vnum: 47
+      - item_vnum: 49
+      - item_vnum: 51
+      - item_vnum: 53
+      - item_vnum: 87
+      - item_vnum: 89
+      - item_vnum: 91
+      - item_vnum: 93
+    - shop_tab_id: 11
+      items:
+      - item_vnum: 13
+      - item_vnum: 15
+      - item_vnum: 120
+      - item_vnum: 107
+      - item_vnum: 94
+      - item_vnum: 95
+      - item_vnum: 97
+      - item_vnum: 99
+      - item_vnum: 108
+      - item_vnum: 110
+      - item_vnum: 112
+      - item_vnum: 121
+      - item_vnum: 123
+      - item_vnum: 125
+    - shop_tab_id: 12
+      items:
+      - item_vnum: 1035
+      - item_vnum: 1039
+      - item_vnum: 1040
+      - item_vnum: 1041
+      - item_vnum: 1073
+      - item_vnum: 1083
+      - item_vnum: 1219
+        price: 100000
+      - item_vnum: 2081
+      - item_vnum: 2082
+      - item_vnum: 2083
+#      - item_vnum: 2084
+      - item_vnum: 71
+      - item_vnum: 72
+      - item_vnum: 60
+      - item_vnum: 61
+      - item_vnum: 62
+      - item_vnum: 63
+      - item_vnum: 64
+      - item_vnum: 65
+      - item_vnum: 700
+      - item_vnum: 701
+      - item_vnum: 703
+      - item_vnum: 705
+      - item_vnum: 708
+      - item_vnum: 710
+      - item_vnum: 712
+- map_npc_id: 1893
+  vnum: 302
+  pos_x: 100
+  pos_y: 47
+  dialog_id: 4
+  direction_facing: 7
+  skill_shop:
+    name: "Skill Teacher"
+    menu_type: 1
+    shop_type: 2
+    tabs:
+    - items:
+      - skill_vnum: 20
+      - skill_vnum: 24
+      - skill_vnum: 28
+      - skill_vnum: 36
+      - skill_vnum: 40
+      - skill_vnum: 44
+      - skill_vnum: 48
+      - skill_vnum: 52
+      - skill_vnum: 56
+    - shop_tab_id: 1
+      items:
+# Adventurer skills
+      - skill_vnum: 200 # Swing
+      - skill_vnum: 301 # Strengthen Swing
+      - skill_vnum: 201 # Slingshot
+      - skill_vnum: 302 # Strengthen Slingshot
+      - skill_vnum: 202 # Strong Hit
+      - skill_vnum: 300 # Devious Strike
+      - skill_vnum: 203 # Slingshot
+      - skill_vnum: 303 # Increased Attack Power
+      - skill_vnum: 204 # Spinning Hit
+      - skill_vnum: 304 # Increased Attack Power
+      - skill_vnum: 205 # Beat-Up
+      - skill_vnum: 305 # Extra Bleeding
+      - skill_vnum: 206 # Battle Cry
+      - skill_vnum: 207 # Shout of Morale
+      - skill_vnum: 208 # Charged Attack
+      - skill_vnum: 210 # Energy Bolt
+      - skill_vnum: 306 # Powerful Energy Bolt
+      - skill_vnum: 209 # Capture (Adventurer)
+# Swordsman skills
+      - skill_vnum: 220 # Basic Slash
+      - skill_vnum: 221 # Crossbow Shot
+      - skill_vnum: 222 # Hit of Rage
+      - skill_vnum: 223 # Counterstrike
+      - skill_vnum: 224 # Sword Energy
+      - skill_vnum: 225 # Star Attack
+      - skill_vnum: 226 # Earth Wave
+      - skill_vnum: 227 # Blow Wield
+      - skill_vnum: 228 # Double Attack
+      - skill_vnum: 229 # Dynamic Shot
+      - skill_vnum: 230 # Taunting Shot
+      - skill_vnum: 231 # Charge Power
+      - skill_vnum: 232 # Blood Oath
+      - skill_vnum: 233 # Suppress
+      - skill_vnum: 234 # Dash Attack
+      - skill_vnum: 238 # Stop Bleeding
+      - skill_vnum: 235 # Capture (Swordsman)
+# Archer skills
+      - skill_vnum: 240 # Archery
+      - skill_vnum: 241 # Dagger Stab
+      - skill_vnum: 242 # Elaborate Shot
+      - skill_vnum: 243 # Concentrated Shot
+      - skill_vnum: 244 # Piercing Shot
+      - skill_vnum: 245 # Target Legs
+      - skill_vnum: 246 # Jump Shot
+      - skill_vnum: 247 # Fast Shot
+      - skill_vnum: 248 # Rain of Arrows
+      - skill_vnum: 249 # Short Stab
+      - skill_vnum: 251 # Turning Count
+      - skill_vnum: 252 # Death Charge
+      - skill_vnum: 253 # Haste
+      - skill_vnum: 254 # Ritual of Hawk
+      - skill_vnum: 255 # Detoxification Ritual
+      - skill_vnum: 236 # Capture (Archer)
+# Mage skills
+      - skill_vnum: 260 # Energy Bolt
+      - skill_vnum: 261 # Magic Shot
+      - skill_vnum: 262 # Fire Bolt
+      - skill_vnum: 263 # Ice Bolt
+      - skill_vnum: 264 # Magic Missile
+      - skill_vnum: 265 # Stone Cubic
+      - skill_vnum: 266 # Fire Column
+      - skill_vnum: 267 # Tornado
+      - skill_vnum: 268 # Magic Bullet
+      - skill_vnum: 269 # Explosive Magic Bullet
+      - skill_vnum: 270 # Spell Charge
+      - skill_vnum: 271 # Frost Shield
+      - skill_vnum: 272 # Recovery Aura
+      - skill_vnum: 273 # Light of Protection
+      - skill_vnum: 274 # Sleep
+      - skill_vnum: 275 # Red Drain
+      - skill_vnum: 276 # Blind
+      - skill_vnum: 277 # Teleport
+      - skill_vnum: 237 # Capture (Mage)
+#
+- map_npc_id: 1894
+  vnum: 300
+  pos_x: 96
+  pos_y: 65
+  dialog_id: 3
+  quest_dialog_id: 43
+  item_shop:
+    name: "NosVille Information"
+    menu_type: 4
+    shop_type: 1
+    tabs:
+    - items:
+      - item_vnum: 3117
+      - item_vnum: 3118
+      - item_vnum: 3119
+      - item_vnum: 3120
+      - item_vnum: 3113
+      - item_vnum: 3114
+      - item_vnum: 3000
+      - item_vnum: 3002
+      - item_vnum: 3069
+      - item_vnum: 3103
+      - item_vnum: 3001
+      - item_vnum: 3003
+      - item_vnum: 3104
+      - item_vnum: 3004
+      - item_vnum: 3005
+      - item_vnum: 3020
+      - item_vnum: 3021
+      - item_vnum: 3022
+      - item_vnum: 3023
+      - item_vnum: 3028
+      - item_vnum: 3029
+      - item_vnum: 3030
+      - item_vnum: 3031
+      - item_vnum: 3032
+      - item_vnum: 3033
+      - item_vnum: 3034
+      - item_vnum: 3035
+      - item_vnum: 3055
+      - item_vnum: 3086
+      - item_vnum: 3087
+      - item_vnum: 3088
+      - item_vnum: 3089
+      - item_vnum: 3110
+      - item_vnum: 3111
+      - item_vnum: 3090
+      - item_vnum: 3091
+      - item_vnum: 3092
+      - item_vnum: 3093
+      - item_vnum: 3094
+      - item_vnum: 3095
+      - item_vnum: 3056
+      - item_vnum: 3098
+      - item_vnum: 3099
+      - item_vnum: 3059
+      - item_vnum: 3063
+      - item_vnum: 3064
+      - item_vnum: 3096
+      - item_vnum: 3097
+      - item_vnum: 3057
+- map_npc_id: 1896
+  vnum: 303
+  pos_x: 24
+  pos_y: 117
+  dialog_id: 10
+  direction_facing: 5
+  item_shop:
+    name: "Fashion Shop"
+    shop_type: 5
+    tabs:
+    - items:
+      - item_vnum: 1047
+      - item_vnum: 200
+      - item_vnum: 201
+      - item_vnum: 500
+      - item_vnum: 504
+      - item_vnum: 505
+      - item_vnum: 506
+      - item_vnum: 511
+      - item_vnum: 512
+      - item_vnum: 513
+      - item_vnum: 519
+      - item_vnum: 520
+      - item_vnum: 521
+      - item_vnum: 2050
+      - item_vnum: 2051
+      - item_vnum: 2052
+      - item_vnum: 2053
+      - item_vnum: 2054
+      - item_vnum: 2055
+      - item_vnum: 2056
+      - item_vnum: 2057
+      - item_vnum: 2058
+- map_npc_id: 1898
+  vnum: 328
+  pos_x: 23
+  pos_y: 65
+  dialog_id: 2
+  quest_dialog_id: 44
+  direction_facing: 1
+  item_shop:
+    name: "Bet shop"
+    shop_type: 4
+    tabs: []
+- map_npc_id: 1899
+  vnum: 330
+  pos_x: 50
+  pos_y: 65
+  dialog_id: 11
+  item_shop:
+    name: "Time Circle"
+    shop_type: 82
+    menu_type: 0
+    tabs: []
+- map_npc_id: 1900
+  vnum: 955
+  pos_x: 67
+  pos_y: 56
+  effect_vnum: 857
+  dialog_id: 439
+  direction_facing: 2
+  item_shop:
+    name: "Teleporter"
+    tabs: []
+- map_npc_id: 1901
+  vnum: 331
+  pos_x: 59
+  pos_y: 86
+  dialog_id: 306
+  quest_dialog_id: 42
+  direction_facing: 2
+  item_shop:
+    name: "Wandering Sam"
+    shop_type: 29
+    menu_type: 4
+    tabs:
+    - items:
+      - item_vnum: 3002
+      - item_vnum: 3069
+- map_npc_id: 1902
+  vnum: 905
+  pos_x: 156
+  pos_y: 5
+  dialog_id: 6567
+  direction_facing: 2
+  item_shop:
+    name: "Wanted List"
+    tabs: []
+- map_npc_id: 1903
+  vnum: 915
+  pos_x: 90
+  pos_y: 45
+  dialog_id: 54
+  item_shop:
+    name: "Ranking"
+    tabs: []
+- map_npc_id: 1904
+  vnum: 1431
+  pos_x: 102
+  pos_y: 70
+  dialog_id: 462
+  direction_facing: 5
+  item_shop:
+    name: "Family Manager"
+    shop_type: 48
+    menu_type: 5
+    tabs:
+    - items:
+      - item_vnum: 9679
+      - item_vnum: 9680
+      - item_vnum: 9681
+      - item_vnum: 9682
+      - item_vnum: 9683
+      - item_vnum: 9684
+      - item_vnum: 9685
+      - item_vnum: 9686
+      - item_vnum: 9687
+      - item_vnum: 9688
+      - item_vnum: 9689
+      - item_vnum: 9690
+      - item_vnum: 9691
+      - item_vnum: 9692
+      - item_vnum: 9693
+      - item_vnum: 9694
+      - item_vnum: 9695
+      - item_vnum: 9696
+      - item_vnum: 9697
+
+#NosVille Market - Eva Energy
+- map_npc_id: 1895
+  vnum: 304
+  pos_x: 23
+  pos_y: 100
+  effect_delay: -1
+  dialog_id: 9
+  direction_facing: 1
+  can_move: false
+  item_shop:
+    name: "NosVille Market"
+    shop_type: 6
+    menu_type: 0
+    tabs:
+    - shop_tab_id: 0
+      items:
+      - item_vnum: 1084 #small ML sign
+        price: 3000
+      - item_vnum: 1085 #big ML sign
+        price: 5000
+#      - item_vnum: 1375 #small campfire
+#        price: 5000
+#      - item_vnum: 1376 #big campfire
+#        price: 10000
+      - item_vnum: 2028 #battle potion
+        price: 300
+      - item_vnum: 2015 #egg&bacon
+        price: 250
+      - item_vnum: 2016 #egg ham sandwich
+        price: 250
+      - item_vnum: 2017 #roasted fish
+        price: 160
+      - item_vnum: 2018 #full meal
+        price: 210
+      - item_vnum: 2019 #beef and drink
+        price: 2500
+      - item_vnum: 2023 #peanuts
+        price: 14
+      - item_vnum: 2024 #crackers
+        price: 30
+      - item_vnum: 2025 #bacon jerky
+        price: 80
+      - item_vnum: 2026 #chocobar
+        price: 160
+      - item_vnum: 2027 #roasted chicken
+        price: 160
+      - item_vnum: 2119 #salt
+        price: 120
+      - item_vnum: 2123 #oil
+        price: 80
+      - item_vnum: 2124 #eggs and cheese
+        price: 50
+      - item_vnum: 2125 #mixed spices
+        price: 480
+      - item_vnum: 2295 #spices
+        price: 750
+
+#========================================================
+#Alchemy Association - Malcolm Mix
+- map_npc_id: 1897
+  vnum: 305
+  pos_x: 20
+  pos_y: 108
+  effect_delay: 4750
+  dialog_id: 6
+  direction_facing: 1
+  can_move: false
+  item_shop:
+    name: "Alchemy Association"
+    shop_type: 7
+    menu_type: 0
+    tabs:
+    - shop_tab_id: 0
+      items:
+      - item_vnum: 1036 #soulgem enricher
+        price: 500
+      - item_vnum: 1037 #cellon enricher
+        price: 500
+      - item_vnum: 1038 #crystal enricher
+        price: 500
+      - item_vnum: 2070 #return wings
+        price: 300
+      - item_vnum: 2071 #return amulet
+        price: 600
+      - item_vnum: 2085 #healing leaf
+        price: 680
+      - item_vnum: 2086 #poisonous leaf
+        price: 230
+      - item_vnum: 2087 #bandage
+        price: 1200
+      - item_vnum: 2098 #herbs
+        price: 100
+      - item_vnum: 2130 #hair potion
+        price: 1000
+      - item_vnum: 2170 #raid team summon stone
+        price: 25000
+      - item_vnum: 331 #hellhound necklace (quest)
+        price: 12000
+      - item_vnum: 1176 #innocent stick (quest)
+        price: 5000
+      - item_vnum: 1191 #light stone (quest)
+        price: 9000
+      - item_vnum: 1192 #dark stone (quest)
+        price: 9000
+      - item_vnum: 1193 #water stone (quest)
+        price: 9000
+      - item_vnum: 1194 #fire stone (quest)
+        price: 9000
+      - item_vnum: 347 #red mask (quest)
+        price: 120

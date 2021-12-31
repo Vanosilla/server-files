@@ -1,0 +1,53 @@
+# Configuration related to Rainbow Battle
+
+map_id: 2010
+warnings:
+- 00:00:00 # In 5 minutes
+- 00:02:00 # In 3 minutes
+- 00:04:00 # In 1 minute
+- 00:04:30 # In 30 seconds
+- 00:04:50 # In 10 seconds
+minimum_players: 6
+maximum_players: 30
+seconds_being_frozen: 20
+delay_between_capture: 10
+red_start_x: 0
+red_end_x: 1
+red_start_y: 25
+red_end_y: 50
+blue_start_x: 117
+blue_end_x: 118
+blue_start_y: 27
+blue_end_y: 57
+unfreeze_activity_points: 100
+capture_activity_points: 350
+using_skill_activity_points: 40
+walking_activity_points: 150    # every 59s checks if player moved in the last 59s, total of 7 times
+kill_activity_points: 200
+death_activity_points: 75
+needed_activity_points: 1300
+level_range:
+- minimum: 30
+  maximum: 50
+- minimum: 51
+  maximum: 80
+- minimum: 81
+  maximum: 99
+main_flags:
+- x: 59
+  y: 40
+medium_flags:
+- x: 74
+  y: 53
+- x: 43
+  y: 26
+- x: 32
+  y: 75
+- x: 85
+  y: 4
+small_flags:
+- x: 15
+  y: 40
+- x: 102
+  y: 39
+reputation_multiplier: 15

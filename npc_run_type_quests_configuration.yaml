@@ -1,0 +1,34 @@
+# Configuration related to possible quests by NPC
+
+- npc_run_type: DAILY_MISSION_TAROT
+  possible_quests:
+  - 2251
+  - 2252
+  - 2253
+  - 2254
+  - 2255
+- npc_run_type: ICY_FLOWERS_MISSION
+  possible_quests:
+  - 5514
+- npc_run_type: HEAT_POTION_MISSION
+  possible_quests:
+  - 5517
+  - 5914
+- npc_run_type: JOHN_MISSION
+  possible_quests:
+  - 5515
+  - 5905
+  - 5906
+  - 5908
+- npc_run_type: AKAMUR_MISSION
+  possible_quests:
+  - 5519
+  - 5910
+  - 5911
+  - 5912
+  - 5916
+  - 5917
+  - 5918
+  - 5919
+  - 5920
+  - 5921

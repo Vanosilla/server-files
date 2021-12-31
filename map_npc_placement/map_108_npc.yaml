@@ -1,0 +1,28 @@
+map_id: 108
+npcs:
+- map_npc_id: 7388
+  vnum: 454
+  pos_x: 12
+  pos_y: 6
+  dialog_id: 25
+  direction_facing: 2
+- map_npc_id: 7389
+  vnum: 455
+  pos_x: 6
+  pos_y: 6
+  dialog_id: 20007
+  quest_dialog_id: 55
+  direction_facing: 2
+  item_shop:
+    name: "Forestore"
+    shop_type: 251
+    menu_type: 0
+    tabs:
+    - shop_tab_id: 0
+      items:
+      - item_vnum: 2122 #Citric Acid
+        price: 300
+      - item_vnum: 2296 #Water
+        price: 500
+      - item_vnum: 2133 #Luxurious Pasta
+        price: 1000

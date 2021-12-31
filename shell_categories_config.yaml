@@ -1,0 +1,184 @@
+# Configuration related to shells category
+
+- effect_category: CNormalWeapon
+  possible_effects:
+  - DamageImproved
+  - MinorBleeding
+  - Blackout
+  - DamageIncreasedPlant
+  - DamageIncreasedAnimal
+  - DamageIncreasedEnemy
+  - CriticalChance
+  - CriticalDamage
+  - AntiMagicDisorder
+  - ReducedMPConsume
+- effect_category: BNormalWeapon
+  possible_effects:
+  - DamageImproved
+  - Bleeding
+  - Freeze
+  - DamageIncreasedPlant
+  - DamageIncreasedAnimal
+  - DamageIncreasedEnemy
+  - DamageIncreasedUnDead
+  - DamageIncreasedSmallMonster
+  - IncreasedFireProperties
+  - IncreasedWaterProperties
+  - IncreasedLightProperties
+  - IncreasedDarkProperties
+  - ReducedMPConsume
+  - HPRecoveryForKilling
+  - MPRecoveryForKilling
+  - SLDamage
+  - SLDefence
+  - SLElement
+  - SLHP
+- effect_category: ANormalWeapon
+  possible_effects:
+  - DamageImproved
+  - HeavyBleeding
+  - DeadlyBlackout
+  - DamageIncreasedUnDead
+  - DamageIncreasedSmallMonster
+  - IncreasedFireProperties
+  - IncreasedWaterProperties
+  - IncreasedLightProperties
+  - IncreasedDarkProperties
+  - HPRecoveryForKilling
+  - MPRecoveryForKilling
+  - SLDamage
+  - SLDefence
+  - SLElement
+  - SLHP
+- effect_category: SNormalWeapon
+  possible_effects:
+  - PercentageTotalDamage
+  - DamageIncreasedBigMonster
+  - IncreasedElementalProperties
+  - SLGlobal
+- effect_category: CBonusWeapon
+  possible_effects:
+  - GainMoreGold
+- effect_category: BBonusWeapon
+  possible_effects:
+  - GainMoreGold
+  - GainMoreXP
+- effect_category: ABonusWeapon
+  possible_effects:
+  - GainMoreGold
+  - GainMoreXP
+  - GainMoreCXP
+- effect_category: CPvPWeapon
+  possible_effects:
+  - PercentageDamageInPVP
+  - ReducesPercentageEnemyDefenceInPVP
+  - PVPDamageAt15Percent
+  - ReducesEnemyMPInPVP
+- effect_category: BPvPWeapon
+  possible_effects:
+  - PercentageDamageInPVP
+  - ReducesPercentageEnemyDefenceInPVP
+  - ReducesEnemyFireResistanceInPVP
+  - ReducesEnemyWaterResistanceInPVP
+  - ReducesEnemyLightResistanceInPVP
+  - ReducesEnemyDarkResistanceInPVP
+  - ReducesEnemyMPInPVP
+- effect_category: APvPWeapon
+  possible_effects:
+  - PercentageDamageInPVP
+  - ReducesPercentageEnemyDefenceInPVP
+  - ReducesEnemyFireResistanceInPVP
+  - ReducesEnemyWaterResistanceInPVP
+  - ReducesEnemyLightResistanceInPVP
+  - ReducesEnemyDarkResistanceInPVP
+  - ReducesEnemyMPInPVP
+- effect_category: SPvPWeapon
+  possible_effects:
+  - PercentageDamageInPVP
+  - ReducesPercentageEnemyDefenceInPVP
+  - ReducesEnemyAllResistancesInPVP
+#=================================
+- effect_category: CNormalArmor
+  possible_effects:
+  - CloseDefence
+  - DistanceDefence
+  - MagicDefence
+  - ReducedMinorBleeding
+  - ReducedStun
+  - ReducedBlind
+  - ReducedShock
+  - ReducedPoisonParalysis
+  - RecovryHPOnRest
+  - RecoveryMPOnRest
+  - ReducedCritChanceRecive
+- effect_category: BNormalArmor
+  possible_effects:
+  - CloseDefence
+  - DistanceDefence
+  - MagicDefence
+  - ReducedBleedingAndMinorBleeding
+  - ReducedAllStun
+  - ReducedParalysis
+  - ReducedFreeze
+  - ReducedBlind
+  - ReducedSlow
+  - ReducedArmorDeBuff
+  - RecovryHPOnRest
+  - RecoveryMPOnRest
+  - ReducedCritChanceRecive
+  - IncreasedFireResistance
+  - IncreasedWaterResistance
+  - IncreasedLightResistance
+  - IncreasedDarkResistance
+- effect_category: ANormalArmor
+  possible_effects:
+  - CloseDefence
+  - DistanceDefence
+  - MagicDefence
+  - ReducedAllBleedingType
+  - ReducedAllStun
+  - ReducedParalysis
+  - ReducedFreeze
+  - RevoryHP
+  - RecoveryMP
+  - IncreasedFireResistance
+  - IncreasedWaterResistance
+  - IncreasedLightResistance
+  - IncreasedDarkResistance
+- effect_category: SNormalArmor
+  possible_effects:
+  - PercentageTotalDefence
+  - ReducedAllNegativeEffect
+  - RecoveryHPInDefence
+  - IncreasedAllResistance
+- effect_category: CBonusArmor
+  possible_effects:
+  - ReducedPrideLoss
+  - ReducedProductionPointConsumed
+- effect_category: BBonusArmor
+  possible_effects:
+  - ReducedProductionPointConsumed
+  - IncreasedProductionPossibility
+  - IncreasedRecoveryItemSpeed
+- effect_category: ABonusArmor
+  possible_effects:
+  - IncreasedProductionPossibility
+  - IncreasedRecoveryItemSpeed
+- effect_category: CPvPArmor
+  possible_effects:
+  - PercentageAllPVPDefence
+- effect_category: BPvPArmor
+  possible_effects:
+  - CloseDefenceDodgeInPVP
+  - DistanceDefenceDodgeInPVP
+  - PercentageAllPVPDefence
+- effect_category: APvPArmor
+  possible_effects:
+  - PercentageAllPVPDefence
+  - CloseDefenceDodgeInPVP
+  - DistanceDefenceDodgeInPVP
+  - ProtectMPInPVP
+- effect_category: SPvPArmor
+  possible_effects:
+  - PercentageAllPVPDefence
+  - DodgeAllDamage

@@ -1,0 +1,15 @@
+map_id: 148
+npcs:
+- map_npc_id: 9341
+  vnum: 540
+  pos_x: 31
+  pos_y: 28
+  dialog_id: 433
+  direction_facing: 3
+- map_npc_id: 9342
+  vnum: 613
+  pos_x: 8
+  pos_y: 28
+  effect_delay: 4750
+  dialog_id: 434
+  direction_facing: 1

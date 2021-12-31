@@ -1,0 +1,102 @@
+# Configuration related to Relicts in Act 5
+
+- relict_vnum: 1878     # Unknown Relict
+  examination_cost: 10000
+  rolls:
+#==================================================
+  - chance: 50
+    items:
+    - item_vnum: 4034   # Mask of the Elite
+      amount: 1
+#==================================================
+  - chance: 1450
+    items:
+    - item_vnum: 2347   # Broken Relic Piece
+      amount: 1
+#==================================================
+  - chance: 2500
+    items:
+    - item_vnum: 4046   # The Fool
+      amount: 1
+    - item_vnum: 4047   # The Magician
+      amount: 1
+    - item_vnum: 4048   # The Lovers
+      amount: 1
+    - item_vnum: 4049   # The Hermit
+      amount: 1
+    - item_vnum: 4050   # Death
+      amount: 1
+    - item_vnum: 4051   # The Devil
+      amount: 1
+    - item_vnum: 4052   # The Tower
+      amount: 1
+    - item_vnum: 4053   # The Star
+      amount: 1
+    - item_vnum: 4054   # The Moon
+      amount: 1
+    - item_vnum: 4055   # The Sun
+      amount: 1
+#    - item_vnum: 4056   # Lightning Talisman
+#      amount: 1
+#    - item_vnum: 4057   # Wave Talisman
+#      amount: 1
+#    - item_vnum: 4058   # Cloud Talisman
+#      amount: 1
+#    - item_vnum: 4059   # Wind Talisman
+#      amount: 1
+#    - item_vnum: 4060   # Fire Talisman
+#      amount: 1
+#==================================================
+  - chance: 1500
+    items:
+    - item_vnum: 2349   # Sky Blue Gemstone
+      amount: 1
+#==================================================
+  - chance: 5000
+    items:
+    - item_vnum: 2348   # Shiny Violet Gemstone
+      amount: 1
+#==================================================
+#
+#
+#
+#
+#
+- relict_vnum: 1879     # Mysterious Relict
+  examination_cost: 30000
+  rolls:
+#==================================================
+  - chance: 1500    # 15%
+    items:
+    - item_vnum: 1  # Great Commander's Emblem
+      amount: 1
+#==================================================
+  - chance: 2000    # 20%
+    items:
+    - item_vnum: 2357   # Godly Magic Crystal
+      amount: 2
+    - item_vnum: 2360   # Dark Crystal
+      amount: 2
+#==================================================
+  - chance: 2500    # 25%
+    items:
+    - item_vnum: 2358   # Dark Magic Crystal
+      amount: 1
+    - item_vnum: 2359   # Dark Crystal
+      amount: 1
+#==================================================
+  - chance: 4000    # 40%
+    items:
+    - item_vnum: 4038   # Praying Spirit Gloves
+      amount: 1
+    - item_vnum: 4043   # Praying Spirit Shoes
+      amount: 1
+    - item_vnum: 4040   # Sand Spirit Gloves
+      amount: 1
+    - item_vnum: 4045   # Sand Spirit Shoes
+      amount: 1
+    - item_vnum: 4039   # Black Stone Leather Gloves
+      amount: 1
+    - item_vnum: 4044   # Black Stone Leather Shoes
+      amount: 1
+#==================================================

@@ -1,0 +1,9 @@
+map_id: 208
+npcs:
+- map_npc_id: 11200
+  vnum: 2019
+  pos_x: 201
+  pos_y: 24
+  effect_delay: 4750
+  dialog_id: 505
+  direction_facing: 7

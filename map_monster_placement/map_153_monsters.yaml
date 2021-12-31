@@ -1,0 +1,32 @@
+map_id: 153
+monsters:
+- map_monster_id: 27202
+  vnum: 680
+  map_x: 137
+  map_y: 165
+  position: 0
+- map_monster_id: 27203
+  vnum: 680
+  map_x: 131
+  map_y: 166
+  position: 4
+- map_monster_id: 27204
+  vnum: 680
+  map_x: 130
+  map_y: 173
+  position: 3
+- map_monster_id: 27211
+  vnum: 679
+  map_x: 52
+  map_y: 174
+  position: 0
+- map_monster_id: 27212
+  vnum: 679
+  map_x: 46
+  map_y: 164
+  position: 0
+- map_monster_id: 27213
+  vnum: 679
+  map_x: 51
+  map_y: 166
+  position: 0

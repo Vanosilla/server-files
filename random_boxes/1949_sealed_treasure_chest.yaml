@@ -1,0 +1,28 @@
+random_boxes:
+- item_vnum: 1949
+  hide_reward_info: true
+  categories:
+  - chance: 10000  #1 to 10000
+    items:
+    - item_vnum: 1218   # Equipment Protection Scroll
+      quantity:  1
+    - item_vnum: 1428   # Perfume
+      quantity:  10
+    - item_vnum: 1122   # Cylloan Spring Water
+      quantity:  2
+    - item_vnum: 1913   # Halloween Costume Scroll
+      quantity:  2
+    - item_vnum: 1947   # Ice Costume Scroll
+      quantity:  2
+    - item_vnum: 1286   # Ancelloan's Blessing
+      quantity:  1
+    - item_vnum: 2158   # Gourmet Pet Food
+      quantity:  1
+    - item_vnum: 2187   # Special Pet Food
+      quantity:  1
+    - item_vnum: 2160   # Wings of Friendship
+      quantity:  2
+    - item_vnum: 2159   # Partner Medicine
+      quantity:  1
+    - item_vnum: 2173   # Speaker
+      quantity:  20

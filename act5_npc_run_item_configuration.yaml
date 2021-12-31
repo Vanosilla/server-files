@@ -1,0 +1,74 @@
+# Configuration related to Act5 - creating recipes in NPCs
+
+#- npc_run: GLACERUS_SEAL_PRODUCTION
+#  crafted_item: 5512 # Glacerus' Raid Seal
+#  amount: 1
+#  needed_items:
+#  - item: 1012 # Seed of Power
+#    amount: 20
+#  - item: 2307 # Ice Cube
+#    amount: 20
+#  - item: 5911 # Ice Flower
+#    amount: 20
+#- npc_run: GLACERUS_MANE_SP6_PRODUCTION
+#  item_by_class: true
+#  crafted_item: 4496 # 4497 Monk, 4498 Scout, 4499 Tide Lord
+#  amount: 1
+#  needed_items:
+#  - item: 2523 # Glacerus' Mane
+#    amount: 50
+#- npc_run: GLACERUS_MANE_SP6_PERF_STONE_PRODUCTION
+#  crafted_item: 2519 # Sapphire of Perfection
+#  amount: 1
+#  needed_items:
+#  - item: 2523 # Glacerus' Mane
+#    amount: 1
+#- npc_run: DRACO_SEAL_PRODUCTION
+#  crafted_item: 5500 # Lord Draco's Raid Seal
+#  amount: 1
+#  needed_items:
+#  - item: 1012 # Seed of Power
+#    amount: 20
+#  - item: 1027 # Dona River Sand
+#    amount: 20
+#  - item: 113 # Gillion Stones
+#    amount: 20
+#- npc_run: DRACO_CLAW_SP5_PRODUCTION
+#  item_by_class: true
+#  crafted_item: 4499 # 4500 Gladiator, 4501 Fire Can., 4502 Volcano
+#  amount: 1
+#  needed_items:
+#  - item: 2522 # Draco's Claw
+#    amount: 50
+#- npc_run: DRACO_CLAW_SP5_PERF_STON_PRODUCTION
+#  crafted_item: 2518 # Ruby of Completion
+#  amount: 1
+#  needed_items:
+#  - item: 2522 # Draco's Claw
+#    amount: 1
+#- npc_run: GRENIGAS_SEAL_PRODUCTION
+#  crafted_item: 5922 # Grenigas' Raid Seal
+#  amount: 1
+#  needed_items:
+#  - item: 5917 # Left Side of Grenigas' Raid Seal
+#    amount: 1
+#  - item: 5918 # Right Side of Grenigas' Raid Seal
+#    amount: 1
+#- npc_run: ICE_FLOWERS_10_PRODUCTION
+#  crafted_item: 5929 # Ice Flower Oil
+#  amount: 10
+#  needed_items:
+#  - item: 5910 # Akamur Coupon
+#    amount: 5
+- npc_run: MAGIC_CAMEL_PRODUCTION
+  crafted_item: 5914 # Magical Camel
+  amount: 1
+  needed_items:
+  - item: 5910 # Akamur Coupon
+    amount: 90
+- npc_run: MAGIC_CAMEL_BOX_PRODUCTION
+  crafted_item: 5915 # Magical Camel (Quest)
+  amount: 1
+  needed_items:
+  - item: 5910 # Akamur Coupon
+    amount: 300

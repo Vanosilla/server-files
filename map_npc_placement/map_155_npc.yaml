@@ -1,0 +1,8 @@
+map_id: 155
+npcs:
+- map_npc_id: 9834
+  vnum: 1350
+  pos_x: 31
+  pos_y: 28
+  dialog_id: 447
+  direction_facing: 3

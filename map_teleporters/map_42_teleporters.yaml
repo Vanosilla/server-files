@@ -1,0 +1,18 @@
+map_id: 42
+teleporters:
+- map_npc_id: 5415
+  map_x: 137
+  map_y: 86
+  type: 1
+- map_npc_id: 5413
+  map_x: 162
+  map_y: 62
+  type: 1
+- map_npc_id: 5414
+  map_x: 162
+  map_y: 87
+  type: 1
+- map_npc_id: 5416
+  map_x: 138
+  map_y: 114
+  type: 1

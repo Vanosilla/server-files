@@ -1,0 +1,10 @@
+# Configuration related to quests XP/gold rates
+
+# rates should stay 1, quests are adjusted directly
+xp_rate: 1
+job_xp_rate: 1
+hero_xp_rate: 1
+reput_rate: 1
+gold_rate: 1
+base_xp: 1000
+base_gold: 1000

@@ -1,0 +1,19 @@
+item_vnum: 5018
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 1981   # Cupid's Arrow
+  quantity:  1
+- item_vnum: 982    # Wedding Clothes (7 days)
+  quantity: 1
+- item_vnum: 986    # Wedding Hairstyle (7 days)
+  quantity: 1
+- item_vnum: 982    # Wedding Clothes (7 days)
+  quantity: 1
+- item_vnum: 986    # Wedding Hairstyle (7 days)
+  quantity: 1
+- item_vnum: 1984   # Double Firework
+  quantity: 10
+- item_vnum: 1986   # Fountain Firework (Yellow)
+  quantity: 10
+- item_vnum: 1988   # Heart Firework (Red)
+  quantity: 10

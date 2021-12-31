@@ -1,0 +1,9 @@
+map_id: 86
+npcs:
+- map_npc_id: 7138
+  vnum: 949
+  pos_x: 12
+  pos_y: 19
+  effect_delay: 4750
+  dialog_id: 1
+  direction_facing: 2

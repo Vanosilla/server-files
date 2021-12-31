@@ -1,0 +1,152 @@
+# Configuration related to family missions
+
+- mission_id: 9004 # complete 10x rainbow battle
+  value: 10
+  minimum_required_level: 2
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9005 # Win 5x rainbow battle
+  value: 5
+  minimum_required_level: 2
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9006 # defeat 1x family raid boss
+  value: 1
+  minimum_required_level: 2
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9007 # defeat 5x chicken king raid
+  value: 5
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9008 # defeat 5x cuby raid
+  value: 5
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9009 # defeat 5x ginseng raid
+  value: 5
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 1500
+#
+- mission_id: 9010 # defeat 5x Castra raid
+  value: 5
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 1500
+#
+- mission_id: 9011 # defeat 5x Giant Spider raid
+  value: 5
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 2000
+#
+- mission_id: 9012 # defeat 5x Giant Slade raid
+  value: 5
+  minimum_required_level: 2
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 2000
+#
+- mission_id: 9013 # defeat 5x Robber Gang raid
+  value: 5
+  minimum_required_level: 2
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 2000
+#
+- mission_id: 9014 # defeat 5x 5.2 Kertos raid
+  value: 5
+  minimum_required_level: 3
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 2500
+#
+- mission_id: 9015 # defeat 5x 5.2 Valakus raid
+  value: 5
+  minimum_required_level: 3
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 2500
+#
+- mission_id: 9016 # defeat 5x 5.2 Grenigas raid
+  value: 5
+  minimum_required_level: 3
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 3000
+#
+- mission_id: 9017 # defeat 10x instant battle
+  value: 10
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 3000
+#
+- mission_id: 9075 # defeat 1x act4 dungeon boss in less than 10minutes
+  value: 1
+  minimum_required_level: 5
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9076 # defeat 1x act4 dungeon boss without dying
+  value: 1
+  minimum_required_level: 5
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9077 # 10x raid helper
+  value: 10
+  minimum_required_level: 3
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 2500
+#
+- mission_id: 9078 # 10x enemies in act4
+  value: 10
+  minimum_required_level: 2
+  rewards:
+  - family_xp: 1000
+#
+- mission_id: 9079 # 5x namaju raid
+  value: 5
+  minimum_required_level: 3
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 2000
+#
+- mission_id: 9080 # 5x Spirit King
+  value: 5
+  minimum_required_level: 4
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 4500
+#
+- mission_id: 9081 # 5x Beats King raid
+  value: 5
+  minimum_required_level: 4
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 4500
+#
+- mission_id: 9082 # 5x Belial raid
+  value: 5
+  minimum_required_level: 4
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 4500
+#
+- mission_id: 9083 # 5x Paimon raid
+  value: 5
+  minimum_required_level: 4
+  once_per_player_per_day: true
+  rewards:
+  - family_xp: 5000

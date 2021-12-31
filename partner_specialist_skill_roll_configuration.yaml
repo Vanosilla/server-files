@@ -1,0 +1,16 @@
+# Configuration related to Partner Specialist skills rank rates
+
+- chance: 10 # F
+  skill_rank: 1
+- chance: 15 # E
+  skill_rank: 2
+- chance: 30 # D
+  skill_rank: 3
+- chance: 20 # C
+  skill_rank: 4
+- chance: 10 # B
+  skill_rank: 5
+- chance: 5 # A
+  skill_rank: 6
+- chance: 2 # S
+  skill_rank: 7

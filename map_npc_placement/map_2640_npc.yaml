@@ -1,0 +1,9 @@
+map_id: 2640
+npcs:
+- map_npc_id: 15656
+  vnum: 3050
+  pos_x: 36
+  pos_y: 126
+  effect_delay: 4750
+  direction_facing: 0
+  dialog_id: 11023

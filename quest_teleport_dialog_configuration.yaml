@@ -1,0 +1,27 @@
+# Configuration related to quests teleportation
+
+- run_id: 200
+  map_id: 1
+  ask_for_teleport: true
+  position_x: 81
+  position_y: 33
+- run_id: 201
+  map_id: 2
+  ask_for_teleport: true
+  position_x: 72
+  position_y: 15
+- run_id: 202
+  map_id: 3
+  ask_for_teleport: true
+  position_x: 173
+  position_y: 186
+- run_id: 203
+  map_id: 5
+  ask_for_teleport: false
+  position_x: 154
+  position_y: 108
+- run_id: 204
+  map_id: 88
+  ask_for_teleport: false
+  position_x: 10
+  position_y: 11

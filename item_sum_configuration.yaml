@@ -1,0 +1,26 @@
+# Configuration related to sum of boots/gloves
+
+- sum_upgrade: 0
+  gold: 1500
+  river_sand: 5
+  success_chance: 100
+- sum_upgrade: 1
+  gold: 3000
+  river_sand: 10
+  success_chance: 100
+- sum_upgrade: 2
+  gold: 6000
+  river_sand: 15
+  success_chance: 85
+- sum_upgrade: 3
+  gold: 12000
+  river_sand: 20
+  success_chance: 70
+- sum_upgrade: 4
+  gold: 24000
+  river_sand: 25
+  success_chance: 50
+- sum_upgrade: 5
+  gold: 48000
+  river_sand: 30
+  success_chance: 20

@@ -1,0 +1,5 @@
+item_vnum: 5380
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 3116  # Extra Large Warehouse
+  quantity:  1

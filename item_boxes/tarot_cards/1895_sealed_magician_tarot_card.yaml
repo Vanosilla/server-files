@@ -1,0 +1,5 @@
+item_vnum: 1895
+show_raidbox_modal_on_open: false
+items:
+- item_vnum: 4047   # Tarot Card (The Magician)
+  quantity:  1
